@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Sua Marca"
+brand: "Bits And Bytes"
 
 # text below the brand name
 brand_sub_text: "$site_sample"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Seu Nome"
+name: "João Emanuel Monica Rolo"
 
 # home page top header texts
 home:
@@ -48,9 +48,9 @@ meta_common_description: "Descrição Meta."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  #- github: ""
+  - github: "roloje777"
   #- email: ""
-  #- linkedin: ""
+  - linkedin: "roloje777"
   #- twitter: ""
   #- mastodon: ""
   #- instagram: ""
