@@ -41,7 +41,7 @@ img: ":about.png"
 I find all over the place, such as in books, the internet and friends
 and family that share over social media platforms etc.
 
-Over some extended time I build a repository of all these
+Over some extended time I built a repository of all these
 "bits and bytes" and shared over various social platforms with
 family and friends.
 
