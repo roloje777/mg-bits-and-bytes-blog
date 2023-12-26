@@ -4,7 +4,7 @@ layout: about
 lng_pair: id_about
 
 # image for page specific usage
-img: ":about.jpg"
+img: ":about.png"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -37,8 +37,19 @@ img: ":about.jpg"
 ---
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+"Bits and Bytes" is all about interesting bits of information that
+I find all over the place, such as in books, the internet and friends
+and family that share over social media platforms etc.
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+Over some extended time I build a repository of all these
+"bits and bytes" and shared over various social platforms with
+family and friends.
 
-{{ website_info_text_second }}
+Now I decided to create a blog on the web, where anyone can access
+this, myself included.
+
+On a slightly personal note, I recall people saying that I always
+was curious, as I'm sure you are.
+
+> "There he goes getting the encyclopedia to prove his point", I'd hear
+> them saying.😂
