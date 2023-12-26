@@ -2,7 +2,6 @@
 layout: archives
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_archives
-
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
