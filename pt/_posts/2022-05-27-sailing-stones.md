@@ -39,7 +39,7 @@ date: 2022-05-27 11:32:53 +0900
 ---
 
 <div style="position:relative;padding-bottom:56.25%;padding-top:35px;height:0;margin-bottom:2em;overflow:hidden">
-    <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"  src=""https://www.youtube.com/embed/JFFhD5HeByM?si=7CMkKlPuQcE3I1uF" title="YouTube video player"  allowfullscreen>
+    <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"  src="https://www.youtube.com/embed/JFFhD5HeByM?si=7CMkKlPuQcE3I1uF" title="YouTube video player"  allowfullscreen>
     </iframe>
 </div> 
 
