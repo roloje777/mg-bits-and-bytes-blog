@@ -41,7 +41,7 @@ img: ":about.png"
 Encontro em todo lugar, como em livros, na internet e em amigos
 e familiares que compartilham em plataformas de mídia social, etc.
 
-Durante algum tempo, construo um repositório de todos esses
+Durante algum tempo, construí um repositório de todos esses
 "bits e bytes" e compartilhei em diversas plataformas sociais com
 família e amigos.
 
