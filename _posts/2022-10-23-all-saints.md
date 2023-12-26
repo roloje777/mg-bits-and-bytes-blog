@@ -48,14 +48,13 @@ date: 2022-10-23 14:47:12 +0900
 It wasn’t until a man named Martin Luther began to question Catholic teachings in the early 1500s that new fractures in the church structure became visible. Martin Luther became a Catholic priest in 1507. He was a dedicated member of the clergy but began to have serious misgivings with many aspects of official Catholic doctrine. The questions that began to arise in the heart of this lone monk led to him famously nailing his Ninety-five Theses to the doors of All Saints’ Church (sometimes referred to as Castle Church) where he served. On October 31, 1517, about a decade after Luther’s original ordination, he nailed his chief protests to the church doors for all to see. The modern reader will note the date since it has since become associated with Halloween. Back in Luther’s day, it was known as All Saints’ Eve since the following day was November 1, which was (and still is) the Catholic holiday of All Saints’ Day. All Saints’ Day was also called All Hallows’ Day in various quarters, and the night before would have been known as All Hallows’ Eve, from which we get the modern variation of Halloween. But as spooky as all that might sound, Luther, it seems, chose this date for no other reason than the fact that All Saints’ Day (All Hallows’ Day) was when many budding intellectuals of the church would meet. Knowing many people would be there on that day to discuss his treatises, he posted them on the door the day before so everyone would be sure to see them. The posting of these directives was not that unusual, either. Many have likened his posting on the doors to someone posting notes on a bulletin board (or better yet, on Facebook) just to air an opinion. Martin Luther wasn’t trying to do anything all that radical at the time—he was simply opening a dialogue and asking a few questions. Luther never intended to break up the Catholic Church or create opposing factions; he just sought to reform (hence the phrase Reformation) the Catholic Church from within. But little did he know the tidal wave of change he was about to unleash.
 
 [From the book:
-"The Reformation, Captivating History ](
-"https://www.wook.pt/livro/the-reformation-captivating-history/26148097")
+The Reformation, Captivating History ](https://www.wook.pt/livro/the-reformation-captivating-history/26148097)
 
 
 All Saints' Church, commonly referred to as Schlosskirche (Castle Church) to distinguish it from the Stadtkirche (Town Church) of St. Mary's – and sometimes known as the Reformation Memorial Church – is a Lutheran church in Wittenberg, Saxony-Anhalt, Germany. It is the site where, according to Philip Melanchthon, the Ninety-five Theses were posted by Martin Luther in 1517, the act that has been called the start of the Protestant Reformation.
 From 1883 onwards, the church was restored as a memorial site and re-inaugurated on 31 October 1892, 375 years after Luther's posting. Because of its religious significance and testimony to the lasting global effects of the Reformation, the church was inscribed on the UNESCO World Heritage List in 1996 along with other sites in Wittenberg and Eisleben associated with Martin Luther and Philip Melanchthon.
 
-[Wikipedia](" https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg")
+[Wikipedia](https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg)
 
 
 
