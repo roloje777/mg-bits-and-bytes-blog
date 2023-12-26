@@ -11,7 +11,7 @@ category: auto generated
 # multiple tag entries are possible
 tags: [natureza,fenômeno]
 # thumbnail image for post
-img: https://upload.wikimedia.org/wikipedia/commons/c/cb/Death_8_bg_082303.jpg
+img: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Death_8_bg_082303.jpg"
 # disable comments on this page
 comments_disable: true
 
