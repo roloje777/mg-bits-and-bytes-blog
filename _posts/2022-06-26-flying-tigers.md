@@ -7,9 +7,9 @@ title: The Flying Tigers
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: auto generated
+category: History and events
 # multiple tag entries are possible
-tags: [airforce, war, military]
+tags: [war]
 # thumbnail image for post
 img: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hells_Angels%2C_Flying_Tigers_1942.jpg/1280px-Hells_Angels%2C_Flying_Tigers_1942.jpg"
 # disable comments on this page

@@ -7,9 +7,9 @@ title: Nazi billionaires
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: auto generated
+category: People
 # multiple tag entries are possible
-tags: [books, history, war]
+tags: [history, war]
 # thumbnail image for post
 img: "https://m.media-amazon.com/images/I/81bMohdSDzL._SL1500_.jpg"
 # disable comments on this page

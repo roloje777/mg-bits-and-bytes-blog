@@ -1,6 +1,6 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: sailing_stones
+lng_pair: sailing-stones
 title: Sailing Stones
 
 # post specific

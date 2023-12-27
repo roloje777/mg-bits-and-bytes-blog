@@ -7,9 +7,9 @@ title: Bilionários nazistas
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: auto generated
+category: Pessoas
 # multiple tag entries are possible
-tags: [livros, história, guerra]
+tags: [história, guerra]
 # thumbnail image for post
 img: "https://m.media-amazon.com/images/I/81bMohdSDzL._SL1500_.jpg"
 # disable comments on this page

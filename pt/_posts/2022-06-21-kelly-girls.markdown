@@ -7,9 +7,9 @@ title: Kelly Girls
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: auto generated
+category: Atividades humanas
 # multiple tag entries are possible
-tags: [kelly girls, recrutamento]
+tags: [Indústria, Recursos Humanos, recrutamento]
 # thumbnail image for post
 img: "https://www.buffalo.edu/content/dam/www/news/imported/hires/KellyGirls.jpg"
 # disable comments on this page

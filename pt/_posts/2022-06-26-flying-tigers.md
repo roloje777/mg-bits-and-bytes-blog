@@ -1,15 +1,15 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: flying-tigers
-title: The Flying Tigers
+title: Os Flying Tigers
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: auto generated
+category: História e eventos
 # multiple tag entries are possible
-tags: [airforce, war, military]
+tags: [guerra]
 # thumbnail image for post
 img: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hells_Angels%2C_Flying_Tigers_1942.jpg/1280px-Hells_Angels%2C_Flying_Tigers_1942.jpg"
 # disable comments on this page
