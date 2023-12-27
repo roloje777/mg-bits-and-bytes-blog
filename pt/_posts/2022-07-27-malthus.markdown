@@ -1,0 +1,76 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: malthus
+title: Princípio de Malthus
+
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: ""
+# multiple category is not supported
+category: Sociedade e ciências sociais
+# multiple tag entries are possible
+tags: [demografia]
+# thumbnail image for post
+img: "https://upload.wikimedia.org/wikipedia/commons/5/5b/An_Essay_on_the_Principle_of_Population.jpg"
+# disable comments on this page
+comments_disable: true
+
+# publish date
+date: 2022-07-27 11:32:53 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2021-08-10 11:32:53 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
+# image viewer can be enabled or disabled for all posts using the "image_viewer_posts: true" setting in _data/conf/main.yml.
+#image_viewer_on: true
+# please use the "image_lazy_loader_on" below to enable image lazy loader for individual pages or posts (_posts/ or [language]/_posts folders).
+# image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+# published: false
+---
+
+<div style="position:relative;padding-bottom:56.25%;padding-top:35px;height:0;margin-bottom:2em;overflow:hidden">
+    <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"  src="https://www.youtube.com/embed/q93CgZlDXgo?si=62p-ISrGncpXL4o-" title="YouTube video player"  allowfullscreen>
+    </iframe>
+</div>
+> E fomos contados.... seguindo o princípio de Malthus.
+>
+> Crescimento populacional versus oferta/crescimento alimentar...
+>
+> este é o motivo do censo?
+>
+> fome, doenças, guerra, prevenção... estamos vivendo isso? ....
+
+O livro Um Ensaio sobre o Princípio da População foi publicado anonimamente pela primeira vez em 1798, mas o autor logo foi identificado como Thomas Robert Malthus.
+O livro alertava para dificuldades futuras, numa interpretação da população aumentando em progressão geométrica (de modo a duplicar a cada 25 anos) enquanto a produção de alimentos aumentava numa progressão aritmética, o que deixaria uma diferença resultando na falta de alimentos e na fome, a menos que as taxas de natalidade diminuíram.
+
+Embora não tenha sido o primeiro livro sobre população, o livro de Malthus alimentou o debate sobre o tamanho da população na Grã-Bretanha e contribuiu para a aprovação da Lei do Censo de 1800.
+Esta lei permitiu a realização de um censo nacional em Inglaterra, País de Gales e Escócia, começando em 1801 e continuando a cada dez anos até ao presente.
+
+Uma parte importante do livro foi dedicada ao que hoje é conhecido como Lei Malthusiana da População.
+A teoria afirma que as taxas populacionais crescentes contribuem para um aumento da oferta de mão-de-obra e inevitavelmente reduzem os salários.
+Em essência, Malthus temia que o crescimento populacional contínuo se prestasse à pobreza.
+
+[Wikipedia](https://en.wikipedia.org/wiki/An_Essay_on_the_Principle_of_Population)
+
+## Population Resource Center recebe um presente de US$ 1 milhão de Bill e Melinda Gates
+
+A saúde global continua a ser o factor determinante que afecta as condições sociais e económicas no país e no estrangeiro. A urbanização, a crescente participação da força de trabalho e o desenvolvimento económico são todos afectados pela dinâmica populacional.
+Mais de 80 bilhões de pessoas serão acrescentadas ao mundo em 1999.
+Embora a Europa, o Japão e os Estados Unidos tenham um crescimento populacional muito lento, o resto do mundo continua a crescer a taxas elevadas. O número de cidades no mundo em desenvolvimento com mais de um milhão de habitantes aumentará de 173 para 368 até o ano 2010.
+
+Nos últimos 30 anos, uma das principais razões para as elevadas taxas de crescimento populacional em todo o mundo tem sido o notável progresso na melhoria da saúde e do bem-estar das pessoas. O projecto das Nações Unidas de que o mundo atingirá 6 mil milhões de pessoas em Outubro de 1999. Algumas das consequências deste crescimento são o aumento da migração internacional, a rápida propagação da SIDA no mundo em desenvolvimento, o aumento da urbanização resultando em pressão sobre os sistemas de saúde pública, e a propagação contínua da malária.
+
+O Centro de Recursos Populacionais é uma organização sem fins lucrativos dedicada ao desenvolvimento de políticas públicas sólidas, promovendo o uso de dados populacionais precisos e sua análise no processo de tomada de decisão.
+O Population Resource Center de Washington, D.C. trabalha com importantes acadêmicos e outros especialistas há mais de 25 anos para servir como uma ponte entre a comunidade das ciências sociais e o mundo das políticas públicas.
+
+[Fundação Bill e Milinda Gates](https://www.gatesfoundation.org/ideas/media-center/press-releases/1999/08/population-resource-center)

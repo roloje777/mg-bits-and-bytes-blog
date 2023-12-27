@@ -7,9 +7,9 @@ title: Xanadu
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: auto generated
+category: Tecnologia e ciências aplicadas
 # multiple tag entries are possible
-tags: [casa]
+tags: [engenharia]
 # thumbnail image for post
 img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Xanadu-House-in-Kissimmee-Florida-1990.jpg/1536px-Xanadu-House-in-Kissimmee-Florida-1990.jpg"
 # disable comments on this page

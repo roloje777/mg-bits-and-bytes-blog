@@ -7,9 +7,9 @@ title: Pedras de vela
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: auto generated
+category: Ciências naturais e físicas
 # multiple tag entries are possible
-tags: [natureza,fenômeno]
+tags: [natureza, fenômeno]
 # thumbnail image for post
 img: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Death_8_bg_082303.jpg"
 # disable comments on this page
@@ -41,16 +41,8 @@ date: 2022-05-27 11:32:53 +0900
 <div style="position:relative;padding-bottom:56.25%;padding-top:35px;height:0;margin-bottom:2em;overflow:hidden">
     <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"  src="https://www.youtube.com/embed/JFFhD5HeByM?si=7CMkKlPuQcE3I1uF" title="YouTube video player"  allowfullscreen>
     </iframe>
-</div> 
+</div>
 
 Pedras à vela (também chamadas de rochas deslizantes, pedras ambulantes, pedras rolantes e rochas em movimento) fazem parte do fenômeno geológico no qual as rochas se movem e inscrevem longos rastros ao longo de um fundo liso de vale sem intervenção animal. O movimento das rochas ocorre quando grandes e finas camadas de gelo flutuando em um efêmero lago de inverno se quebram ao sol. Congelados durante as noites frias de inverno, esses finos painéis de gelo flutuantes são impulsionados pelo vento e empurram rochas a velocidades de até 5 metros (16') por minuto.
 
 [Wikipedia](https://en.wikipedia.org/wiki/Sailing_stones)
-
-
-
-
-
-
-
-

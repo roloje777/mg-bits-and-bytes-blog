@@ -7,9 +7,9 @@ title: Tesla
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: auto generated
+category: Technology and applied sciences
 # multiple tag entries are possible
-tags: [vehicle, Tesla]
+tags: [engineering, transport]
 # thumbnail image for post
 img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2017_Tesla_Model_X_100D_Front.jpg/1920px-2017_Tesla_Model_X_100D_Front.jpg"
 # disable comments on this page

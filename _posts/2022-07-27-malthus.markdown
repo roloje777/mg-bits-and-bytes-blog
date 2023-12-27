@@ -1,0 +1,77 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: malthus
+title: Principle of Malthus
+
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: ""
+# multiple category is not supported
+category: Society and social sciences
+# multiple tag entries are possible
+tags: [demographics]
+# thumbnail image for post
+img: "https://upload.wikimedia.org/wikipedia/commons/5/5b/An_Essay_on_the_Principle_of_Population.jpg"
+# disable comments on this page
+comments_disable: true
+
+# publish date
+date: 2022-07-27 11:32:53 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2021-08-10 11:32:53 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
+# image viewer can be enabled or disabled for all posts using the "image_viewer_posts: true" setting in _data/conf/main.yml.
+#image_viewer_on: true
+# please use the "image_lazy_loader_on" below to enable image lazy loader for individual pages or posts (_posts/ or [language]/_posts folders).
+# image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+# published: false
+---
+
+<div style="position:relative;padding-bottom:56.25%;padding-top:35px;height:0;margin-bottom:2em;overflow:hidden">
+    <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"  src="https://www.youtube.com/embed/q93CgZlDXgo?si=62p-ISrGncpXL4o-" title="YouTube video player"  allowfullscreen>
+    </iframe>
+</div>
+
+> And we were counted.... following the principle of Malthus.
+>
+> Population growth versus food supply/growth...
+>
+> is this the reason for census?
+>
+> starvation, disease, war, prevention .... are we living through this ? ....
+
+The book, An Essay on the Principle of Population was first published anonymously in 1798,but the author was soon identified as Thomas Robert Malthus.
+The book warned of future difficulties, on an interpretation of the population increasing in geometric progression (so as to double every 25 years) while food production increased in an arithmetic progression, which would leave a difference resulting in the want of food and famine, unless birth rates decreased.
+
+While it was not the first book on population, Malthus's book fuelled debate about the size of the population in Britain and contributed to the passing of the Census Act 1800.
+This Act enabled the holding of a national census in England, Wales and Scotland, starting in 1801 and continuing every ten years to the present.
+
+A key portion of the book was dedicated to what is now known as the Malthusian Law of Population.
+The theory claims that growing population rates contribute to a rising supply of labour and inevitably lowers wages.
+In essence, Malthus feared that continued population growth lends itself to poverty.
+
+[Wikipedia](https://en.wikipedia.org/wiki/An_Essay_on_the_Principle_of_Population)
+
+### Population Resource Center Receives a $1 Million Gift from Bill & Melinda Gates
+
+Global health continues to be the driving factor affecting social and economic conditions at home and abroad. Urbanization, growing labor force participation, and economic development are all affected by population dynamics.
+More than 80 billion people will be added to the world in 1999.
+Although Europe, Japan and the United States have a very slow population growth, the rest of the world continues to grow at high rates. The number of cities in the developing world with more than one million people will rise from 173 to 368 by the year 2010.
+
+Over the last 30 years, one of the major reasons for the high rates of population growth throughout the world has been the remarkable progress in improving the health and well being of people. The United Nation's project that the world will reach 6 Billion people in October, 1999. Some of the consequences of this growth are increased international migration, the rapid spread of AIDS in the developing world, increasing urbanization resulting in stress on public health systems, and the continued spread of malaria.
+
+The Population Resource Center is a nonprofit organization dedicated to the development of sound public policy by promoting the use of accurate population data and its analysis in the decision-making process.
+Washington, D.C., Population Resource Center has worked with leading academicians and other experts for more than 25 years to serve as a bridge between the social science community and the world of public policy.
+
+[Bill and Milinda Gates foundation](https://www.gatesfoundation.org/ideas/media-center/press-releases/1999/08/population-resource-center)

@@ -1,25 +1,25 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: tesla_x
-title: Tesla
+lng_pair: barefoot-bandit
+title: The barefoot bandit
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: Tecnologia e ciências aplicadas
+category: Society and social sciences
 # multiple tag entries are possible
-tags: [engineering, transporte]
+tags: [crime]
 # thumbnail image for post
-img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2017_Tesla_Model_X_100D_Front.jpg/1920px-2017_Tesla_Model_X_100D_Front.jpg"
+img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Lancair.columbia.400.n79hr.arp.jpg/1280px-Lancair.columbia.400.n79hr.arp.jpg"
 # disable comments on this page
 comments_disable: true
 
-# publish date
-date: 2022-05-26 14:47:12 +0900
+# publish date  {2022-05-25 14:47:12 +0900}
+date: 2022-06-10 14:47:12 +0900
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2021-08-11 12:35:04 +0900
+#meta_modify_date: 2021-08-10 11:32:53 +0900
 # check the meta_common_description in _data/owner/[language].yml
 #meta_description: ""
 
@@ -35,14 +35,20 @@ date: 2022-05-26 14:47:12 +0900
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-# published: false
+#published: false {remove # if not yet published}
 ---
 
+<!-- note must use embeded link for youtube to allow -->
 <div style="position:relative;padding-bottom:56.25%;padding-top:35px;height:0;margin-bottom:2em;overflow:hidden">
-    <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"  src="https://www.youtube.com/embed/FlQuhF9wmuI?si=JeYH6FqLyV6uzRmX" title="YouTube video player"  allowfullscreen>
+    <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"  src="https://www.youtube.com/embed/KrOaEhsW31A?si=RgTuh9Dd6KWzNsHN" title="YouTube video player"  allowfullscreen>
     </iframe>
 </div>
-O Tesla Model X é um crossover elétrico de luxo de tamanho médio produzido pela Tesla, Inc.
-Desenvolvido a partir da plataforma sedã de tamanho normal do Tesla Model S, o veículo se destaca por utilizar portas em forma de asa de falcão para acesso dos passageiros.
 
-[wikipedia](https://en.wikipedia.org/wiki/Tesla_Model_X)
+Colton Harris Moore (born March 22, 1991) is an American former fugitive.
+He was charged with the theft of hundreds of thousands of dollars in property, including several small aircraft, boats, and multiple cars, all committed while still a teenager.
+
+He fled to the Bahamas on July 4, 2010, allegedly in a plane stolen from Bloomington, Indiana.
+He was indicted on July 6, 2010, by a U.S. Federal Court in Seattle, Washington, on charges of transporting another stolen aircraft in that state.
+Moore, still only 19, was arrested in Harbour Island, Bahamas, on July 11, 2010, after police shot out the engine of the boat in which he was attempting to flee.
+
+[wikipedia](https://en.wikipedia.org/wiki/Colton_Harris_Moore)
