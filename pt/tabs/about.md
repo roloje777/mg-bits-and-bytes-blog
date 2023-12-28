@@ -49,7 +49,7 @@ Agora resolvi criar um blog na web, onde qualquer pessoa possa acessar
 isso, inclusive eu.
 
 Numa nota ligeiramente pessoal, lembro-me de pessoas dizer que eu sempre
-estava curioso, como tenho certeza que você é.
+fui curioso, como tenho certeza que você é.
 
 > "Lá vai ele pegar a enciclopédia para provar seu ponto de vista", ouvia
 > eles a dizer.😂
