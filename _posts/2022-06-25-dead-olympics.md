@@ -11,7 +11,7 @@ category: History and events
 # multiple tag entries are possible
 tags: [people, sports]
 # thumbnail image for post
-img: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pankratiasten_in_fight_copy_of_greek_statue_3_century_bC.jpg"
+img: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pankratiasten_in_fight_copy_of_greek_statue_3_century_bC.jpg/1280px-Pankratiasten_in_fight_copy_of_greek_statue_3_century_bC.jpg"
 # disable comments on this page
 comments_disable: true
 
