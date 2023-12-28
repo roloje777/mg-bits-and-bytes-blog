@@ -35,7 +35,7 @@ date: 2023-12-28 14:47:12 +0900
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
- published: false
+published: false
 ---
 
 <!-- note must use embeded link for youtube to allow -->
