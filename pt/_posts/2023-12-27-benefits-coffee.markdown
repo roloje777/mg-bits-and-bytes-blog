@@ -95,5 +95,3 @@ Este artigo analisa em profundidade nove dos principais benefícios do café bas
    O café pode melhorar o desempenho físico e a resistência quando consumido antes do exercício. No entanto, alguns estudos apresentaram resultados mistos
 
 [9 Unique Benefits of Coffee](https://www.healthline.com/nutrition/top-evidence-based-health-benefits-of-coffee#9.-May-enhance-athletic-performance)
-
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

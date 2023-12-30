@@ -62,33 +62,33 @@ Rock music is a broad genre of popular music that originated as "rock and roll" 
 It has its roots in 1940s and 1950s rock and roll, a style that drew directly from the blues and rhythm and blues genres of African-American music and from country music. Rock also drew strongly from a number of other genres such as electric blues and folk, and incorporated influences from jazz, classical, and other musical styles. For instrumentation, rock has centered on the electric guitar, usually as part of a rock group with electric bass guitar, drums, and one or more singers. Usually, rock is song-based music with a 4
 4 time signature using a verse–chorus form, but the genre has become extremely diverse. Like pop music, lyrics often stress romantic love but also address a wide variety of other themes that are frequently social or political.
 
-Subgenres
--------------'
-Acid rock
-alternative rock
-arena rock
-art rock
-beat music
-Christian rock
-death rock
-experimental rock
-garage rock
-glam rock
-hard rock
-heartland rock
-heavy metal (subgenres)
-indie rock
-occult rock
-post-punk
-post-rock
-power pop  
-progressive rock
-psychedelic rock
-punk rock (subgenres)
-roots rock
-soft rock
-stoner rock
-surf music
+### Subgenres
+
+- Acid rock
+- alternative rock
+- arena rock
+- art rock
+- beat music
+- Christian rock
+- death rock
+- experimental rock
+- garage rock
+- glam rock
+- hard rock
+- heartland rock
+- heavy metal (subgenres)
+- indie rock
+- occult rock
+- post-punk
+- post-rock
+- power pop
+- progressive rock
+- psychedelic rock
+- punk rock (subgenres)
+- roots rock
+- soft rock
+- stoner rock
+- surf musi
 
 [wikipedia](https://en.wikipedia.org/wiki/Rock_and_roll)
 
