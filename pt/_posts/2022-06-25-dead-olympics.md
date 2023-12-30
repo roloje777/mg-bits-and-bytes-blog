@@ -13,7 +13,7 @@ tags: [pessoas, esportes]
 # thumbnail image for post
 img: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pankratiasten_in_fight_copy_of_greek_statue_3_century_bC.jpg/1280px-Pankratiasten_in_fight_copy_of_greek_statue_3_century_bC.jpg"
 # disable comments on this page
-comments_disable: true
+# comments_disable: true
 
 # publish date
 date: 2022-06-25 18:32:53 +0900
@@ -45,4 +45,4 @@ date: 2022-06-25 18:32:53 +0900
 
 Pois quando disputava a azeitona brava com o último concorrente restante, fosse ele quem fosse, este agarrou-se primeiro e segurou Arrhachion, abraçando-o com as pernas, e ao mesmo tempo apertou-lhe o pescoço com as mãos. Arrhachion deslocou o dedo do pé do oponente, mas morreu sufocado; mas aquele que sufocou Arrhachion foi forçado a ceder ao mesmo tempo por causa da dor no dedo do pé. Os Eleanos coroaram e proclamaram vencedor o cadáver de Arrhachion....
 
-[wikipedia](https://en.wikipedia.org/wiki/Arrhichion)
+[wikipedia](https://pt.wikipedia.org/wiki/Arrhichion)

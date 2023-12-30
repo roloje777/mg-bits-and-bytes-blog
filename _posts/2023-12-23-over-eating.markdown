@@ -13,7 +13,7 @@ tags: [nutrician]
 # thumbnail image for post
 img: "https://cdn.mos.cms.futurecdn.net/QnEAB6NUy7Qz5RgnVREMW5-650-80.jpg"
 # disable comments on this page
-comments_disable: true
+# comments_disable: true
 
 # publish date
 date: 2023-12-23 14:47:12 +0900

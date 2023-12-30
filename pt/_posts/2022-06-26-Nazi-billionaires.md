@@ -13,7 +13,7 @@ tags: [história, guerra]
 # thumbnail image for post
 img: "https://m.media-amazon.com/images/I/81bMohdSDzL._SL1500_.jpg"
 # disable comments on this page
-comments_disable: true
+# comments_disable: true
 
 # publish date  {2022-05-25 14:47:12 +0900}
 date: 2022-06-26 09:00:00

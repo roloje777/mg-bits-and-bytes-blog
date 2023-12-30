@@ -13,7 +13,7 @@ tags: [war]
 # thumbnail image for post
 img: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hells_Angels%2C_Flying_Tigers_1942.jpg/1280px-Hells_Angels%2C_Flying_Tigers_1942.jpg"
 # disable comments on this page
-comments_disable: true
+# comments_disable: true
 
 # publish date  {2022-05-25 14:47:12 +0900}
 date: 2022-06-26 14:47:12 +0900

@@ -13,7 +13,7 @@ tags: [Indústria, Recursos Humanos, recrutamento]
 # thumbnail image for post
 img: "https://www.buffalo.edu/content/dam/www/news/imported/hires/KellyGirls.jpg"
 # disable comments on this page
-#comments_disable: true
+# comments_disable: true
 
 # publish date
 date: 2022-6-21 14:47:12 +0900
@@ -58,4 +58,4 @@ As empresas são atraídas pelo uso de temporários por vários motivos. É uma 
 O filme Clockwatchers de Sprecher, de 1998, sobre quatro mulheres trabalhadoras temporárias. Numa atmosfera claustrofóbica de escritório, os trabalhadores temporários são retratados como invisíveis e impotentes. Os patrões nem sequer se preocupam em saber os seus nomes ou distinguir os seus rostos, e os seus pequenos actos de rebelião são, na sua maioria, inúteis.
 ...
 
-[wikipedia](https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/kelly-girls)
+[encyclopedia.com](https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/kelly-girls)

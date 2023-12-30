@@ -13,7 +13,7 @@ tags: [demografia]
 # thumbnail image for post
 img: "https://upload.wikimedia.org/wikipedia/commons/5/5b/An_Essay_on_the_Principle_of_Population.jpg"
 # disable comments on this page
-comments_disable: true
+# comments_disable: true
 
 # publish date
 date: 2022-07-27 11:32:53 +0900
@@ -60,7 +60,7 @@ Uma parte importante do livro foi dedicada ao que hoje é conhecido como Lei Mal
 A teoria afirma que as taxas populacionais crescentes contribuem para um aumento da oferta de mão-de-obra e inevitavelmente reduzem os salários.
 Em essência, Malthus temia que o crescimento populacional contínuo se prestasse à pobreza.
 
-[Wikipedia](https://en.wikipedia.org/wiki/An_Essay_on_the_Principle_of_Population)
+[Wikipedia](https://pt.wikipedia.org/wiki/An_Essay_on_the_Principle_of_Population)
 
 ## Population Resource Center recebe um presente de US$ 1 milhão de Bill e Melinda Gates
 

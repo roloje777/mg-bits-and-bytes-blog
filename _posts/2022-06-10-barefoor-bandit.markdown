@@ -13,7 +13,7 @@ tags: [crime]
 # thumbnail image for post
 img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Lancair.columbia.400.n79hr.arp.jpg/1280px-Lancair.columbia.400.n79hr.arp.jpg"
 # disable comments on this page
-comments_disable: true
+# comments_disable: true
 
 # publish date  {2022-05-25 14:47:12 +0900}
 date: 2022-06-10 14:47:12 +0900

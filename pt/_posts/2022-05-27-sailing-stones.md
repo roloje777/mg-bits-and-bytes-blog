@@ -13,7 +13,7 @@ tags: [natureza, fenômeno]
 # thumbnail image for post
 img: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Death_8_bg_082303.jpg"
 # disable comments on this page
-comments_disable: true
+# comments_disable: true
 
 # publish date
 date: 2022-05-27 11:32:53 +0900

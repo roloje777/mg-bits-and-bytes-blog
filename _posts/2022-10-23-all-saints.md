@@ -13,7 +13,7 @@ tags: [religion, history]
 # thumbnail image for post
 img: "https://upload.wikimedia.org/wikipedia/commons/0/01/Schlosskirche_Wittenberg.jpg"
 # disable comments on this page
-comments_disable: true
+# comments_disable: true
 
 # publish date
 date: 2022-10-23 14:47:12 +0900

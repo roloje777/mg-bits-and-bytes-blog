@@ -16,7 +16,7 @@ img: "https://wetravelportugal.com/wp-content/uploads/2020/11/portuguese-cafe-bi
 # comments_disable: true
 
 # publish date  {2022-05-25 14:47:12 +0900}
-date: 2023-12-28 14:47:12 +0900
+date: 2023-12-30 07:20:12 +0900
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
@@ -35,7 +35,7 @@ date: 2023-12-28 14:47:12 +0900
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+# published: false
 ---
 
 <!-- note must use embeded link for youtube to allow -->

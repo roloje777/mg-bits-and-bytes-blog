@@ -13,7 +13,7 @@ tags: [engineering, transporte]
 # thumbnail image for post
 img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2017_Tesla_Model_X_100D_Front.jpg/1920px-2017_Tesla_Model_X_100D_Front.jpg"
 # disable comments on this page
-comments_disable: true
+# comments_disable: true
 
 # publish date
 date: 2022-05-26 14:47:12 +0900
@@ -45,4 +45,4 @@ date: 2022-05-26 14:47:12 +0900
 O Tesla Model X é um crossover elétrico de luxo de tamanho médio produzido pela Tesla, Inc.
 Desenvolvido a partir da plataforma sedã de tamanho normal do Tesla Model S, o veículo se destaca por utilizar portas em forma de asa de falcão para acesso dos passageiros.
 
-[wikipedia](https://en.wikipedia.org/wiki/Tesla_Model_X)
+[wikipedia](https://pt.wikipedia.org/wiki/Tesla_Model_X)

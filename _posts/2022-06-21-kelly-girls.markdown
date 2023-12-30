@@ -14,7 +14,7 @@ tags: [Industry, Human Resources, recruitment]
 # thumbnail image for post
 img: "https://www.buffalo.edu/content/dam/www/news/imported/hires/KellyGirls.jpg"
 # disable comments on this page
-comments_disable: true
+# comments_disable: true
 
 # publish date
 date: 2022-06-21 14:47:12 +0900
@@ -57,4 +57,4 @@ Companies are drawn to using temps for a variety of reasons. It's a simple way t
 Sprecher's 1998 film Clockwatchers about four female temp workers. In a claustrophobic office atmosphere, temporary workers are portrayed as invisible and powerless. The bosses don't even bother to know their names or distinguish their faces, and their small acts of rebellion are, for the most part, useless.
 ...
 
-[wikipedia](https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/kelly-girls)
+[encyclopedia.com](https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/kelly-girls)

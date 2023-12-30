@@ -13,7 +13,7 @@ tags: [engineering, transport]
 # thumbnail image for post
 img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2017_Tesla_Model_X_100D_Front.jpg/1920px-2017_Tesla_Model_X_100D_Front.jpg"
 # disable comments on this page
-comments_disable: true
+# comments_disable: true
 
 # publish date
 date: 2022-05-26 14:47:12 +0900
