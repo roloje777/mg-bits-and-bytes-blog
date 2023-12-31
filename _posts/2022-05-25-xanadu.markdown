@@ -13,7 +13,7 @@ tags: [enineering]
 # thumbnail image for post
 img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Xanadu-House-in-Kissimmee-Florida-1990.jpg/1536px-Xanadu-House-in-Kissimmee-Florida-1990.jpg"
 # disable comments on this page
-c# comments_disable: true
+# comments_disable: true
 
 # publish date
 date: 2022-05-25 11:32:53 +0900
