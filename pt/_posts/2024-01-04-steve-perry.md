@@ -35,7 +35,7 @@ date: 2024-01-04 08:19:00
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-# published: false
+published: false
 ---
 
 <div style="position:relative;padding-bottom:56.25%;padding-top:35px;height:0;margin-bottom:2em;overflow:hidden">
@@ -51,12 +51,12 @@ date: 2024-01-04 08:19:00
 > [Perry vem basicamente do sobrenome português Pereira, que significa uma pereira em português. Pera sendo a fruta](<https://en.wikipedia.org/wiki/Perry_(surname)>)  
 > Muitos imigrantes portugueses optaram por mudar para a versão americana "Perry".  
 > Agora posso ou não ser parente deles, veja bem, o sobrenome do meu pai era Pereira Rolo, tinha uma voz fantástica, <strong>adorei ouvi-lo cantar </strong>[Fado](https://pt.wikipedia.org/wiki/Fado).  
-> Ele frequentemente seronava minha mãe. [Nem ás paredes confesso - Francisco José](https://youtu.be/WGhLr0VDrY0?si=97dK0OrTLjimFmZz)  
-> Na verdade, meus irmãos e eu usamos o sobrenome Pereira na escola primária. ❤️
+> Ele frequentemente seronava minha mãe. ❤️ [Nem ás paredes confesso - Francisco José](https://youtu.be/WGhLr0VDrY0?si=97dK0OrTLjimFmZz)  
+> Na verdade, meus irmãos e eu usamos o sobrenome Pereira na escola primária.
 
 ### Steve Perry (Pereira) orgulhosamente português
 
-Stephen Ray Perry nasceu em Hanford, Califórnia, filho de pais portugueses dos Açores.  
+[Stephen Ray Perry](https://pt.wikipedia.org/wiki/Steve_Perry) nasceu em Hanford, Califórnia, filho de pais portugueses dos Açores.  
 Ele é filho único.  
 Perry cresceu interessado em música, pois seu pai, Raymond Perry (Pereira), era vocalista e coproprietário da rádio KNGS.  
 Stephen foi o vocalista da banda Journey de 1977 a 1987 e novamente entre 1995 a 1998.  

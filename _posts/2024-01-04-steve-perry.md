@@ -35,7 +35,7 @@ date: 2024-01-04 08:19:00
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-# published: false
+published: false
 ---
 
 <div style="position:relative;padding-bottom:56.25%;padding-top:35px;height:0;margin-bottom:2em;overflow:hidden">
@@ -50,12 +50,12 @@ date: 2024-01-04 08:19:00
 > [Perry basically comes from the Portuguese surname <strong>Pereira</strong> means pear tree in Portuguese. Pera being the fruit](<https://en.wikipedia.org/wiki/Perry_(surname)>)  
 > Many Portuguese immigrants chose to change to the American version "Perry".  
 > Now I may or may not be related to them, you see my Dad's surname was Pereira Rolo, had a fantastic voice, <strong>I loved hearing him sing </strong>[Fado](https://en.wikipedia.org/wiki/Fado).  
-> He often seronated my mom.[Nem ás paredes confesso - Francisco José](https://youtu.be/WGhLr0VDrY0?si=97dK0OrTLjimFmZz)  
-> In actual fact, my brothers and I all went to the surname Pereira in primary school. ❤️
+> He often seronated my mom. ❤️ [Nem ás paredes confesso - Francisco José](https://youtu.be/WGhLr0VDrY0?si=97dK0OrTLjimFmZz)  
+> In actual fact, my brothers and I all went to the surname Pereira in primary school.
 
 ### Steve Perry (Pereira) proudly Portuguese
 
-Stephen Ray Perry was born in Hanford, California, to Portuguese parents from the Azores. He is an only child. Perry grew up interested in music, as his father, Raymond Perry (Pereira), was a vocalist and co-owner of radio station KNGS.
+[Stephen Ray Perry](https://en.wikipedia.org/wiki/Steve_Perry) was born in Hanford, California, to Portuguese parents from the Azores. He is an only child. Perry grew up interested in music, as his father, Raymond Perry (Pereira), was a vocalist and co-owner of radio station KNGS.
 
 Stephen was the lead vocalist in the band Journey in 1977 to 1987 and again between 1995 to 1998.
 
