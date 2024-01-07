@@ -16,7 +16,7 @@ img: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Steve_Perry%2C_cropped
 # comments_disable: true
 
 # publish date
-date: 2024-01-04 08:19:00
+date: 2024-01-07 09:19:00
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
@@ -35,7 +35,7 @@ date: 2024-01-04 08:19:00
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+# published: false
 ---
 
 <div style="position:relative;padding-bottom:56.25%;padding-top:35px;height:0;margin-bottom:2em;overflow:hidden">

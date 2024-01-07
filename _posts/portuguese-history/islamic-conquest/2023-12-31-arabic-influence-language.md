@@ -7,9 +7,9 @@ title: Arabic influence on the Portuguese language
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: Portuguese History
+category: History
 # multiple tag entries are possible
-tags: [islamic conquest, language]
+tags: [portuguese history, islamic conquest, language]
 # thumbnail image for post
 img: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arabic_Language.svg/2560px-Arabic_Language.svg.png"
 # disable comments on this page
