@@ -38,20 +38,41 @@ date: 2023-09-27 05:19:00
 # published: false
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Homo_erectus_reconstruction%2C_Natural_History_Museum%2C_London.jpg/1280px-Homo_erectus_reconstruction%2C_Natural_History_Museum%2C_London.jpg" alt="homo erectus" style="width:50%;align=right">
+<div style="display:flex;margin:1em 2em;justify-content:space-between;">
+  <div style="width:60%">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Homo_erectus_reconstruction%2C_Natural_History_Museum%2C_London.jpg/1280px-Homo_erectus_reconstruction%2C_Natural_History_Museum%2C_London.jpg" alt="homo erectus" style="width:100%">
+     <p>Homo Erectus</p>
+  </div>
+  <div style="width:40%">
+     Around 500 000 years ago <strong>Homo Erectus</strong>, which was an ancestor of modern humans, settled in the area that is now called Portugal.
+     They were hunter-gatherers.
+     <p><a href="https://en.wikipedia.org/wiki/Homo_erectus">wikipedia</a></p> 
+         
+  </div>
+</div>
 
-Around 500 000 years ago <strong>Homo Erectus</strong>, which was an ancestor of modern humans, settled in the area that is now called Portugal.
-They were hunter-gatherers.  
-[wikipedia](https://en.wikipedia.org/wiki/Homo_erectus)
+<div style="display:flex;margin:1em 2em;justify-content:space-between;">
+  <div style="width:60%">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neanderthal_man_reconstruction%2C_Natural_History_Museum%2C_London.jpg/800px-Neanderthal_man_reconstruction%2C_Natural_History_Museum%2C_London.jpg" alt="Neaderthal" style="width:100%">
+    <p>Neaderthal</p>
+  </div>
+  <div style="width:40%">
+    <strong>Neaderthals</strong> appeared in this region around 100 000 years ago.  
+    <p><a href="https://en.wikipedia.org/wiki/Neanderthal">wikipedia</a></p>
+  </div>
+</div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neanderthal_man_reconstruction%2C_Natural_History_Museum%2C_London.jpg/800px-Neanderthal_man_reconstruction%2C_Natural_History_Museum%2C_London.jpg" alt="Neadderthal" style="width:50%">
+<div style="display:flex;margin:1em 2em;justify-content:space-between;">
+  <div style="width:60%">
+    <img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/01/representacao-do-rosto-de-um-homem-da-especie-homo-sapiens.jpg" alt="homo spien" style="width:100%">
+    <p>Homo Sapien</p>
+  </div>
+  <div style="width:40%">c
+      The modern humans, <a href="https://en.wikipedia.org/wiki/Human">homo sapiens</a>, arrived in Portugal some 35 000 years ago, which lead to the extinction of the Neaderthal.
+  </div>
+</div>
 
-<strong>Neaderthals</strong> appeared in this region around 100 000 years ago.  
-[wikipedia](https://pt.wikipedia.org/wiki/Homem_de_Neandertal)
-
-The modern humans, [homo sapiens](https://en.wikipedia.org/wiki/Humano), arrived in Portugal some 35 000 years ago, which lead to the extinction of the Neaderthal.
-
-In 1998, a site near Leiria in central portugal, a body of a child was found,knows as "The Lapedo Child"
+<p>In 1998, a site near Leiria in central portugal, a body of a child was found,knows as "The Lapedo Child"</p>
 
 <div style="position:relative;padding-bottom:56.25%;padding-top:35px;height:0;margin-bottom:2em;overflow:hidden">
     <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"  src="https://www.youtube.com/embed/CLMG5yQsoCU?si=4faZwytjI0DzorbD" title="YouTube video player"  allowfullscreen>
