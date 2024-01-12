@@ -59,7 +59,7 @@ date: 2021-09-28 17:32:53 +0900
 </div>
 
 Rock music is a broad genre of popular music that originated as "rock and roll" in the United States in the late 1940s and early 1950s, developing into a range of different styles in the mid-1960s and later, particularly in the United States and United Kingdom.
-It has its roots in 1940s and 1950s rock and roll, a style that drew directly from the blues and rhythm and blues genres of African-American music and from country music. Rock also drew strongly from a number of other genres such as electric blues and folk, and incorporated influences from jazz, classical, and other musical styles. For instrumentation, rock has centered on the electric guitar, usually as part of a rock group with electric bass guitar, drums, and one or more singers. Usually, rock is song-based music with a 4
+It has its roots in 1940s and 1950s rock and roll, a style that drew directly from the blues and rhythm and blues genres of African-American music and from country music. Rock also drew strongly from a number of other genres such as electric blues and folk, and incorporated influences from jazz, classical, and other musical styles. For instrumentation, rock has centred on the electric guitar, usually as part of a rock group with electric bass guitar, drums, and one or more singers. Usually, rock is song-based music with a 4
 4 time signature using a verse–chorus form, but the genre has become extremely diverse. Like pop music, lyrics often stress romantic love but also address a wide variety of other themes that are frequently social or political.
 
 ### Subgenres
@@ -95,6 +95,6 @@ It has its roots in 1940s and 1950s rock and roll, a style that drew directly fr
 ### Jamming
 
 Jamming is when a group of musicians get together to play music. Even though jamming mainly occurs with groups of musicians, it also possible to jam on your own.
-Jamming is essentially another way of saying, 'practicing' or 'playing'.
+Jamming is essentially another way of saying, 'practising' or 'playing'.
 
 [wikipedia](https://en.wikipedia.org/wiki/Jam_session)

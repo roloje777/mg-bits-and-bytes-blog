@@ -54,7 +54,7 @@ date: 2024-01-06 05:19:00
   God is incorporeal, he is internal, he is infinite. \
   God can't be born, God can't die. \
   Now taking a human form, belittles God, and the fact that Jesus dies on the cross makes God mortal.
-- They believe by worshipping Jesus one is practicing idolatry.
+- They believe by worshipping Jesus one is practising idolatry.
 - They believe that the coming of the Messiah is related to events that have not happened yet, such as: \
   The rebuilding of the [Third Temple in Jerusalem](https://en.wikipedia.org/wiki/Third_Temple) \
   Now, when Jesus was on earth the Temple was still standing.

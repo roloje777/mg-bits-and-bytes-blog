@@ -50,7 +50,7 @@ date: 2024-01-07 09:19:00
 > [Perry basically comes from the Portuguese surname <strong>Pereira</strong> means pear tree in Portuguese. Pera being the fruit](<https://en.wikipedia.org/wiki/Perry_(surname)>)  
 > Many Portuguese immigrants chose to change to the American version "Perry".  
 > Now I may or may not be related to them, you see my Dad's surname was Pereira Rolo, had a fantastic voice, <strong>I loved hearing him sing </strong>[Fado](https://en.wikipedia.org/wiki/Fado).  
-> He often seronated my mom. ❤️ [Nem ás paredes confesso - Francisco José](https://youtu.be/WGhLr0VDrY0?si=97dK0OrTLjimFmZz)  
+> He often serenaded my mom. ❤️ [Nem ás paredes confesso - Francisco José](https://youtu.be/WGhLr0VDrY0?si=97dK0OrTLjimFmZz)  
 > In actual fact, my brothers and I all went to the surname Pereira in primary school.
 
 ### Steve Perry (Pereira) proudly Portuguese

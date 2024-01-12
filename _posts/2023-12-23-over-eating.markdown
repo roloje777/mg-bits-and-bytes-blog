@@ -56,7 +56,7 @@ date: 2023-12-23 14:47:12 +0900
 > 🤔...approaching christmas, one recalls the times when one overeats.\
 > One can hear people says, 'I ate like a horse' or your Portuguese pal say 'Eu comi como um abade'.\
 > Now only if we had a built in safety system, that would warn us of overeating.\
-> ... this would save us of those terrible hours of bloateness not to mention an extra session of cardio to > > work off the extra calories.
+> ... this would save us of those terrible hours of bloatedness not to mention an extra session of cardio to > > work off the extra calories.
 >
 > Recall your mom telling you to chew you food and eat slowly?  
 > Well... there is a term for this, namely: ''mindful eating'.
@@ -71,13 +71,13 @@ Our feelings of hunger and fullness, or satiety, are largely controlled by hormo
 there's a roughly 20-minute delay due to the fact that it takes time for the body to adjust its production of hunger-related hormones, and those hormones take more time than nerve impulses to relay information to the brain. Electrical signals from the gastrointestinal tract travel along nerves with lightning speed, reaching the brain almost instantly. Hormones, on the other hand, travel via the bloodstream.
 
 The time it takes for the body to generate satiety signals and send them to your brain also depends on the type of food you're eating.
-...Foods high in fiber, such as fruits, vegetables and whole grains, tend to promote satiety, while low-fiber, processed foods delay the feeling of fullness, Nandy said. That's because fiber helps switch off the production of ghrelin, trigger secretion of appetite-suppressing gut hormones and exert pressure on the stomach's stretch receptors...
+...Foods high in fibre, such as fruits, vegetables and whole grains, tend to promote satiety, while low-fiber, processed foods delay the feeling of fullness, Nandy said. That's because fibre helps switch off the production of ghrelin, trigger secretion of appetite-suppressing gut hormones and exert pressure on the stomach's stretch receptors...
 
 ## Eating habits (mindful eating)
 
 People's eating habits are another factor that influences their satiety after meals.
 
-Eating slowly gives the body more time to signal that you are full, while paying attention to your food and savoring every bite can help you better tune into these signals.
+Eating slowly gives the body more time to signal that you are full, while paying attention to your food and savouring every bite can help you better tune into these signals.
 This concept is known as mindful eating, Nandy said. Thoroughly chewing your food may also boost satiety by increasing the sensory feedback to the brain, according to a 2018 meta-analysis published in the journal Appetite.
 
 1. Diabetes
