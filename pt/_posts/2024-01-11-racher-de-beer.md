@@ -9,14 +9,14 @@ title: Rachel De Beer
 # multiple category is not supported
 category: História e eventos
 # multiple tag entries are possible
-tags: [história, pessoas]
+tags: [história, pessoas, história da África do Sul]
 # thumbnail image for post
 img: "https://historicsouthafrica.files.wordpress.com/2017/01/rachel-de-beer.jpg"
 # disable comments on this page
 # comments_disable: true
 
 # publish date
-date: 2022-05-25 11:32:53 +0900
+date: 2024-01-13 06:50
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
@@ -35,7 +35,7 @@ date: 2022-05-25 11:32:53 +0900
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+# published: false
 ---
 
 <div style="position:relative;padding-bottom:56.25%;padding-top:35px;height:0;margin-bottom:2em;overflow:hidden">
