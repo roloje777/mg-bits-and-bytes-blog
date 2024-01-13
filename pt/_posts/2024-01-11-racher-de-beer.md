@@ -38,6 +38,11 @@ date: 2024-01-13 06:50
 # published: false
 ---
 
+> Nunca esqueci a história de Rachel e seu irmão.  
+> Aprendi sobre a coragem dessa jovem pela primeira vez em uma aula de história,  
+> enquanto frequentava a escola primária na África do Sul.  
+> Hoje compartilho com vocês essa história maravilhosa que tocou tantos de nós.
+
 <div style="position:relative;padding-bottom:56.25%;padding-top:35px;height:0;margin-bottom:2em;overflow:hidden">
     <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"  src="https://www.youtube.com/embed/31EvTaUL0iw?si=DxPybVC8waU0pVnO" title="YouTube video player"  allowfullscreen>
     </iframe>

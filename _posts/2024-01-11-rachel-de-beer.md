@@ -38,6 +38,11 @@ date: 2024-01-13 06:50
 # published: false
 ---
 
+> I've never forgotten the story of Rachel and her brother.  
+> I first learned about this young girl's bravery in a history lesson,  
+> while attending primary school in South Africa.  
+> Today I share with you this wonderful story that touched so many of us.
+
 <div style="position:relative;padding-bottom:56.25%;padding-top:35px;height:0;margin-bottom:2em;overflow:hidden">
     <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"  src="https://www.youtube.com/embed/31EvTaUL0iw?si=DxPybVC8waU0pVnO" title="YouTube video player"  allowfullscreen>
     </iframe>
