@@ -16,7 +16,7 @@ img: "https://4.bp.blogspot.com/-fztakTP1BOM/VIITPjPfAeI/AAAAAAAAPlE/p7pVSNnHWQo
 # comments_disable: true
 
 # publish date
-date: 2024-01-13 05:31:53
+date: 2024-01-14 05:31:53
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
@@ -50,8 +50,6 @@ Assim ficou conhecida como a <strong>tributo das cem donzelas.</strong>
     <img src="https://4.bp.blogspot.com/-fztakTP1BOM/VIITPjPfAeI/AAAAAAAAPlE/p7pVSNnHWQo/s1600/lendafigueiro.jpg" alt="Peggy Lee" style="width:100%;margin:0; padding:0">
   </div>
 
-Conta-se que entre os séculos VIII e IX um monarca árabe de Córdoba instituiu uma lei segundo a qual 100 donzelas deveriam ser entregues anualmente ao seu reino, para servirem como escravas, para seu prazer ou mesmo como esposas.  
-Assim ficou conhecida como a “tributo das cem donzelas"  
 Foram selecionadas uma jovem donzela conhecida como Sancha ou Mécia e cinco de suas colegas.  
 No caminho, descansaram debaixo de uma figueira. Um jovem cavaleiro a cavalo apareceu e perguntou para onde estavam indo.  
 Ao ouvir a história deles, ele prometeu salvá-los da provação.  

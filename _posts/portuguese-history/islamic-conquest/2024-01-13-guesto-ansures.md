@@ -82,8 +82,8 @@ This Knight was called Guesto Ansures and he married the young lady Sancha.
 There is even a song that is believed to have be written by this same brave Knight.  
 Here's the first verse...
 
-> In the figueiredo fig tree,  
-> I entered the fig tree;  
+> In the land covered with fig trees,  
+> I entered this land covered with fig trees;  
 > Six maidens I found,  
 > Six maidens I found;  
 > Towards them I walked,  
