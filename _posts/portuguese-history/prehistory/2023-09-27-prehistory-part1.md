@@ -9,7 +9,7 @@ title: Portugal Prehistory Part 1
 # multiple category is not supported
 category: History and events
 # multiple tag entries are possible
-tags: [portuguese history, prehistory]
+tags: [history, portuguese history, prehistory]
 # thumbnail image for post
 img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cromeleque_dos_Almendres1340.JPG/1280px-Cromeleque_dos_Almendres1340.JPG"
 # disable comments on this page

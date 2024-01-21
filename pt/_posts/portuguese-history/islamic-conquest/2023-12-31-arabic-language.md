@@ -7,9 +7,9 @@ title: A Influência árabe na língua portuguesa
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: História
+category: HistóriaHistória e eventos
 # multiple tag entries are possible
-tags: [história portuguesa, Conquista islâmica, idioma]
+tags: [história, história portuguesa, Conquista islâmica, idioma]
 # thumbnail image for post
 img: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arabic_Language.svg/2560px-Arabic_Language.svg.png"
 # disable comments on this page
