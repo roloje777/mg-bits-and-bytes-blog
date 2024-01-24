@@ -1,0 +1,15 @@
+<div
+  style="
+    height: 120px;
+    width: 100%;
+    border: 1px solid #ccc;
+    font: 16px/26px Georgia, Garamond, Serif;
+    overflow: auto;
+    margin: 1em 0 1em 0;
+    padding: 1px 1em 1px 1em;
+  "
+>
+  <!-- add content here
+       set the height above as required
+       Use <br> for the line breaks
+--></div>
