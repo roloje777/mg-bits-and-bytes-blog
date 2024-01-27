@@ -16,7 +16,7 @@ img: "https://miro.medium.com/v2/resize:fit:3840/format:webp/1*D9NYHovP72jllsEN5
 # comments_disable: true
 
 # publish date
-date: 2022-05-25 11:32:00
+date: 2024-01-27 7:30:00
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
@@ -87,7 +87,7 @@ Tópicos discutidos?
     <br>
     ... para transformar isso sem sentido em algo significativo...<br>
     <br>
-    ... a resiliência é regulada pelo eu...<br>
+    ... a resiliência é regulada pelo eu...(Veja Corda do Elefante)<br>
     <br>
 </div>
 
@@ -122,7 +122,7 @@ Tópicos discutidos?
     ... a resiliência nunca é perfeita...<br>
 </div>
 
-[Boris Cyrulnik](https://pt.wikipedia.org/wiki/Boris_Cyrulnik), <strong>um pioneiro em resiliência, acredita que, quando se trata de comportamento resiliente, não depende apenas de nós - a sociedade e a política também têm a responsabilidade de criar condições adequadas para uma saúde psicológica estável.
+[Boris Cyrulnik](https://www.wook.pt/autor/boris-cyrulnik/6851), <strong>um pioneiro em resiliência, acredita que, quando se trata de comportamento resiliente, não depende apenas de nós - a sociedade e a política também têm a responsabilidade de criar condições adequadas para uma saúde psicológica estável.
 Nossas experiências, nosso ambiente e nossos genes influenciam nossos poderes de resiliência mental.
 Resiliência não é uma palavra mágica ou uma promessa de felicidade, mas um processo de aprendizagem ao longo da vida.</strong>
 

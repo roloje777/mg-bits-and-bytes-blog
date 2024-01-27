@@ -16,7 +16,7 @@ img: "https://miro.medium.com/v2/resize:fit:3840/format:webp/1*D9NYHovP72jllsEN5
 # comments_disable: true
 
 # publish date
-date: 2022-05-25 11:32:00
+date: 2024-01-27 7:30:00
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
@@ -88,7 +88,7 @@ Topics discussed?
     <br>
     ... to turn this meaningless into something meaningful...<br>
     <br>
-    ... resilience is regulated by the self...<br>
+    ... resilience is regulated by the self... (See Elephant's Rope)<br>
     <br>
 </div>
 
