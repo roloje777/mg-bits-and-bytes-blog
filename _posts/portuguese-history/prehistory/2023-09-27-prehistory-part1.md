@@ -53,11 +53,11 @@ date: 2023-09-27 05:19:00
 
 <div style="display:flex;margin:1em 2em;justify-content:space-between;">
   <div style="width:60%">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neanderthal_man_reconstruction%2C_Natural_History_Museum%2C_London.jpg/800px-Neanderthal_man_reconstruction%2C_Natural_History_Museum%2C_London.jpg" alt="Neaderthal" style="width:100%">
-    <p>Neaderthal</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neanderthal_man_reconstruction%2C_Natural_History_Museum%2C_London.jpg/800px-Neanderthal_man_reconstruction%2C_Natural_History_Museum%2C_London.jpg" alt="Neanderthal" style="width:100%">
+    <p>Neanderthal</p>
   </div>
   <div style="width:40%">
-    <strong>Neaderthals</strong> appeared in this region around 100 000 years ago.  
+    <strong>Neanderthals</strong> appeared in this region around 100 000 years ago.  
     <p><a href="https://en.wikipedia.org/wiki/Neanderthal">wikipedia</a></p>
   </div>
 </div>
@@ -68,7 +68,7 @@ date: 2023-09-27 05:19:00
     <p>Homo Sapien</p>
   </div>
   <div style="width:40%">c
-      The modern humans, <a href="https://en.wikipedia.org/wiki/Human">homo sapiens</a>, arrived in Portugal some 35 000 years ago, which lead to the extinction of the Neaderthal.
+      The modern humans, <a href="https://en.wikipedia.org/wiki/Human">homo sapiens</a>, arrived in Portugal some 35 000 years ago, which lead to the extinction of the Neanderthal.
   </div>
 </div>
 
@@ -87,11 +87,11 @@ This suggests that both the Neaderthals and modern human co-existed.
 One of the largest prehistoric rock sites in the world, with carvings of
 
 - animals, especially horses
-- humand
-- abstracty figures
-  dating 10 000 - 20 000 years, were yound in 1992 along the Côa River Valley.
+- human
+- abstract figures
+  dating 10 000 - 20 000 years, were found in 1992 along the Côa River Valley.
 
-Ammendres Cromlec in Evora Portugal, a 7 000 year old methgalithic complex in Evora Portugal, dates these sacred stones 2 000 years before the famous Neolithic monument known as Stonehenge.
+Ammendres Cromlec in Evora Portugal, a 7 000 year old megalithic complex in Evora Portugal, dates these sacred stones 2 000 years before the famous Neolithic monument known as Stonehenge.
 
 <div style="position:relative;padding-bottom:56.25%;padding-top:35px;height:0;margin-bottom:2em;overflow:hidden">
     <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"  src="https://www.youtube.com/embed/ajq3UaQ2gTw?si=yppqBBoJymzhqhVv" title="YouTube video player"  allowfullscreen>
