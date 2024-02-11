@@ -1,0 +1,18 @@
+<div
+  style="
+    border: 1px solid #ccc;
+    font: 16px/26px Georgia, Garamond, Serif;
+    margin: 1em 0 1em 0;
+    padding: 1px 1em 1px 1em;
+  "
+>
+  <ul>
+    For instance, Swedenborg describes how, when the bodily functions of
+    respiration and circulation cease:
+  </ul>
+  "Still man does not die, but is only separated from the corporeal part which
+  was of use to him in the world ... Man, when he dies, only passes from one
+  world into another."<br />
+  <hr />
+  <!-- repeat ul and hr-->
+</div>
