@@ -16,7 +16,7 @@ img: "https://upload.wikimedia.org/wikipedia/commons/5/53/Emanuel_Swedenborg.PNG
 # comments_disable: true
 
 # publish date
-date: 2022-05-25 11:32:53 +0900
+date: 2024-02-17 07:11:10
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
@@ -35,7 +35,7 @@ date: 2022-05-25 11:32:53 +0900
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+# published: false
 ---
 
 <div style="position:relative;padding-bottom:56.25%;padding-top:35px;height:0;margin-bottom:2em;overflow:hidden">
@@ -44,13 +44,14 @@ published: false
 </div>
  <p style="font-size:1.2em; position:relative; text-align:center">What Happens Immediately After You Die - Swedenborg & Life</p>
 
-> Both of us (Wife and I) having faced death of very close loved ones,
-> a brother and both parents, have often wondered what it is like in
+> Both of us (Wife and I) having faced death of very close loved ones
+> (a brother and both parents), have often wondered what it is like in
 > the afterlife.  
 > Will we recognise them, will they recognise us, what will we look like
-> in spiritual world or is there nothing,... we just go poof...?  
-> Below is Emanuel's thinking on this. A liberal thinker, scientist,
-> inventor, and theologian of the 17th to 18th century...."
+> in the spiritual world or is there nothing,  
+> ... we just go poof...?  
+> Below is Emanuel's thinking on this.  
+> He was a liberal thinker, scientist, inventor, and theologian of the 17th to 18th century...."
 
 <div
   style="
@@ -60,17 +61,25 @@ published: false
     padding: 1px 1em 1px 1em;
   ">
 
-During several of Swedenborg's near-death experiences, he would witness people dying and see their happenings in the afterlife. He stated that immediately following death, there is a period of self-discovery in which the social masks worn on Earth dissolve away and the true self is revealed. Each person then shapes their own eternity to correspond with their real inner nature. Some people become irrational, driven by fear and greed. Such people are in the spiritual condition which Swedenborg called hell. Hell is a psychological condition which corresponds to the suffering we experience on Earth when we allow ourselves to be driven by the blind greed of our own egos. There are no devils in hell to inflict punishments because in the hellish spiritual state each person acts out their own malice by tormenting others.
+During several of Swedenborg's near-death experiences, he would witness people dying and see their happenings in the afterlife.<br>  
+He stated that immediately following death, there is a period of self-discovery in which the social masks worn on Earth dissolve away and the true self is revealed.<br>  
+Each person then shapes their own eternity to correspond with their real inner nature.<br>  
+Some people become irrational, driven by fear and greed.<br>
+Such people are in the spiritual condition which Swedenborg called hell.<br>
+Hell is a psychological condition which corresponds to the suffering we experience on Earth when we allow ourselves to be driven by the blind greed of our own egos.<br>  
+There are no devils in hell to inflict punishments because in the hellish spiritual state each person acts out their own malice by tormenting others.<br>
+<br>
+After death, most people find within themselves the psychological state Swedenborg called heaven.<br>  
+It is a joyous condition and a state of expanded awareness, of perceiving more and more of the grand plan of creation.<br>  
+The heaven which Swedenborg experienced, corresponds to deeds, not creeds.<br>  
+Therefore, persons from many cultures and religions form the societies of heaven.<br>  
+Swedenborg often mentioned that these societies, the Church of the Lord, are universal.<br>  
+This Church of the Lord consists of all those who have lived in the goodness of love according to their own spiritual life on Earth.<br>
+<a href="https://www.swedenborgstudy.com/articles/heaven-hell/triggers141_files/swedenborg_heaven_hell_chart.jpg">A graphical representation of the heavens and hells</a> Swedenborg experienced can be seen at the web link provided.<br>
 
-After death, most people find within themselves the psychological state Swedenborg called heaven. It is a joyous condition and a state of expanded awareness, of perceiving more and more of the grand plan of creation. The heaven which Swedenborg experienced, corresponds to deeds, not creeds. Therefore, persons from many cultures and religions form the societies of heaven. Swedenborg often mentioned that these societies, the Church of the Lord, are universal. This Church of the Lord consists of all those who have lived in the goodness of love according to their own spiritual life on Earth. A graphical representation of the heavens and hells Swedenborg experienced can be seen at the web link provided.During several of Swedenborg's near-death experiences, he would witness people dying and see their happenings in the afterlife. He stated that immediately following death, there is a period of self-discovery in which the social masks worn on Earth dissolve away and the true self is revealed. Each person then shapes their own eternity to correspond with their real inner nature. Some people become irrational, driven by fear and greed. Such people are in the spiritual condition which Swedenborg called hell. Hell is a psychological condition which corresponds to the suffering we experience on Earth when we allow ourselves to be driven by the blind greed of our own egos. There are no devils in hell to inflict punishments because in the hellish spiritual state each person acts out their own malice by tormenting others.
-
-After death, most people find within themselves the psychological state Swedenborg called heaven. It is a joyous condition and a state of expanded awareness, of perceiving more and more of the grand plan of creation. The heaven which Swedenborg experienced, corresponds to deeds, not creeds. Therefore, persons from many cultures and religions form the societies of heaven. Swedenborg often mentioned that these societies, the Church of the Lord, are universal. This Church of the Lord consists of all those who have lived in the goodness of love according to their own spiritual life on Earth. A graphical representation of the heavens and hells Swedenborg experienced can be seen at the web link provided.
-
-  <p><a href="https://www.swedenborgstudy.com/articles/heaven-hell/ndes.htm)">Emanuel Swedenborg's near-death experiences </a></p>
-
+<p><a href="https://www.swedenborgstudy.com/articles/heaven-hell/ndes.htm">Emanuel Swedenborg's near-death experiences </a></p>
+<strong> Now according to Dr. Moddy, Swedenborg's writings provide striking parallels to the events of contemporary near-death experiences.</strong>
 </div>
-
-<strong> Now according to Dr. Moddy, Swedenborg's writings provide striking parallels to the events of contemporary near-death experiences.
 
 ### Emanuel Swedenborg
 
@@ -79,7 +88,7 @@ Swedenborg was a scientist who had a spiritual awakening through a revelation.
 He was told by Jesus Christ, who he met in a vision, to write The Heavenly Doctrine, a 1758 account of his visit to heaven and hell where, apart from Christ, he was afforded the opportunity to converse with angels and demons.
 
  <div style="float:left;width:60%;object-fit:contain;margin:0;padding:0;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Emanuel_Swedenborg.PNG" alt="Peggy Lee" style="width:100%;margin:0; padding:0">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Emanuel_Swedenborg.PNG" alt="Emanuel Swedenborg" style="width:100%;margin:0; padding:0">
     
   </div>
 
@@ -100,7 +109,7 @@ Many Heavenly societies were also needed to increase the perfection of the angel
 He argued: "What would this be to God, Who is infinite, and to whom a thousand or tens of thousands of planets, and all of them full of inhabitants, would be scarcely anything!"
 
  <div style="float:left;width:60%;object-fit:contain;margin:0;padding:0;">
-    <img src="https://www.swedenborgstudy.com/articles/heaven-hell/triggers141_files/swedenborg_heaven_hell_chart.jpg" alt="Peggy Lee" style="width:100%;margin:0; padding:0">
+    <img src="https://www.swedenborgstudy.com/articles/heaven-hell/triggers141_files/swedenborg_heaven_hell_chart.jpg" alt="Graphic representation" style="width:100%;margin:0; padding:0">
     
   </div>
 
@@ -117,3 +126,5 @@ some people thought he had written his theology just to make a name for himself 
 Raising himself up on his bed, his hand on his heart, Swedenborg earnestly replied, <i>"As truly as you see me before your eyes, so true is everything that I have written; and I could have said more had it been permitted.  
 When you enter eternity you will see everything, and then you and I shall have much to talk about".</i>
 He then died, in the afternoon, on the date he had predicted,March 29, 1772.
+
+[swedenborg.com](https://swedenborg.com/)
