@@ -16,7 +16,7 @@ img: "https://georgiamurch.com/wp-content/uploads/2023/11/elephantintheroom.jpeg
 # comments_disable: true
 
 # publish date
-date: 2024-03-09 06:28:20
+date: 2024-03-09 07:00:00
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
