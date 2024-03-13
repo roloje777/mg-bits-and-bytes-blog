@@ -35,8 +35,24 @@ date: 1970-01-01 08:00:00
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+# published: false
 ---
+
+<style>
+  @keyframes fade-inout {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+  fade-in-fade-out {
+    animation: fade-inout 5s infinite alternate;
+    font-size: 2em;
+    
+  }
+</style>
 
 <div
   style="position: relative;padding-bottom: 56.25%;padding-top: 35px;height: 0;
@@ -55,8 +71,13 @@ published: false
 > A propósito, atribui-se a Paulo a escrita da maior parte do Novo Testamento.  
 > Na verdade, os estudiosos de hoje ainda não sabem com certeza quem escreveu a maioria dos textos da Bíblia.
 >
-> Por último, acho interessante que Zeus, também conhecido como Zeus-Kasios, significa Deus do Céu, e que Deus e Zeus diferem apenas na primeira letra.  
-> Além disso, observe que Jesus difere apenas por uma letra. (Remova o primeiro s e substitua J por D ou Z)  
+> Por último, acho interessante que Zeus, também conhecido como Zeus-Kasios, significa Deus do Céu, e que <fade-in-fade-out>D</fade-in-fade-out>eus e <fade-in-fade-out>Z</fade-in-fade-out>eus diferem apenas na primeira letra.  
+> Além disso, observe que <fade-in-fade-out>J</fade-in-fade-out>e<fade-in-fade-out>s</fade-in-fade-out>us difere apenas por uma letra, s é usado duas vezes. (Remova o primeiro s e substitua J por D ou Z)  
+> Agora, as letras <strong>EUS</strong> em latim significam <i>músculo que constitui, tem a forma ou se junta a uma parte, coisa ou estrutura (especificada)</i>  
+> Por último, a letra <strong>S</strong> <i>
+> no Judaísmo, é o símbolo de Shaddai, um dos nomes de Deus na Bíblia Hebraica. Shaddai é geralmente traduzido como "Todo-Poderoso" ou "Todo-Suficiente". A letra S também é o símbolo de Shalom, uma palavra hebraica que significa "paz", "totalidade", "bem-estar" ou "completude"</i>  
+> Interessante é que o símbolo <strong>S</strong> é o símbolo de <strong>Mercúrio</strong>, o deus romano, o <strong>Filho</strong> de Júpiter e Maia.  
+> Agora Júpiter é <fade-in-fade-out>Z</fade-in-fade-out>eus na mitologia grega, também conhecido como <strong>o Deus do Céu</strong>  
 > Isto daria um grande romance de autores como José Rodrigues Dos Santos ou Dan Brown.
 >
 > Anu, o líder dos Anunaki, era referido nas tabuinhas sumérias como <strong>Pai do Céu, Rei dos Deuses.</strong> 🤔  
@@ -91,4 +112,8 @@ References:
 [The Roman Empire: A Brief History](https://www.mpm.edu/research-collections/anthropology/anthropology-collections-research/mediterranean-oil-lamps/roman-empire-brief-history)  
 [Mesopotamian God Anu | Symbols & Mythology](https://study.com/learn/lesson/mesopotamian-gods-mythology-history.html)  
 [Sar - Unit of Time of the Anunnaki](https://www.mathematicsmagazine.com/Articles/SarUnitOfTime.php)  
-[Who created the Annunaki, and what is their purpose for creating humans?](https://www.quora.com/Who-created-the-Annunaki-and-what-is-their-purpose-for-creating-humans)
+[Who created the Annunaki, and what is their purpose for creating humans?](https://www.quora.com/Who-created-the-Annunaki-and-what-is-their-purpose-for-creating-humans)  
+[The Secret Symbolism of the Letter S](https://www.lithacreationsfrance.com/blogs/news/the-secret-symbolism-of-the-letter-s-what-it-means-for-you-and-your-monogram)  
+[eus](https://www.merriam-webster.com/dictionary/-eus)  
+[Jupiter](https://www.britannica.com/topic/Jupiter-Roman-god)
+[Mercury](https://www.britannica.com/topic/Mercury-Roman-god)
