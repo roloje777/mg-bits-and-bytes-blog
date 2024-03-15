@@ -72,20 +72,24 @@ date: 1970-01-01 08:00:00
 > Na verdade, os estudiosos de hoje ainda não sabem com certeza quem escreveu a maioria dos textos da Bíblia.
 >
 > Por último, acho interessante que Zeus, também conhecido como Zeus-Kasios, significa Deus do Céu, e que <fade-in-fade-out>D</fade-in-fade-out>eus e <fade-in-fade-out>Z</fade-in-fade-out>eus diferem apenas na primeira letra.  
-> Além disso, observe que <fade-in-fade-out>J</fade-in-fade-out>e<fade-in-fade-out>s</fade-in-fade-out>us difere apenas por uma letra, s é usado duas vezes. (Remova o primeiro s e substitua J por D ou Z)  
+> Além disso, observe que <fade-in-fade-out>J</fade-in-fade-out>e<fade-in-fade-out>s</fade-in-fade-out>us difere apenas por uma letra, <strong>S</strong> é usado duas vezes. (Remova o primeiro s e substitua J por D ou Z)  
 > Agora, as letras <strong>EUS</strong> em latim significam <i>músculo que constitui, tem a forma ou se junta a uma parte, coisa ou estrutura (especificada)</i>  
 > Por último, a letra <strong>S</strong> <i>
 > no Judaísmo, é o símbolo de Shaddai, um dos nomes de Deus na Bíblia Hebraica. Shaddai é geralmente traduzido como "Todo-Poderoso" ou "Todo-Suficiente". A letra S também é o símbolo de Shalom, uma palavra hebraica que significa "paz", "totalidade", "bem-estar" ou "completude"</i>  
 > Interessante é que o símbolo <strong>S</strong> é o símbolo de <strong>Mercúrio</strong>, o deus romano, o <strong>Filho</strong> de Júpiter e Maia.  
-> Agora Júpiter é <fade-in-fade-out>Z</fade-in-fade-out>eus na mitologia grega, também conhecido como <strong>o Deus do Céu</strong>  
-> Isto daria um grande romance de autores como José Rodrigues Dos Santos ou Dan Brown.
+> Agora Júpiter é <fade-in-fade-out>Z</fade-in-fade-out>eus na mitologia grega, também conhecido como <strong>o Deus do Céu</strong>
 >
 > Anu, o líder dos Anunaki, era referido nas tabuinhas sumérias como <strong>Pai do Céu, Rei dos Deuses.</strong> 🤔  
 > Os Annunaki são um grupo de divindades da antiga mitologia mesopotâmica.  
 > Acreditava-se que eles estavam associados ao céu e eram considerados os criadores da humanidade, de acordo com alguns textos antigos.
 >
-> Mas, isso sou só eu.  
-> ¯\_(ツ)\_/¯
+> Brincando ainda mais com EU<fade-in-fade-out>S</fade-in-fade-out>, remover o símbolo de poder
+> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Superman_shield.svg/220px-Superman_shield.svg.png" alt="superman" style="width:5%">
+> , me dá <strong>eu</strong> <u>pequeno eu</u>, em português, e isso me lembra-me de uma grande canção que o meu grande amor e eu gostamos, de [Roberto Carlos - Esse Cara Sou Eu](https://youtu.be/fxtkVjBoDGg?si=kK7QYRYgDkrZsFtZ)
+>
+> Isto daria um grande romance de autores como José Rodrigues Dos Santos ou Dan Brown.  
+> <strong>Mas, isso sou só eu.</strong>  
+> ¯\\\_(ツ)\_/¯
 >
 > Tudo isso, à parte, eles descobriram um templo de Zeus na foz do rio Nilo, Sinai, Egito.
 

@@ -72,20 +72,22 @@ date: 1970-01-01 08:00:00
 > In fact, scholars today still don't know with certainty who wrote most of the texts in the bible.
 >
 > Lastly, I find interesting that Zeus, also known as Zeus-Kasios, stands for God of the Sky, and that <fade-in-fade-out>D</fade-in-fade-out>eus and <fade-in-fade-out>Z</fade-in-fade-out>eus only differ in the first letter.  
-> Also, note that <fade-in-fade-out>J</fade-in-fade-out>e<fade-in-fade-out>s</fade-in-fade-out>us differs only by one letter, s is used twice. (Remove the first s and replace J with D or Z)  
+> Also, note that <fade-in-fade-out>J</fade-in-fade-out>e<fade-in-fade-out>s</fade-in-fade-out>us differs only by one letter, <strong>S</strong> is used twice. (Remove the first s and replace J with D or Z)  
 > Now the letters <strong>EUS</strong> in latin means <i>muscle that constitutes, has the form of, or joins a (specified) part, thing, or structures</i>  
 > Lastly, the letter <strong>S</strong> <i>
 > in Judaism, is the symbol for Shaddai, one of the names of God in the Hebrew Bible. Shaddai is usually translated as "Almighty" or "All-Sufficient". The letter S is also the symbol for Shalom, a Hebrew word that means "peace", "wholeness", "well-being", or "completeness"</i>  
 > Interesting is that the symbol <strong>S</strong> is the symbol of <strong>Mercury</strong>, the roman god, the <strong>Son</strong> of Jupiter and Maia.  
-> Now Jupiter is <fade-in-fade-out>Z</fade-in-fade-out>eus in Greek mythology, also refrred toi as, <strong>the Sky God</strong>  
-> This would give for a great novel by authors such as José Rodrigues Dos Santos or Dan Brown.
+> Now Jupiter is <fade-in-fade-out>Z</fade-in-fade-out>eus in Greek mythology, also referred to as, <strong>the Sky God</strong>
 >
 > Anu, the leader of the Anunaki, was referred to in the sumerian tablets as <strong>Father of the Sky, King of the God's.</strong> 🤔  
 > The Annunaki are a group of deities in ancient Mesopotamian mythology.  
 > They were believed to be associated with the sky and were considered to be the creators of humanity according to some ancient texts.
 >
-> But that's just me.  
-> ¯\_(ツ)\_/¯
+> Playing around further with the EU<fade-in-fade-out>S</fade-in-fade-out> by removing the might symbol <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Superman_shield.svg/220px-Superman_shield.svg.png" alt="superman" style="width:5%">, gives me <strong>eu</strong> <u>little me</u>, in portuguese, and that reminds me of a great song , my love and I enjoy, by [Roberto Carlos - Esse Cara Sou Eu](https://youtu.be/fxtkVjBoDGg?si=kK7QYRYgDkrZsFtZ)
+>
+> This would give for a great novel by authors such as José Rodrigues Dos Santos or Dan Brown.  
+> <strong>But that's just me.</strong>  
+> ¯\\\_(ツ)\_/¯
 >
 > All this, aside, they have discovered a temple of Zeus at the river mouth of the Nile, Sinai Egypt.
 
@@ -99,7 +101,7 @@ Egyptian archaeologists have unearthed the ruins of a Roman temple dedicated to 
 The Egyptian Ministry of Tourism and Antiquities announced April 25 that the discoveries were made during excavations by an Egyptian mission at the archaeological site in Tell el-Farma, known in ancient Egypt as Pelusium.  
 The site is located just east of the Suez Canal.
 
-References:  
+Referências:  
 [Ancient temple to Zeus uncovered in Egypt's Sinai Peninsula](https://www.al-monitor.com/originals/2022/05/ancient-temple-zeus-uncovered-egypts-sinai-peninsula#ixzz8Tli8J39P)  
 [Ancient Greek Temple of Zeus Unearthed in Sinai, Egypt](https://greekreporter.com/2024/02/13/ancient-greek-temple-zeus-sinai-egypt/)
 [Ruínas de templo de Zeus são descobertas na Península do Sinai, no Egito](https://revistagalileu.globo.com/Ciencia/Arqueologia/noticia/2022/04/ruinas-de-templo-de-zeus-sao-descobertas-na-peninsula-do-sinai-no-egito.html)
