@@ -79,15 +79,24 @@ date: 1970-01-01 08:00:00
 > Interessante é que o símbolo <strong>S</strong> é o símbolo de <strong>Mercúrio</strong>, o deus romano, o <strong>Filho</strong> de Júpiter e Maia.  
 > Agora Júpiter é <fade-in-fade-out>Z</fade-in-fade-out>eus na mitologia grega, também conhecido como <strong>o Deus do Céu</strong>
 >
-> Anu, o líder dos Anunaki, era referido nas tabuinhas sumérias como <strong>Pai do Céu, Rei dos Deuses.</strong> 🤔  
-> Os Annunaki são um grupo de divindades da antiga mitologia mesopotâmica.  
-> Acreditava-se que eles estavam associados ao céu e eram considerados os criadores da humanidade, de acordo com alguns textos antigos.
->
 > Brincando ainda mais com EU<fade-in-fade-out>S</fade-in-fade-out>, remover o símbolo de poder
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Superman_shield.svg/220px-Superman_shield.svg.png" alt="superman" style="width:5%">
 > , me dá <strong>eu</strong> <u>pequeno eu</u>, em português, e isso me lembra-me de uma grande canção que o meu grande amor e eu gostamos, de [Roberto Carlos - Esse Cara Sou Eu](https://youtu.be/fxtkVjBoDGg?si=kK7QYRYgDkrZsFtZ)
 >
+> Agora, antes dos impérios bizantino, romano e até grego, no centro-sul do Iraque existia uma civilização conhecida como Suméria ou Sumarianos.  
+> Na verdade, esta é conhecida como a civilização mais antiga conhecida e os primeiros textos conhecidos no mundo vêm das cidades sumérias de Uruk e Jemdet Nasr, e datam entre 3350 – 2500 aC, após um período de proto-escrita 4000 – 2500 aC.  
+> Esses sumérios também falavam dos deuses, conhecidos como Anunnaki.  
+> Os Anunnaki são descendentes de An e Ki, <strong>o deus dos céus e a deusa da terra</strong>, e sua função principal era decretar o <strong>destino da humanidade</strong>.  
+> Anu, o líder dos Anunnaki, era referido nas tabuinhas sumérias como <strong>Pai do Céu, Rei dos Deuses.</strong> 🤔  
+> Os Anunnaki são um grupo de divindades da antiga mitologia mesopotâmica.  
+> Acreditava-se que eles estavam associados ao céu e eram considerados os criadores da humanidade ([Enki](https://en.wikipedia.org/wiki/Enki)) de acordo com alguns textos antigos.  
+> Anu, o líder dos Anunaki, era referido nas tabuinhas sumérias como <strong>Pai do Céu, Rei dos Deuses.</strong> 🤔  
+> Acreditava-se que eles estavam associados ao céu e eram considerados os criadores da humanidade, de acordo com alguns textos antigos.
+>
 > Isto daria um grande romance de autores como José Rodrigues Dos Santos ou Dan Brown.  
+> Agora, muitos podem achar esta informação inaceitável e, ou mesmo, tabu.  
+> Aceito isso, e é saudável ter diferenças de opinião, é isso que nos torna interessantes.  
+> Por favor, só não atire no mensageiro... 🙏  
 > <strong>Mas, isso sou só eu.</strong>  
 > ¯\\\_(ツ)\_/¯
 >

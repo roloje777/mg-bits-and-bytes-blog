@@ -79,13 +79,19 @@ date: 1970-01-01 08:00:00
 > Interesting is that the symbol <strong>S</strong> is the symbol of <strong>Mercury</strong>, the roman god, the <strong>Son</strong> of Jupiter and Maia.  
 > Now Jupiter is <fade-in-fade-out>Z</fade-in-fade-out>eus in Greek mythology, also referred to as, <strong>the Sky God</strong>
 >
-> Anu, the leader of the Anunaki, was referred to in the sumerian tablets as <strong>Father of the Sky, King of the God's.</strong> 🤔  
-> The Annunaki are a group of deities in ancient Mesopotamian mythology.  
-> They were believed to be associated with the sky and were considered to be the creators of humanity according to some ancient texts.
+> Playing around further with the EU<fade-in-fade-out>S</fade-in-fade-out> by removing the might symbol <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Superman_shield.svg/220px-Superman_shield.svg.png" alt="superman" style="width:5%">, gives me <strong>eu</strong>, <u>little me</u>, in portuguese, and that reminds me of a great song , my love and I enjoy, by [Roberto Carlos - Esse Cara Sou Eu](https://youtu.be/fxtkVjBoDGg?si=kK7QYRYgDkrZsFtZ)
 >
-> Playing around further with the EU<fade-in-fade-out>S</fade-in-fade-out> by removing the might symbol <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Superman_shield.svg/220px-Superman_shield.svg.png" alt="superman" style="width:5%">, gives me <strong>eu</strong> <u>little me</u>, in portuguese, and that reminds me of a great song , my love and I enjoy, by [Roberto Carlos - Esse Cara Sou Eu](https://youtu.be/fxtkVjBoDGg?si=kK7QYRYgDkrZsFtZ)
+> Now before the Byzantine, Roman and even the Greek empires, in south-central Iraq there was a civilization known as Sumer or the Sumarians.  
+> In fact, this is know as the earliest known civilization and the world's earliest known texts come from the Sumerian cities of Uruk and Jemdet Nasr, and date to between 3350 – 2500 BC, following a period of proto-writing 4000 – 2500 BC.  
+> These sumerians also spoke of the gods, known as the Anunnaki.  
+> The Anunnaki are the descendants of An and Ki, <strong>the god of the heavens and the goddess of earth</strong>, and their primary function was to decree the <strong>fates of humanity</strong>.  
+> Anu, the leader of the Anunnaki, was referred to in the sumerian tablets as <strong>Father of the Sky, King of the God's.</strong> 🤔  
+> They were believed to be associated with the sky and were considered to be the creators of humanity ([Enki](https://en.wikipedia.org/wiki/Enki)) according to some ancient texts.
 >
 > This would give for a great novel by authors such as José Rodrigues Dos Santos or Dan Brown.  
+> Now, many may find this information unacceptable and, or even taboo.  
+> I accept that, and it's healthy to have differences of opinion, that's what makes us interesting.  
+> Please, just don't shoot the messenger... 🙏  
 > <strong>But that's just me.</strong>  
 > ¯\\\_(ツ)\_/¯
 >
@@ -118,3 +124,5 @@ Referências:
 [eus](https://www.merriam-webster.com/dictionary/-eus)  
 [Jupiter](https://www.britannica.com/topic/Jupiter-Roman-god)  
 [Mercury](https://www.britannica.com/topic/Mercury-Roman-god)
+[Sumer](https://en.wikipedia.org/wiki/Sumer)
+[Anunnaki](https://en.wikipedia.org/wiki/Anunnaki)
