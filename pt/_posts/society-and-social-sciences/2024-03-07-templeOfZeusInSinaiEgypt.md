@@ -89,9 +89,7 @@ date: 2024-03-16 07:35:00
 > Os Anunnaki são descendentes de An e Ki, <strong>o deus dos céus e a deusa da terra</strong>, e sua função principal era decretar o <strong>destino da humanidade</strong>.  
 > Anu, o líder dos Anunnaki, era referido nas tabuinhas sumérias como <strong>Pai do Céu, Rei dos Deuses.</strong> 🤔  
 > Os Anunnaki são um grupo de divindades da antiga mitologia mesopotâmica.  
-> Acreditava-se que eles estavam associados ao céu e eram considerados os criadores da humanidade ([Enki](https://en.wikipedia.org/wiki/Enki)) de acordo com alguns textos antigos.  
-> Anu, o líder dos Anunaki, era referido nas tabuinhas sumérias como <strong>Pai do Céu, Rei dos Deuses.</strong> 🤔  
-> Acreditava-se que eles estavam associados ao céu e eram considerados os criadores da humanidade, de acordo com alguns textos antigos.
+> Acreditava-se que eles estavam associados ao céu e eram considerados os criadores da humanidade ([Enki](https://en.wikipedia.org/wiki/Enki)) de acordo com alguns textos antigos.
 >
 > Isto daria um grande romance de autores como José Rodrigues Dos Santos ou Dan Brown.  
 > Agora, muitos podem achar esta informação inaceitável e, ou mesmo, tabu.  
