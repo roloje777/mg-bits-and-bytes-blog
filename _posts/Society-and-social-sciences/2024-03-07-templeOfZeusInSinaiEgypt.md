@@ -110,7 +110,7 @@ The site is located just east of the Suez Canal.
 Referências:  
 [Ancient temple to Zeus uncovered in Egypt's Sinai Peninsula](https://www.al-monitor.com/originals/2022/05/ancient-temple-zeus-uncovered-egypts-sinai-peninsula#ixzz8Tli8J39P)  
 [Ancient Greek Temple of Zeus Unearthed in Sinai, Egypt](https://greekreporter.com/2024/02/13/ancient-greek-temple-zeus-sinai-egypt/)
-[Ruínas de templo de Zeus são descobertas na Península do Sinai, no Egito](https://revistagalileu.globo.com/Ciencia/Arqueologia/noticia/2022/04/ruinas-de-templo-de-zeus-sao-descobertas-na-peninsula-do-sinai-no-egito.html)
+[Ruínas de templo de Zeus são descobertas na Península do Sinai, no Egito](https://revistagalileu.globo.com/Ciencia/Arqueologia/noticia/2022/04/ruinas-de-templo-de-zeus-sao-descobertas-na-peninsula-do-sinai-no-egito.html)  
 [Who Wrote the Bible?](https://www.history.com/news/who-wrote-the-bible)  
 [Conversion of Paul the Apostle](https://en.wikipedia.org/wiki/Conversion_of_Paul_the_Apostle)  
 [What Greek gods are mentioned in the Bible?](https://www.gotquestions.org/Greek-gods-in-the-Bible.html)  
@@ -123,6 +123,6 @@ Referências:
 [The Secret Symbolism of the Letter S](https://www.lithacreationsfrance.com/blogs/news/the-secret-symbolism-of-the-letter-s-what-it-means-for-you-and-your-monogram)  
 [eus](https://www.merriam-webster.com/dictionary/-eus)  
 [Jupiter](https://www.britannica.com/topic/Jupiter-Roman-god)  
-[Mercury](https://www.britannica.com/topic/Mercury-Roman-god)
-[Sumer](https://en.wikipedia.org/wiki/Sumer)
+[Mercury](https://www.britannica.com/topic/Mercury-Roman-god)  
+[Sumer](https://en.wikipedia.org/wiki/Sumer)  
 [Anunnaki](https://en.wikipedia.org/wiki/Anunnaki)
