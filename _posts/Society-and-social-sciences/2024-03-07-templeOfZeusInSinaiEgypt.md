@@ -82,7 +82,7 @@ date: 2024-03-16 07:35:00
 > Playing around further with the EU<fade-in-fade-out>S</fade-in-fade-out> by removing the might symbol <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Superman_shield.svg/220px-Superman_shield.svg.png" alt="superman" style="width:5%">, gives me <strong>eu</strong>, <u>little me</u>, in portuguese, and that reminds me of a great song , my love and I enjoy, by [Roberto Carlos - Esse Cara Sou Eu](https://youtu.be/fxtkVjBoDGg?si=kK7QYRYgDkrZsFtZ)
 >
 > Now before the Byzantine, Roman and even the Greek empires, in south-central Iraq there was a civilization known as Sumer or the Sumarians.  
-> In fact, this is know as the earliest known civilization and the world's earliest known texts come from the Sumerian cities of Uruk and Jemdet Nasr, and date to between 3350 – 2500 BC, following a period of proto-writing 4000 – 2500 BC.  
+> In fact, this is known as the earliest known civilization and the world's earliest known texts come from the Sumerian cities of Uruk and Jemdet Nasr, and date to between 3350 – 2500 BC, following a period of proto-writing 4000 – 2500 BC.  
 > These sumerians also spoke of the gods, known as the Anunnaki.  
 > The Anunnaki are the descendants of An and Ki, <strong>the god of the heavens and the goddess of earth</strong>, and their primary function was to decree the <strong>fates of humanity</strong>.  
 > Anu, the leader of the Anunnaki, was referred to in the sumerian tablets as <strong>Father of the Sky, King of the God's.</strong> 🤔  
