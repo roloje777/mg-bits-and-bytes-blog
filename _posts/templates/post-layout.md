@@ -37,6 +37,7 @@
         overflow: hidden; 
     }
 
+
 	.vertical{
     border-left: 4px solid;
     border-right: 4px solid;
@@ -56,6 +57,7 @@
 
 </style>
 
+<!-- Use <blockquote></blockquote> instead of this -->
 <!-- adding blockqoutes -->
 <p class="vertical">
  <vertical-text>

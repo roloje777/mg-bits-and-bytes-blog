@@ -96,8 +96,7 @@ date: 1970-01-01 08:00:00
 
 </style>
 
-<p class="vertical">
- <vertical-text>
+ <blockquote>
     It' been around three months since we were all full of hope and planning our new goals.<br>
     After all, its was a new year, so a new opportunity to improve on our previous years performance.<br>
     It's not uncommon for us to be filled with hope at New Years Day and put ourselves on the spot by making resolutions, such as exercising regularly or stop smoking, just to find a little later in the year that it was all in vain.<br>
@@ -107,9 +106,9 @@ date: 1970-01-01 08:00:00
     💡 Or, wait a moment.<br>
     Doesn't one have a chance to reset one's resolution on the 25th of March? <br>
     Maybe, we should ask the Pope<br>
-    ¯\_(ツ)_/¯   
- </vertical-text>
-</p>
+    ¯\_(ツ)_/¯
+
+</blockquote>
 
 <container>
   <image-container>
@@ -168,13 +167,11 @@ date: 1970-01-01 08:00:00
     It was introduced to correct the miscalculations of the Julian calendar.<br>
     The principal change was to space leap years differently so as to make the average calendar year 365.2425 days long, more closely approximating the 365.2422-day 'tropical' or 'solar' year that is determined by the Earth's revolution around the Sun.<br> 
     It's only differs by 11 minutes compared to it's predecessor the Julian calendar.<br>
-    <p class = "vertical">
-      <vertical-text>
+    <blockquote>
         You will not believe the difference 11 minutes makes.<br>
         I'm writing this post on the 17th of March 2024 and if I look at the Julian date, it's the 4th March 2024.<br>
         <a href="https://planetcalc.com/8497/">Gregorian date to Julian date</a>
-      </vertical-text>    
-    </p>
+     </blockquote>
     The 1st of January was once again introduced as New Years Day.<br>
     </p>  
   </container-text>
