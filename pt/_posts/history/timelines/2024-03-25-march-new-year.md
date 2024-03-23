@@ -16,7 +16,7 @@ img: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/10/04/1
 # comments_disable: true
 
 # publish date
-date: 1970-01-01 08:00:00
+date: 2024-03-23 05:12:00
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
