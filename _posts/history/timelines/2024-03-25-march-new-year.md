@@ -194,7 +194,7 @@ date: 2024-03-23 05:12:00
     <a href="https://en.m.wikipedia.org/wiki/Julian_calendar">Julian calendar</a><br>
     <a href="https://www.britannica.com/topic/Annunciation-Christianity">Annunciation day</a><br>
     <a href="https://www.independent.co.uk/news/uk/home-news/gregorian-calendar-five-facts-a7345126.html">gregoran calendar</a><br>
-    <a hrefc="https://www.standard.co.uk/news/world/ew-year-resolutions-origin-history-b1129369.html">Where did New Year's resolutions come from? An abridged history</a><br>
+    <a href="https://www.standard.co.uk/news/world/new-year-resolutions-origin-history-b1129369.html">Where did New Year's resolutions come from? An abridged history</a><br>
     <a href="https://www.forbes.com/health/mind/new-years-resolutions-statistics/">New Year’s Resolutions Statistics 2024</a><br>
     </p>
 

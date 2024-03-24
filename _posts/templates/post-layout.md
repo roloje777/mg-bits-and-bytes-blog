@@ -14,9 +14,12 @@
 		object-fit:contain;	  	
 	}
     container-text{	
-        width: 40%;
-        margin-left: 5px;
-		margin-top: 20px;
+       /* width: 40%; 
+        margin-left: 5px;*/
+        display: block;
+        margin-top: 20px; 
+        padding-top: 1 px;
+        /* border: solid 1px; */
 	}
 
     ol{
@@ -27,14 +30,20 @@
    /* used as <p class="vertical"></p> instead I can also use <blockquote> 
      or > in md
       */
-    video-container{        
-        style="position: relative;
-        padding-bottom: 56.25%;
-        padding-top: 35px;
-        height: 0;
-        margin-bottom: 2em;
-        margin-top: 2em;
-        overflow: hidden; 
+    video-container{   
+		width: 60%;
+		float:left;
+		border: hidden; 
+		margin: 20px;
+    }
+
+    iframe{
+       position: relative; 
+        top: 0; 
+        left: 0; 
+        width: 100%; 
+        height: 100%; 
+        object-fit-contain;
     }
 
 
@@ -56,7 +65,6 @@
 
 
 </style>
-
 <!-- Use <blockquote></blockquote> instead of this -->
 <!-- adding blockqoutes -->
 <p class="vertical">
