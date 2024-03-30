@@ -11,7 +11,7 @@ category: Ciências naturais e físicas
 # multiple tag entries are possible
 tags: [ciência da saúde]
 # thumbnail image for post
-img: "https://scontent.fopo3-1.fna.fbcdn.net/v/t1.6435-9/43372306_2185456298446094_7698027948007227392_n.png?_nc_cat=101&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=5ptzaMO7JjgAX_yPOWd&_nc_ht=scontent.fopo3-1.fna&oh=00_AfB9wd90QueUQTT_pqoG3wStCqN9pTnjIIs_wnP2QkOQTg&oe=65C7175B"
+img: "https://www.mcgill.ca/oss/files/oss/styles/hd/public/blood_0.jpg?itok=XUVdbzYH&timestamp=1574445459"
 # disable comments on this page
 # comments_disable: true
 # publish date
