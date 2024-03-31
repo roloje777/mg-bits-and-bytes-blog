@@ -7,9 +7,9 @@ title: Bombs away
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: Technology and applied sciences
+category: Natural and physical sciences
 # multiple tag entries are possible
-tags: [insect, animals]
+tags: [insects, animals]
 # thumbnail image for post
 img: "https://m.media-amazon.com/images/M/MV5BYjE3ODg1NDktNWQ0NC00ODUyLThlODAtNTI0MzZkMjEwMTcwXkEyXkFqcGdeQXVyNjY0ODg0MTA@._V1_.jpg"
 # disable comments on this page
