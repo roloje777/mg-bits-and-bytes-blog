@@ -151,8 +151,11 @@ Então ele pode bombardear seu inimigo.<br>
 <p>
 E o spray também não sai aleatoriamente; o besouro pode apontar sua arma para o alvo pretendido.<br>
 A transformação do spray em arma é o resultado de ele ser quente e corrosivo: a temperatura do spray pode chegar a 212°F com um efeito corrosivo.</p>
-<p>Você provavelmente está se perguntando se os besouros bombardeiros pulverizam os humanos com esse produto químico corrosivo? Sim, os besouros-bombardeiro geralmente borrifam animais maiores e humanos quando se sentem ameaçados, mas não há nada com que você precise se preocupar.<br> Um ataque de spray de um besouro-bombardeiro pode queimar um pouco, mas desaparecerá rapidamente.< br>
-Na verdade, há uma boa chance de você ter sido atingido por um besouro bombardeiro e pensar que era outra coisa.</p>
+<p>
+Você provavelmente está se perguntando se os besouros bombardeiros pulverizam os humanos com esse produto químico corrosivo? Sim, os besouros-bombardeiro geralmente borrifam animais maiores e humanos quando se sentem ameaçados, mas não há nada com que você precise se preocupar.<br>
+Um ataque de spray de um besouro-bombardeiro pode queimar um pouco, mas desaparecerá rapidamente.<br>
+Na verdade, há uma boa chance de você ter sido atingido por um besouro bombardeiro e pensar que era outra coisa.
+</p>
 </container-text>
 </container>
 
