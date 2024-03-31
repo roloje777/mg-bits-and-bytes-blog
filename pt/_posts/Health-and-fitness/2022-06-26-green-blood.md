@@ -7,7 +7,7 @@ title: Sangue Verde
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: Ciências naturais e físicas
+category: Saúde e fitness
 # multiple tag entries are possible
 tags: [ciência da saúde]
 # thumbnail image for post

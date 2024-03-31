@@ -107,13 +107,12 @@ date: 2024-03-30 10:46:00
 
 <blockquote>
 <p>You've most like heard the term <span><a href="https://idioms.thefreedictionary.com/bombs+away">bombs away</a></span>, but have you been personally bombed before?<br>
-c and answer no.<br>
+I caution you not to be too hasty in your response.<br>
 </p>
 <p>
 ¯\_(ツ)_/¯
 </p>
 </blockquote>
-
 <div
   style="position: relative;padding-bottom: 56.25%;padding-top: 35px;height: 0;margin-bottom: 2em;
     overflow: hidden;">
@@ -121,10 +120,8 @@ c and answer no.<br>
         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%"
         src="https://www.youtube.com/embed/BWwgLS5tK80?si=vmWSx3cR6wRvuq28" title="YouTube video player"     allowfullscreen   >
   </iframe> 
- 
 </div>
  <p style="position: relative; text-align: center">The Bombardier Beetle And Its Crazy Chemical Cannon | Deep Look</p>
-
 <container>
 <h4>The bombardier beetle</h4>
 <p>The bombardier beetle actually refers to any one of more than five hundred species of ground beetles that protects itself by shooting a boiling hot liquid chemical from its stomach that makes a popping sound.</p>
@@ -150,15 +147,17 @@ Then it can bomb its enemy.<br>
 <container-text>
 <p>
 And the spray doesn’t come out randomly either; the beetle can aim its weapon at its intended target.<br>
-The weaponization of the spray is the result of it being both hot and corrosive: The temperature of the spray can get as high as 212°F with a corrosive effect.</p>
+The weaponization of the spray is the result of it being both hot and corrosive: The temperature of the spray can get as high as 212°F with a corrosive effect.
+</p>
 <p>You’re probably wondering if bombardier beetles spray humans with this corrosive chemical? Yes, bombardier beetles commonly spray larger animals and humans when they feel threatened, but there is nothing you have to worry about.<br> A spray attack from a bombardier beetle might burn for a little bit, but it will quickly go away.<br>
-Actually, there is a good chance that you’ve been sprayed by a bombardier beetle and thought it was something else.</p>
+Actually, there is a good chance that you’ve been sprayed by a bombardier beetle and thought it was something else.
+</p>
 </container-text>
 </container>
-
 <container>
 <p><i>References:</i></p>
-<p><a href="https://www.wook.pt/livro/interesting-stories-for-curious-people-bill-o-neill/26162550">"Interresting stories for curious people- ,Bill O'Niel"</a><br>
+<p>
+<a href="https://www.wook.pt/livro/interesting-stories-for-curious-people-bill-o-neill/26162550">"Interesting stories for curious people- ,Bill O'Niel"</a><br>
 <a href="https://en.wikipedia.org/wiki/Bombardier_beetle">Bombardier beetle</a>
 </p>
 </container>
