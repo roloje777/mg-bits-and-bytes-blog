@@ -62,7 +62,15 @@
   
   font-family: cursive;
   }
-
+/** on hover paragraph **/
+  .my-p{
+        display:inline;
+        color:blue;
+  }
+  .my-p:hover{
+    text-decoration: underline;
+    cursor:pointer;
+  }
 
 </style>
 <!-- Use <blockquote></blockquote> instead of this -->
