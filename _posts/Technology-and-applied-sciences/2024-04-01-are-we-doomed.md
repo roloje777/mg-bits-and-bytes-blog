@@ -674,8 +674,8 @@ LSU women’s basketball star <a href="https://www.foxnews.com/sports/lsu-star-a
     <image-container>
         <img src="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/720/405/Google-meeting.png?ve=1&tl=1" alt="gemini">
     </image-container>
-    <>
-    <div>"They said no, f--- it.<br>
+    <p>
+    <i>"They said no, f--- it.<br>
      We got to get to market because we are losing to ChatGPT," the source claimed.</i>
     </p>
     <p>

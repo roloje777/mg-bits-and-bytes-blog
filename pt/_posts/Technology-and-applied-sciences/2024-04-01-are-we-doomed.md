@@ -1179,7 +1179,7 @@ Agora gostaria de destacar alguns pontos levantados pelo autor de vários livros
             </div>
             <p style="position: relative; text-align: center">INTELIGÊNCIA ARTIFICIAL X INTELIGÊNCIA HUMANA</p>
             <p>
-            Bem, o QI mede suas habilidades cognitivas e intelectuais, como memória de trabalho, pensamento analítico e retenção de conhecimento, e parece-me que a IA nos venceu em relação a isso na maioria das tarefas e acredito em breve em todas as tarefas relacionadas ao poder do cérebro.< br>
+            Bem, o QI mede suas habilidades cognitivas e intelectuais, como memória de trabalho, pensamento analítico e retenção de conhecimento, e parece-me que a IA nos venceu em relação a isso na maioria das tarefas e acredito em breve em todas as tarefas relacionadas ao poder do cérebro.<br>
             </p>
             <p>
             Agora, por outro lado, EQ refere-se às suas habilidades emocionais e sociais, incluindo empatia cognitiva, regulação emocional e motivação.<br>
