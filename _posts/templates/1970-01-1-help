@@ -1,0 +1,94 @@
+<!-- add with coffe-01 css code -->
+<!-- english -->
+
+<details>
+        <summary>
+        <p style="margin: 0.5em 0 0.5em 0"><div class="my-p">Click here first and I'll take you to one of my favourite places before you continue reading this blog.</div><br></p>
+        </summary>
+        <container>
+        <!-- Coffee machine -->
+                <div class="container">
+                <div class="coffee-header">
+                <div class="coffee-header__buttons coffee-header__button-one"></div>
+                <div class="coffee-header__buttons coffee-header__button-two"></div>
+                <div class="coffee-header__display"></div>
+                <div class="coffee-header__details"></div>
+                </div>
+                <div class="coffee-medium">
+                <div class="coffe-medium__exit"></div>
+                <div class="coffee-medium__arm"></div>
+                <div class="coffee-medium__liquid"></div>
+                <div class="coffee-medium__smoke coffee-medium__smoke-one"></div>
+                <div class="coffee-medium__smoke coffee-medium__smoke-two"></div>
+                <div class="coffee-medium__smoke coffee-medium__smoke-three"></div>
+                <div class="coffee-medium__smoke coffee-medium__smoke-for"></div>
+                <div class="coffee-medium__cup"></div>
+                </div>
+                <div class="coffee-footer"></div>
+            </div>
+            <blockquote>
+            <image-container>
+            <img src="https://i.stack.imgur.com/YIcbV.png" alt="menus">
+            </image-container>
+            <p>Note that you can click on the links <strong>(text in another colour)</strong> for more information.<br>
+            You can also toggle the colour scheme on the bottom left.<br>
+            💡= light theme<br>
+            ☾ = dark theme<br>
+            Depending on you screen size you may need to activate the menu (top left 3 "Hamburger menu") for option to apear.<br>
+            On this site you can also opt to read this blog in portuguese, select Pt [En <strong>Pt</strong>]<br>
+            Now if you want to read this blog, or a link you've opened in another language, just select translate from your browsers menu.<br>
+            In Chrome it's a "Kebab" menu.<br>
+            So, you got your coffee, relax and enjoy the blog.<br>
+            ¯\_(ツ)_/¯<br>
+            </p>  
+            </container>          
+            </blockquote>
+        </details>
+
+        <!-- portugueses -->
+        <details>
+        <summary>
+        <p style="margin: 0.5em 0 0.5em 0"><div class="my-p">Clique aqui primeiro e vou levá-lo a um dos meus lugares favoritos antes de continuar lendo este blog.</div><br></p>
+        </summary>
+        <container>
+        <!-- Coffee machine -->
+                <div class="container">
+                <div class="coffee-header">
+                <div class="coffee-header__buttons coffee-header__button-one"></div>
+                <div class="coffee-header__buttons coffee-header__button-two"></div>
+                <div class="coffee-header__display"></div>
+                <div class="coffee-header__details"></div>
+                </div>
+                <div class="coffee-medium">
+                <div class="coffe-medium__exit"></div>
+                <div class="coffee-medium__arm"></div>
+                <div class="coffee-medium__liquid"></div>
+                <div class="coffee-medium__smoke coffee-medium__smoke-one"></div>
+                <div class="coffee-medium__smoke coffee-medium__smoke-two"></div>
+                <div class="coffee-medium__smoke coffee-medium__smoke-three"></div>
+                <div class="coffee-medium__smoke coffee-medium__smoke-for"></div>
+                <div class="coffee-medium__cup"></div>
+                </div>
+                <div class="coffee-footer"></div>
+            </div>
+            <blockquote>
+            <image-container>
+            <img src="https://i.stack.imgur.com/YIcbV.png" alt="menus">
+            </image-container>
+            <p>Observe que você pode clicar nos links <strong>(texto em outra cor)</strong> para obter mais informações.<br>
+            Você também pode alternar o esquema de cores no canto inferior esquerdo.<br>
+            💡= tema claro<br>
+            ☾ = tema escuro<br>
+            Dependendo do tamanho da tela, pode ser necessário ativar o menu (3 no canto superior esquerdo "Menu Hambúrguer") para que a opção apareça.<br>
+            Neste site você também pode optar por ler este blog em português, selecione Pt [En <strong>Pt</strong>]<br>
+            Agora, se você quiser ler este blog, ou um link que você abriu em outro idioma, basta selecionar traduzir no menu do seu navegador.<br>
+            No Chrome é um menu "Kebab".<br>
+            Dependendo do tamanho da tela, pode ser necessário ativar o menu (3 linhas horizontais no canto superior esquerdo) para que a opção apareça.<br>
+            For zoomable images you can just click on image to zoom and off image to zoom out.<br>
+            Para imagens com zoom, basta clicar na imagem para ampliar e fora da imagem para diminuir o zoom.<br>
+            Então, você tomou seu café, relaxe e aproveite o blog.<br>
+            ¯\_(ツ)_/¯<br>
+            </p>
+            </container>
+            </blockquote>
+        </details>
