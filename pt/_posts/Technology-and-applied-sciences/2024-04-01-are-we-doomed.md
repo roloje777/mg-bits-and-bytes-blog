@@ -16,7 +16,7 @@ img: "https://static01.nyt.com/images/2015/05/26/science/26ROBOTS3/26ROBOTS3-sup
 # comments_disable: true
 
 # publish date
-date: 1970-01-01 08:00:00
+date: 2024-04-01 08:23:20
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
