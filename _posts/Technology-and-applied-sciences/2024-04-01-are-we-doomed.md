@@ -400,7 +400,7 @@ date: 1970-01-01 08:00:00
 </style>
 
 <container>
-    <div
+      <div
   style="position: relative;padding-bottom: 56.25%;padding-top: 35px;height: 0; margin-bottom: 2em;
    overflow: hidden; ">
         <iframe
@@ -411,6 +411,7 @@ date: 1970-01-01 08:00:00
     </div>
     <p style="position: relative; text-align: center">The T800 got us in Terminator Resistance on PS5</p>
 </container>
+<h4>Foreword</h4>
 <blockquote>
         Like everything else, people are divided into two groups, those who fear and those who support artificial intelligence (AI).<br>
         <details>
@@ -432,6 +433,7 @@ date: 1970-01-01 08:00:00
         <summary>
         <p style="margin: 0.5em 0 0.5em 0"><div class="my-p">Click here first and I'll take you to one of my favourite places before you continue reading this blog.</div><br></p>
         </summary>
+        <container>
         <!-- Coffee machine -->
                 <div class="container">
                 <div class="coffee-header">
@@ -453,15 +455,23 @@ date: 1970-01-01 08:00:00
                 <div class="coffee-footer"></div>
             </div>
             <blockquote>
+            <image-container>
+            <img src="https://i.stack.imgur.com/YIcbV.png" alt="menus">
+            </image-container>
             <p>Note that you can click on the links <strong>(text in another colour)</strong> for more information.<br>
             You can also toggle the colour scheme on the bottom left.<br>
             💡= light theme<br>
             ☾ = dark theme<br>
-            Depending on you screen size you may need to activate the menu (top left 3 horizontal lines) for option to apear.<br>
+            Depending on you screen size you may need to activate the menu (top left "Hamburger menu") for option to apear.<br>
+            On this site you can also opt to read this blog in portuguese, select Pt [En <strong>Pt</strong>]<br>
+            Now if you want to read this blog, or a link you've opened in another language, just select translate from your browsers menu.<br>
+            In Chrome it's a "Kebab" menu.<br>
+            For zoomable images you can just click on image to zoom and off image to zoom out.<br>
             So, you got your coffee, relax and enjoy the blog.<br>
             ¯\_(ツ)_/¯<br>
-            </p>            
+            </p>                     
             </blockquote>
+            </container> 
         </details>
         <p>
         There may be many positives from AI and robotics, but the same can be said about its disadvantages.<br>
@@ -544,7 +554,7 @@ date: 1970-01-01 08:00:00
     <h4>Will robots take our jobs?</h4>
     <p>
     It is probably not an easy answer to provide, but the concern is far from being baseless.<br>
-    Even if the change is not imminent right now, industry experts such as Fortune have stated that <strong>robots will replace 40% of jobs in the next 15 years</strong>r.<br>
+    Even if the change is not imminent right now, industry experts such as Fortune have stated that <strong>robots will replace 40% of jobs in the next 15 years</strong>.<br>
     </p>
     <p>
      According to the World Intelligence Congress, AI, virtual personal assistants, and chatbots will replace almost 69% of the manager’s workload by 2024.<br>
@@ -664,14 +674,19 @@ LSU women’s basketball star <a href="https://www.foxnews.com/sports/lsu-star-a
     <image-container>
         <img src="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/720/405/Google-meeting.png?ve=1&tl=1" alt="gemini">
     </image-container>
-    <p>
-    <i>"They said no, f--- it.<br>
+    <>
+    <div>"They said no, f--- it.<br>
      We got to get to market because we are losing to ChatGPT," the source claimed.</i>
     </p>
     <p>
     The release of ChatGPT was seen as a massive threat to Google's business model.<br>
     YouTube's ad revenue has been shrinking year over year. TikTok had been slowly carving into the earnings of Google's flagship video-sharing platform...
     </p>
+    <blockquote>
+    <p>
+    I <span style="font-size:2em">🤔</span> if the USA wanting to ban TikTok have anything to do with the above?
+    </p>
+    </blockquote>
     <p>
     <i>Teams within Google Research and other vital departments were reassigned.<br>
     YouTube Ads, Search and generative AI became priority number one. They needed to catch up, and they took "shortcuts" to get there, the former employee says.</i>
@@ -721,6 +736,8 @@ LSU women’s basketball star <a href="https://www.foxnews.com/sports/lsu-star-a
             Snake robots are a compelling addition to search-and-rescue teams, as the systems can squeeze into spots people and other robots can’t.<br>
             Other applications include plumbing and even medical, with scaled down versions that can move around pipes and human organs, respectively.<br>
             NASA JPL (Jet Propulsion Laboratory), never one to shy away from futuristic robotic applications, has been exploring ways the robust form factor could be deployed to scout out extraterrestrial life.
+            <br>
+            <a href="https://www.jpl.nasa.gov/news/jpls-snake-like-eels-slithers-into-new-robotics-terrain">JPL’s Snake-Like EELS Slithers Into New Robotics Terrain</a>
             </p>
 </container>   
 <container>
@@ -740,6 +757,57 @@ LSU women’s basketball star <a href="https://www.foxnews.com/sports/lsu-star-a
     </p>
 </container>
 <container>
+<h4>What about sex?</h4>  
+    <blockquote>    
+    <p>
+    Did you know that according to Jacqueline Hellyer us humans are sexual beings
+    because we have big heads.<span style="text-size:2em"> 😂</span><br>
+    </p>
+    <p>
+    ¯\_(ツ)_/¯<br>
+    </p>
+   </blockquote>  
+  <details>  
+    <summary>  
+    <div class="my-p">
+    She goes on to say, <i>"..humans have evolved to be highly sexual because our babies are born too early."</i>
+    </div>
+    </summary>
+    <framed-text>
+      <p>
+      The reason our babies are born too early is because our brains are so big that babies have to be born before their heads grow too large to be able to get out of the birth canal.<br>
+      Which means they are born utterly useless.<br>
+      Other mammalian mothers can look after one or even a whole litter of infants on her own, because her young are sufficiently able to cope while she’s off hunting, or can follow her around reasonably well.<br>
+      As humans evolved, both parents, and quite possibly the whole tribe, were needed to raise infants to an age of survival and usefulness. Sex evolved in humans to keep people bonded while they raised their slow-maturing children.<br>
+      This fact also puts paid to the myth that men naturally want to ‘sow their seed’ widely.<br>
+      That is not a human reproductive strategy. Humans would never have evolved to the level we have if the men were off wandering around ‘sowing their seed’ and leaving the mothers to raise the kids alone.<br>
+      Sex is so much more than just conceiving children; sex enables a couple to feel good about each other while raising those children. So, our big brains have forced us to evolve to have good sex.<br>
+      <a href="https://www.jacquelinehellyer.com/lovelife_blog/why-humans-are-so-sexual">Why are humans so sexual?</a>
+   </p>
+   </framed-text>
+</details>
+<div style="position: relative;padding-bottom: 56.25%;padding-top: 35px;height: 0; margin: 2em 0 2em 0;
+                overflow: hidden; ">
+                <iframe
+                    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%"
+                    src="https://www.youtube.com/embed/orBH_Qnw3eY?si=vv_lPJ58A5JeLMmh"
+                    title="YouTube video player"  allowfullscreen >
+                </iframe>
+            </div>
+             <p style="position: relative; text-align: center">Meet Harmony The Sex Robot | SLUTEVER</p>
+<p>
+Sexting, dating and even having intercourse with artificial intelligence is a rising trend.<br>
+In 2014, the year before Attwood published her novel, Pew research predicted robotic sex partners would become commonplace, the same year in which Sext Adventure, a satirical text message-based game that enables you to sext with a robot, was released.<br>
+In 2022, the seventh International Congress on Love and Sex with Robots was held – virtually, of course – which reaffirmed that academic interest in sex-tech is surging in tandem with popular interest.<br>
+In 2022, the 'first artificial intelligence capable of sex and intimate relationships’ was introduced to the world by Realbotox, an artificial intelligence firm based in California.<br>
+The eerily human-like doll’s name was Harmony and, according to her creators, operates alongside an app for users to have a ‘conversation with’.<br>
+If the real deal (well, as real as it gets in the realm of AI) is too much for you, then there’s the ever-expanding sphere of audio erotica, which is exploding quicker than, well, you get the gist.<br>
+Since Bloom launched its feature in September 2023, in which users can have flirtatious and sexual conversations via text and in real-life with different characters on its site and app, over 50 million messages have been exchanged, and almost 4000 hours of audio consumed.<br>
+In 2021, the global sexual wellness market was valued at $80 billion (£63 billion) — and it’s predicted to hit $120 billion (£95 billion) by 2030. This is an industry in its infancy.<br>
+<a href="https://www.elle.com/uk/life-and-culture/culture/a46883596/sexual-artificial-intelligence/">Sexual AI Is On The Rise – What Does It Say About Modern Love?</a>
+</p>
+</container>
+<container>
     <blockquote>
     <p>
      Now all this may <b>NOT</b> seem frightening, but what if they made an AI cat...
@@ -747,6 +815,7 @@ LSU women’s basketball star <a href="https://www.foxnews.com/sports/lsu-star-a
      ¯\_(ツ)_/¯<br>
     </p>    
     </blockquote>
+  <h4>AI Pets</h4>
     <div style="position: relative;padding-bottom: 56.25%;padding-top: 35px;height: 0; margin: 2em 0 2em 0;
                 overflow: hidden; ">
                 <iframe
@@ -756,10 +825,26 @@ LSU women’s basketball star <a href="https://www.foxnews.com/sports/lsu-star-a
                 </iframe>
             </div>
              <p style="position: relative; text-align: center">Transform Your Life with AI Robot Cat Maicat!</p>
+  <p>
+    A slew of innovations driven by artificial intelligence will give us a leg up on everything from illness detection to pet safety, transforming how we parent our pets.<br>
+    <i>“You can buy AI devices that will monitor your [pet], but can also keep track of your dog or your cat poop,
+  ”</i> Dr. Lionel Robert, professor of Information and Robotics at the University of Michigan, tells The Wildest.<br>
+  <a href="https://www.thewildest.com/pet-lifestyle/artificial-intelligence-pet-care">5 Ways AI Will Change the Way You Parent Your Pet—Are You Ready?</a> 
+  </p>
+  <p>
+    Artificial intelligence could soon start replacing household pets — no vet bills required.<br>
+    As various types of robots continue to hit the market, AI-powered “animals” have arrived on the scene as well.<br>
+    One example is Go1, the world’s first intelligent quadruped robot “companion” that is developed by China’s Unitree Robotics.<br>
+    The robotic sidekick walks on all fours, much like a dog — but there’s no need for a collar or a leash.<br>
+    <a href="
+    https://nypost.com/2023/08/09/ai-pets-could-replace-dogs-and-cats-but-expert-warns-that-long-term-effects-are-unknown/">AI pets could replace dogs and cats, but expert warns that ‘long-term effects’ are unknown</a>
+  </p>
 </container>
 <container>
     <h4>Generative artificial intelligence (GenAI) </h4>
-    <a href="https://www.visualcapitalist.com/generative-ai-explained-by-ai/"><img src="https://www.visualcapitalist.com/wp-content/uploads/2023/01/generative-ai-infographic-MAIN.png" alt="generative AI">What is GENERATIVE AI</a>
+    <image-container>
+    <a href="https://www.visualcapitalist.com/generative-ai-explained-by-ai/"><img src="https://www.visualcapitalist.com/wp-content/uploads/2023/01/generative-ai-infographic-MAIN.png" alt="generative AI"><p style="position: relative; text-align: center">What is GENERATIVE AI</p></a>
+    </image-container>
     <p>
         Generative artificial intelligence (GenAI) can create certain types of images, text, videos, and other media in response to prompts.<br>
         AI generators like ChatGPT and DALL-E2 are gaining worldwide popularity.<br>
@@ -775,7 +860,7 @@ LSU women’s basketball star <a href="https://www.foxnews.com/sports/lsu-star-a
 </container>
 <container>
     <h4>Protopian AI-driven future</h4>
-    <p>Technology is advancing at an unprecedented rate, and it is evident that the next 10 years will bring more change than the previous 100 years.<br>
+    <p>Technology is advancing at an unprecedented rate, and it is evident that the <strong>next 10 years will bring more change than the previous 100 years</strong>.<br>
     </p>
     <p>
     While some envision a dystopian future where climate change decimates our world, others see the potential for a utopia, a heavenly existence.<br>
@@ -803,34 +888,39 @@ LSU women’s basketball star <a href="https://www.foxnews.com/sports/lsu-star-a
     In an interview with the New York Times, the tech avantgarde Elon Musk said that artificial intelligence would take over humans in the next five years.
     </p>
     <p>
-    <i>“You can have a job if you want to have a job or sort of personal satisfaction, but the AI will be able to do everything.”</i><br>
-    <i>"Universal income will be necessary over time if AI takes over most human jobs."</i>
+    <i>“You can have a job if you want to have a job or sort of personal satisfaction, but the <strong>AI will be able to do everything</strong>.”</i><br>
+    <i>"<strong>Universal income will be necessary over time if AI takes over most human jobs</strong>."</i>
     </p>
     <p>
     <i>"They basically made a strategy decision to say, generative AI; we have to get on it. We don't care about fairness anymore.<br>
-    We don't care about bias, ethics.<br>
+    We don't care about bias, <a href="https://roloje777.github.io/mg-bits-and-bytes-blog/posts/philosophy-and-thinking/2024-02-28-there-is-no-evil">ethics</a>.<br>
     As long as it's not producing child sexual abuse material or doing something harmful to a politician that could potentially affect our image, we're going to throw s---out there," the former Google employee said.</i>
     </p>
         <image-container>
         <a href="https://en.wikipedia.org/wiki/Elon_Musk"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg/220px-Elon_Musk_Colorado_2022_%28cropped2%29.jpg" alt="Elon Musk"><p>Elon Musk</p></a>              
-    </image-container>    
-    <p>
-    <u>What Is Universal Basic Income (UBI)?</u><br>
-    Universal basic income (UBI) is a government program in which every adult citizen receives a set amount of money regularly.<br>
-    The goals of a basic income system are to alleviate poverty and replace other need-based social programs that potentially require greater bureaucratic involvement.<br>
-    The idea of universal basic income has gained momentum in the U.S. as automation increasingly replaces workers in manufacturing and other sectors of the economy.
-    </p>
-    <p>
-    This concept has risen to the national consciousness since around 2020.<br>
-    Much of renewed interest on the subject has to do with fundamental changes to the economy—namely, the growth of automation—that threaten to leave many Americans without jobs that pay a subsistence wage.<br>
-    Supporters of universal basic income believe a guaranteed payment from the government can help ensure that those who are left behind by this economic transformation avoid poverty.<br>
-    Even if government-sourced income isn’t enough to live on, it could theoretically supplement the income from the lower-wage or part-time jobs they are still able to obtain.
-    </p>
-    <p>
-    Despite its promise to curtail poverty and cut red tape, universal basic income still faces an uphill battle.<br> Perhaps the most glaring downside is cost.<br>
-    According to the non-profit Tax Foundation, Andrew Yang’s $1,000-a-month Freedom Dividend for every adult would have cost $2.8 trillion each year.<br>
-    ...other criticisms of UBI is the argument that an income stream that’s not reliant on employment would create a disincentive to work.<br>
-    </p>
+    </image-container> 
+    <details>  
+      <summary> 
+        <div class="my-p">What Is Universal Basic Income (UBI)?<br></div>
+      </summary>
+       <framed-text> 
+         <p>
+        Universal basic income (UBI) is a government program in which every adult citizen receives a set amount of money regularly.<br>
+        The goals of a basic income system are to alleviate poverty and replace other need-based social programs that potentially require greater bureaucratic involvement.<br>
+        The idea of universal basic income has gained momentum in the U.S. as automation increasingly replaces workers in manufacturing and other sectors of the economy.</p>
+        <p>
+        This concept has risen to the national consciousness since around 2020.<br>
+        Much of renewed interest on the subject has to do with fundamental changes to the economy—namely, the growth of automation—that threaten to leave many Americans without jobs that pay a subsistence wage.<br>
+        Supporters of universal basic income believe a guaranteed payment from the government can help ensure that those who are left behind by this economic transformation avoid poverty.<br>
+        Even if government-sourced income isn’t enough to live on, it could theoretically supplement the income from the lower-wage or part-time jobs they are still able to obtain.
+        </p>
+        <p>
+        Despite its promise to curtail poverty and cut red tape, universal basic income still faces an uphill battle.<br> Perhaps the most glaring downside is cost.<br>
+        According to the non-profit Tax Foundation, Andrew Yang’s $1,000-a-month Freedom Dividend for every adult would have cost $2.8 trillion each year.<br>
+        ...other criticisms of UBI is the argument that an income stream that’s not reliant on employment would create a disincentive to work.<br>
+        </p>
+        </framed-text>       
+    </details>
     <p>
     <i>“We won’t have universal basic income.<br>
     We’ll have universal high income,”</i> Musk said, though he did not explicitly define the difference.
@@ -1042,7 +1132,7 @@ Now I'd like to highlight some points made by the author of many books on humani
         The new functionality in <span><a href="https://blockworks.co/news/google-adds-ens-to-search"><img style="width:5%" src="https://blockworks.co/_next/image?url=https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2024%2F03%2FGoogle-1.jpg&w=1920&q=75" alt="Google">search</a></span> appears to have been introduced without a formal announcement and without the knowledge or input from ENS developers, who expressed surprise on X Thursday.</p>
         <blockquote>
         Now why was the developer surprised (°ロ°) !<br>
-        Well, it see,ms that googles AI works so well that it went ahead, without it's developers knowledge or consent and <a href="">added ENS to its search function.</a><br>
+        Well, it see,ms that googles AI works so well that it went ahead, without it's developers knowledge or consent and <strong>added ENS to its search function</strong>.<br>
         Below is the developers post on X.
         </blockquote>
         <framed-text>
@@ -1107,8 +1197,8 @@ Now I'd like to highlight some points made by the author of many books on humani
           <a href="https://www.deciphergroup.co.nz/blogs/iq-eq-and-now-aq/"><img src="https://www.deciphergroup.co.nz/wp-content/uploads/The-four-types-of-intelligence-400x1000.jpg" alt="four types of Intelligence"><p>IQ, EQ and now AQ</p></a>
         </image-container>
         <p>
-        Imagine you are some NASA engineer in the future and you've been posted with your colleges on a remote space station for an extended period of your career.<br>
-        Now all your colleges are of the species AI.<br>
+        Imagine you are some NASA engineer in the future and you've been posted with your colleagues on a remote space station for an extended period of your career.<br>
+        Now all your colleagues are of the species AI.<br>
         How will you and your pals adapt to various situations?<br>
         We all know that we are social beings, what about our pals, are they good at socializing?<br>
         The question we should pose is - humans have at least four types of intelligence to help us with life complexities, how many do our AI friends have and how well can they apply them? <br>
