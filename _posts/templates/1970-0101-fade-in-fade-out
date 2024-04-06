@@ -1,0 +1,15 @@
+<style>
+    @keyframes fade-inout {
+        0% {
+        opacity: 1;
+        }
+        100% {
+        opacity: 0;
+        }
+    }
+    fade-in-fade-out {
+        animation: fade-inout 2s infinite alternate;
+        font-size: 2em;
+        
+    }
+</style>
