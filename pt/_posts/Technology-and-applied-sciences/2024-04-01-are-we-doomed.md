@@ -1153,18 +1153,18 @@ Agora gostaria de destacar alguns pontos levantados pelo autor de vários livros
     </ol>
 
 </container>
-<!-- IQ EQ And Ai -->
+<!-- IQ QE And Ai -->
 <container>
-  <h4>Comparando Humanos com IA (QI, IA e EQ)</h4>
+  <h4>Comparando Humanos com IA (QI, IA e QE)</h4>
     <blockquote>
     <p>
-    Que vantagens nós, humanos, temos sobre a IA e essas qualidades humanas nos manterão sendo a espécie dominante em nosso mundo?<br>
+    Que vantagens nós, humanos, temos sobre a Inteligência Artificial(IA) e essas qualidades humanas nos manterão sendo a espécie dominante em nosso mundo?<br>
     Agora, se a Inteligência Artificial é capaz de fazer as coisas mais rápido e melhor do que nós, humanos, há alguma esperança para nós no futuro?<br>
     Além de sermos um organismo biológico composto por células e órgãos com um cérebro muito especial e muitos dirão a nossa alma que nos diferencia de todos os outros, a IA é composta por eletrônicos, microchips etc.<br>
     Agora há debates por aí sobre se é possível dar uma consciência à IA ou se ela é mesmo necessária...<br>
-    É mesmo necessário equipar a IA com EQ?<br>
+    É mesmo necessário equipar a IA com Inteligência Emocional (QE)?<br>
     Bem, pense desta forma: a IA tem mais “poder cerebral” do que os humanos, até certo ponto.<br>
-    Você pode conhecer pessoas com QI alto, mas QE baixo. Você se sente seguro em dar muito poder a essas pessoas?<br>
+    Você pode conhecer pessoas com Inteligência Intelectual (QI) alto, mas QE baixo. Você se sente seguro em dar muito poder a essas pessoas?<br>
     Agora não podemos medir a alma ou mesmo a consciência, mas podemos olhar para o quociente de inteligência (QI), quociente emocional (QE) de nós humanos e comparar com a Inteligência Artificial (IA).<br>
     Talvez isso nos aproxime da realidade... ou não.
     </p> 
@@ -1179,10 +1179,10 @@ Agora gostaria de destacar alguns pontos levantados pelo autor de vários livros
             </div>
             <p style="position: relative; text-align: center">INTELIGÊNCIA ARTIFICIAL X INTELIGÊNCIA HUMANA</p>
             <p>
-            Bem, o QI mede suas habilidades cognitivas e intelectuais, como memória de trabalho, pensamento analítico e retenção de conhecimento, e parece-me que a IA nos venceu em relação a isso na maioria das tarefas e acredito em breve em todas as tarefas relacionadas ao poder do cérebro.<br>
+            Bem, o Inteligência Intelectual (QI) mede suas habilidades cognitivas e intelectuais, como memória de trabalho, pensamento analítico e retenção de conhecimento, e parece-me que a Inteligência Artificial (IA)nos venceu em relação a isso na maioria das tarefas e acredito em breve em todas as tarefas relacionadas ao poder do cérebro.<br>
             </p>
             <p>
-            Agora, por outro lado, EQ refere-se às suas habilidades emocionais e sociais, incluindo empatia cognitiva, regulação emocional e motivação.<br>
+            Agora, por outro lado, Inteligência Emocional (EQ) refere-se às suas habilidades emocionais e sociais, incluindo empatia cognitiva, regulação emocional e motivação.<br>
             A IA não possui os sistemas biológicos que geram emoções nos humanos.<br>
             Embora possa imitar respostas emocionais, não as “sente”.<br>
             A IA opera com base em dados objetivos e algoritmos.<br>

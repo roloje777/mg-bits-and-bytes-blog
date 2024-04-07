@@ -1151,16 +1151,16 @@ Now I'd like to highlight some points made by the author of many books on humani
 </container>
 <!-- IQ EQ And Ai -->
 <container>
-  <h4>Comparing Humans with AI (IQ,IA and EQ)</h4> 
+  <h4>Comparing Humans with AI (IQ,EQ and AQ)</h4> 
     <blockquote>
     <p>
-    What advantages do we humans have over AI and will those human qualities keep us being the dominant species in our world?<br>  
+    What advantages do we humans have over Artificial Intelligence (AI) and will those human qualities keep us being the dominant species in our world?<br>  
     Now, if Artificial Intelligence is able to do things faster and better than us humans, is their any hope for us in the future?<br>
     Apart from us being a biological organism composed of cells and organs with a very special brain and many will say our soul that sets us apart from all other, AI is composed of electronic, microchips etc.<br>
     Now there are debates out there on whether one can even give AI a concious or if it is even necessary...<br>
-    Is it even necessary to equip AI with EQ?<br>
+    Is it even necessary to equip AI with Emotional Intelligence (EQ)?<br>
     Well think of it this way, AI has more "brain power" than humans, to an extent.<br>
-    You may know of people with a high IQ, but a low EQ, do you feel safe giving such people lots of power?<br>
+    You may know of people with a high Intelligence Quotient (IQ), but a low Emotional Intelligence(EQ), do you feel safe giving such people lots of power?<br>
     Now we cannot measure the soul or even conciousness, but we can look at us humans intelligence quotient (IQ), emotional quotient (EQ) and compare with Artificial Intelligence (AI).<br>
     Maybe this will bring us closer to reality... or not.
     </p> 
@@ -1175,10 +1175,10 @@ Now I'd like to highlight some points made by the author of many books on humani
             </div>
             <p style="position: relative; text-align: center">AI vs Human EQ?</p>               
             <p>
-            Well IQ measures your cognitive and intellectual skills, like working memory, analytical thinking, and knowledge retention, and it seems to me that AI has beat us with regards to this in most tasks and I believe soon in all tasks related to brain power.<br>
+            Well Intelligence Quotient(IQ) measures your cognitive and intellectual skills, like working memory, analytical thinking, and knowledge retention, and it seems to me that AI has beat us with regards to this in most tasks and I believe soon in all tasks related to brain power.<br>
             </p>
             <p>            
-            Now on the other hand EQ refers to your emotional abilities and social skills, including cognitive empathy, emotional regulation, and motivation.<br>
+            Now on the other hand Emotional Quotient(EQ)refers to your emotional abilities and social skills, including cognitive empathy, emotional regulation, and motivation.<br>
             AI doesn't possess the biological systems that generate emotions in humans.<br>
             While it can mimic emotional responses, it doesn't “feel” them.<br>
             AI operates based on objective data and algorithms.<br>
@@ -1190,7 +1190,7 @@ Now I'd like to highlight some points made by the author of many books on humani
             </p>            
      <blockquote>
         <p>
-        What will happen if AI is put under threat, or some other change?<br>
+        What will happen if Artificial Intelligence (AI) is put under threat, or some other change?<br>
         Does it posses an Adaptability Quotient (AQ)?<br>
         </p>
         <image-container>
@@ -1211,7 +1211,7 @@ Now I'd like to highlight some points made by the author of many books on humani
         </p>
         <p>
         I tend to agree with the latter.<br>
-        Have you met people that have no conciousness, low in EQ, AQ or even SQ (shoo, that alot of Q's 😂), and don't care what effect their actions or words have on others?<br>
+        Have you met people that have no conciousness, low in EQ, AQ or even SQ (shoo, that allot of Q's 😂), and don't care what effect their actions or words have on others?<br>
         </p>
         <details>
         <summary>
