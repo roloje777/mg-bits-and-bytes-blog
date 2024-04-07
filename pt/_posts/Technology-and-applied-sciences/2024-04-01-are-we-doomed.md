@@ -1198,7 +1198,7 @@ Agora gostaria de destacar alguns pontos levantados pelo autor de vários livros
         Possui Quociente de Adaptabilidade (QA)?<br>
         </p>
         <image-container>
-          <a href="https://www.jornalnewsvip.com.br/noticia/21864/os-qqq-que-carregamos-dentro-de-nos"><img src="https://www.jornalnewsvip.com.br/images/noticias/21864/781fd8f97f5a3f87705ca9b3b3f27103.jpg" alt="four types of Intelligence"><p>IA, QE e agora QA</p></a>
+          <a href="https://www.jornalnewsvip.com.br/noticia/21864/os-qqq-que-carregamos-dentro-de-nos"><img src="https://www.researchgate.net/publication/365310332/figure/fig1/AS:11431281096629845@1668197212404/Figura-1-Interrelacoes-entre-QI-QE-e-QS.png" alt="four types of Intelligence"><p>IA, QE e agora QA</p></a>
         </image-container>
         <p>
         Imagine que você é um engenheiro da NASA no futuro e foi destacado para sua colega em uma estação espacial remota por um longo período de sua carreira.<br>
