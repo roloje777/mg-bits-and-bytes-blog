@@ -62,10 +62,18 @@
   
   font-family: cursive;
   }
+    /* frames text in middle of page */
+  framed-text{
+    display:block;
+    border:inset;
+    width:90%;
+    margin:0.5em auto 0.5em auto;
+    padding:0.5em;
+  }
 /** on hover paragraph **/
   .my-p{
         display:inline;
-        color:blue;
+        color:#5ba487;
   }
   .my-p:hover{
     text-decoration: underline;
