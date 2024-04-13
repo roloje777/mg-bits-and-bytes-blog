@@ -408,7 +408,7 @@ date: 1970-01-01 08:00:00
 <container>
  <details>
       <summary>       
-      <p style="margin: 0.5em 0 0.5em 0"><div class="my-p">Antes de pegarmos um pedaço de queijo, clique ou toque aqui.</div><br></p>
+      <p style="margin: 0.5em 0 0.5em 0"><div class="my-p">Before we stick a piece of cheese, click or tap here.</div><br></p>
       </summary>
        <div  style="margin:0.5em auto 0.5em auto;width:300px;height:280px;">
         <!-- Coffee machine -->

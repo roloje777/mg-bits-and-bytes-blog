@@ -478,10 +478,9 @@ date: 1970-01-01 08:00:00
          </p>      
         </framed-text>
         </details>
-    </p>
-    <p>
-   Além de manter o queijo como seguro, a Credem armazena e envelhece as rodas em cofres climatizados durante o período do empréstimo.<br>
-    </p>
+      <p>
+        Além de manter o queijo como seguro, a Credem armazena e envelhece as rodas em cofres climatizados durante o período do empréstimo.<br>
+      </p>
     <p>
     A Credem aceita como garantia o queijo jovem, valorizando-o ao preço atual de mercado do queijo curado.<br>
     O caso explica que o rácio entre o empréstimo e o valor típico é de 70 a 80 por cento, o que protege o banco contra as flutuações dos preços de mercado e a degradação do produto.<br>
