@@ -390,6 +390,7 @@ date: 1970-01-01 08:00:00
 <div class="center" style="width:60%;margin-top:1em;margin-bottom:1em">
     <img class="center" src="https://hbswk.hbs.edu/images/site/parmesean.cheese.png" alt="cheese bank">
     <p style="text-align:center;margin-top:5px;margin-bottom:5px">O banco regional Crédito Emiliano</p>
+</div>
 <container>
     <blockquote>
     <p>

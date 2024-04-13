@@ -390,6 +390,7 @@ date: 1970-01-01 08:00:00
 <div class="center" style="width:60%;margin-top:1em;margin-bottom:1em">
     <img class="center" src="https://hbswk.hbs.edu/images/site/parmesean.cheese.png" alt="cheese bank">
     <p style="text-align:center;margin-top:5px;margin-bottom:5px">The regional bank Credito Emiliano </p>
+</div>
 <container>
     <blockquote>
     <p>
@@ -475,9 +476,8 @@ date: 1970-01-01 08:00:00
          It is named after two of the areas which produce it, the Italian provinces of Parma and Reggio Emilia (Parmigiano is the Italian adjective for Parma and Reggiano that for Reggio Emilia); in addition to Reggio Emilia and Parma, it is also produced in the part of Bologna west of the River Reno and in Modena (all of the above being located in the Emilia-Romagna region), as well as in the part of Mantua (Lombardy) which is on the south bank of the River Po.<br>
          <a href="https://en.wikipedia.org/wiki/Parmesan">Parmesan</a>
          </p>      
-        </framed-text>
+     </framed-text>
         </details>
-    </p>
     <p>
     Besides holding the cheese as insurance, Credem stores and ages the wheels in climate-controlled vaults for the duration of the loan.<br>
     </p>
