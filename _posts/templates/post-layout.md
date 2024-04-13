@@ -80,6 +80,14 @@
     cursor:pointer;
   }
 
+  /** Center an element **/
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+
 </style>
 <!-- Use <blockquote></blockquote> instead of this -->
 <!-- adding blockqoutes -->
