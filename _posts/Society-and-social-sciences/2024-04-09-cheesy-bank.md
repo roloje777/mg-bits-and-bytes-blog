@@ -399,8 +399,8 @@ date: 2024-04-14 07:01:01 +0100
     You probably did.<br>
     </p>
     <p>
-    Now did you know that cheese could make you bank account grow as well?<br>
-    You could even get a loan for you new house using  cheese .... <br>
+    Now did you know that cheese could make your bank account grow as well?<br>
+    You could even get a loan for your new house using  cheese .... <br>
     </p>
     <p>¯\_(ツ)_/¯</p>
     </blockquote>
@@ -441,7 +441,7 @@ date: 2024-04-14 07:01:01 +0100
             You can also toggle the colour scheme on the bottom left.<br>
             💡= light theme<br>
             ☾ = dark theme<br>
-            Depending on you screen size you may need to activate the  "Hamburger menu" for option to apear.<br>
+            Depending on your screen size you may need to activate the  "Hamburger menu" for option to apear.<br>
             On this site you can also opt to read this blog in portuguese, select Pt [En <strong>Pt</strong>]<br>
             Now if you want to read this blog, or a link you've opened in another language, just select translate from your browsers menu.<br>
             In Chrome it's a "Kebab" menu.<br>
