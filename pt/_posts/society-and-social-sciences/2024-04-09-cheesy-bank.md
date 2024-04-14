@@ -388,7 +388,7 @@ date: 2024-04-14 07:01:01 +0100
 </style>
 
 <div class="center" style="width:60%;margin-top:1em;margin-bottom:1em">
-    <img style="width:50%;object-fit:contain" class="center" src="https://hbswk.hbs.edu/images/site/parmesean.cheese.png" alt="cheese bank">
+    <img style="object-fit:contain" class="center" src="https://hbswk.hbs.edu/images/site/parmesean.cheese.png" alt="cheese bank">
     <p style="text-align:center;margin-top:5px;margin-bottom:5px">O banco regional Crédito Emiliano</p>
 </div>
 <container>
@@ -433,7 +433,7 @@ date: 2024-04-14 07:01:01 +0100
             </div>
             </div>
             <image-container>
-            <img style="width:50%;object-fit:contain" src="https://i.stack.imgur.com/YIcbV.png" alt="menus">
+            <img  src="https://i.stack.imgur.com/YIcbV.png" alt="menus">
             </image-container>
             <p style="margin-top:1em">
             <span style="color:#5ba487">O texto nesta cor exibirá uma seção oculta com mais informações</span><br>
@@ -459,7 +459,7 @@ date: 2024-04-14 07:01:01 +0100
 <container>
     <h4>Um banco que aceita parmesão como garantia</h4>
             <div class="center" style="width:60%;margin-top:1em;margin-bottom:1em">
-            <img style="width:50%;object-fit:contain" class="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Parmigiano_Reggiano%2C_Italien%2C_Europ%C3%A4ische_Union.jpg/220px-Parmigiano_Reggiano%2C_Italien%2C_Europ%C3%A4ische_Union.jpg" alt="Parmesan">
+            <img class="center" src="https://orderisda.org/wp-content/uploads/2019/06/iStock-490051760.jpg" alt="Parmesan">
             <p style="text-align:center;margin-top:5px;margin-bottom:5px">Parmesão</p>
             </div>
      <details>
@@ -486,8 +486,8 @@ date: 2024-04-14 07:01:01 +0100
     O caso explica que o rácio entre o empréstimo e o valor típico é de 70 a 80 por cento, o que protege o banco contra as flutuações dos preços de mercado e a degradação do produto.<br>
     </p>
                 <div class="center" style="width:60%;margin-top:1em;margin-bottom:1em">
-                    <img style="width:50%;object-fit:contain" class="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Region_Parmigiano-Reggiano.png/220px-Region_Parmigiano-Reggiano.png" alt="Parmesan">
-                <p style="text-align:center;margin-top:5px;margin-bottom:5px">A área em que o Parmigiano Reggiano pode ser produzido, de acordo com a legislação DOP da UE e da Itália</p>
+                    <img class="center" src="https://educated-traveller.com/wp-content/uploads/2014/12/parmigiano-reggiano-map.jpg" alt="Parmesan">
+                <p style="text-align:center;margin-top:5px;margin-bottom:5px">A área de Parmigiano Reggiano </p>
                 </div>
     <p>
    Uma subsidiária da Credem, Magazziini Generali delle Tagliate, mantém a garantia pungente em dois armazéns de propriedade do banco que oferecem capacidade de armazenamento para 440.000 rodas de queijo de 80 libras.<br>
@@ -495,8 +495,8 @@ date: 2024-04-14 07:01:01 +0100
     </p>
 </container>
 <container>
-           <div class="center" style="width:60%;margin-top:1em;margin-bottom:1em">
-            <git branch style="width:50%;object-fit:contain" class="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Parmigiano-Reggiano.png/220px-Parmigiano-Reggiano.png">
+           <div class="center" style="width:60%;margin-top:1em;margin-bottom:1em;">
+            <img class="center" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Parmigiano-Reggiano.png">
                 <p style="text-align:center;margin-top:5px;margin-bottom:5px">Processo de produto de queijo parmesão</p>
             </div>
     <h4>É um empréstimo</h4>
