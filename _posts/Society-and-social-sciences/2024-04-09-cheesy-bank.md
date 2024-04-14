@@ -16,7 +16,7 @@ img: "https://hbswk.hbs.edu/images/site/parmesean.cheese.png"
 # comments_disable: true
 
 # publish date
-date: 1970-01-01 08:00:00
+date: 2024-04-14 07:01:01 WEST
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
@@ -388,7 +388,7 @@ date: 1970-01-01 08:00:00
 </style>
 
 <div class="center" style="width:60%;margin-top:1em;margin-bottom:1em">
-    <img class="center" src="https://hbswk.hbs.edu/images/site/parmesean.cheese.png" alt="cheese bank">
+    <img style="width:50%;object-fit:contain" class="center" src="https://hbswk.hbs.edu/images/site/parmesean.cheese.png" alt="cheese bank">
     <p style="text-align:center;margin-top:5px;margin-bottom:5px">The regional bank Credito Emiliano </p>
 </div>
 <container>
@@ -459,7 +459,7 @@ date: 1970-01-01 08:00:00
 <container>
     <h4>A Bank That Accepts Parmesan As Collateral</h4>
             <div class="center" style="width:60%;margin-top:1em;margin-bottom:1em">
-            <img class="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Parmigiano_Reggiano%2C_Italien%2C_Europ%C3%A4ische_Union.jpg/220px-Parmigiano_Reggiano%2C_Italien%2C_Europ%C3%A4ische_Union.jpg" alt="Parmesan">
+            <img style="width:50%;object-fit:contain" class="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Parmigiano_Reggiano%2C_Italien%2C_Europ%C3%A4ische_Union.jpg/220px-Parmigiano_Reggiano%2C_Italien%2C_Europ%C3%A4ische_Union.jpg" alt="Parmesan">
             <p style="text-align:center;margin-top:5px;margin-bottom:5px">Parmesan </p>
             </div>
      <details>
@@ -486,7 +486,7 @@ date: 1970-01-01 08:00:00
     The case explains that the typical loan-to-value ratio is 70 to 80 percent, which cushions the bank against market price fluctuations and product degradation.<br>
     </p>
                 <div class="center" style="width:60%;margin-top:1em;margin-bottom:1em">
-                    <img class="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Region_Parmigiano-Reggiano.png/220px-Region_Parmigiano-Reggiano.png" alt="Parmesan">
+                    <img style="width:50%;object-fit:contain" class="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Region_Parmigiano-Reggiano.png/220px-Region_Parmigiano-Reggiano.png" alt="Parmesan">
                 <p style="text-align:center;margin-top:5px;margin-bottom:5px">The area in which Parmigiano Reggiano can be produced, according to EU and Italian PDO legislation</p>
                 </div>
     <p>
@@ -496,7 +496,7 @@ date: 1970-01-01 08:00:00
 </container>
 <container>
            <div class="center" style="width:60%;margin-top:1em;margin-bottom:1em">
-            <img class="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Parmigiano-Reggiano.png/220px-Parmigiano-Reggiano.png">
+            <img style="width:50%;object-fit:contain" class="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Parmigiano-Reggiano.png/220px-Parmigiano-Reggiano.png">
                 <p style="text-align:center;margin-top:5px;margin-bottom:5px">Product process of Parmesan cheese</p>
             </div>
     <h4>It Stands A Loan</h4>
