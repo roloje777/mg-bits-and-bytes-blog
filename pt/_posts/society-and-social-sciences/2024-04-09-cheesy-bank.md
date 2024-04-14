@@ -16,7 +16,7 @@ img: "https://hbswk.hbs.edu/images/site/parmesean.cheese.png"
 # comments_disable: true
 
 # publish date
-date: 2024-04-14 07:01:01 WEST
+date: 2024-04-14 07:01:01 +0100
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
@@ -496,7 +496,7 @@ date: 2024-04-14 07:01:01 WEST
 </container>
 <container>
            <div class="center" style="width:60%;margin-top:1em;margin-bottom:1em">
-            <img style="width:50%;object-fit:contain" class="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Parmigiano-Reggiano.png/220px-Parmigiano-Reggiano.png">
+            <git branch style="width:50%;object-fit:contain" class="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Parmigiano-Reggiano.png/220px-Parmigiano-Reggiano.png">
                 <p style="text-align:center;margin-top:5px;margin-bottom:5px">Processo de produto de queijo parmesão</p>
             </div>
     <h4>É um empréstimo</h4>

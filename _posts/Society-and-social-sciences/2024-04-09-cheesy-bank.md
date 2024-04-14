@@ -16,7 +16,7 @@ img: "https://hbswk.hbs.edu/images/site/parmesean.cheese.png"
 # comments_disable: true
 
 # publish date
-date: 2024-04-14 07:01:01 WEST
+date: 2024-04-14 07:01:01 +0100
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
