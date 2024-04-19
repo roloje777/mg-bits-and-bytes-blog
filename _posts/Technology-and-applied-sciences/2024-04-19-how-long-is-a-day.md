@@ -42,7 +42,6 @@ date: 1970-01-01 08:00:00
  /*clock */
 /**LINK - from https://youtu.be/omDaYhUEU1A?si=DQnUg0oW7CrdJefI **/
 div .clock{
-position:relative;
 margin:0;
 padding:0;
 }
@@ -205,7 +204,7 @@ transform: rotate(180deg)
       <summary>
       <p style="margin: 0.5em 0 0.5em 0"><div class="my-p">Click or tap here to set your clock, before you carry on</div><br></p>
       </summary>
-            <div style="display-block:position:relative;width:50%;margin-left:auto;margin-top:auto;padding: 5px;">
+            <div style="position:relative;width:100px;height:100px;margin-left:50%;padding: 5px;">
                 <div class="clock" ></div>
             </div>
             <image-container>
@@ -258,14 +257,27 @@ transform: rotate(180deg)
   <framed-text>
   Levine has written a paper that proposes a new solution: the leap minute.<br>
   The idea is to sync the clocks less frequently, perhaps every half-century, essentially letting atomic time diverge from cosmos-based time for 60 seconds or even a tad longer, and basically forgetting about it in the meantime.<br>
-  <a href="https://www.nytimes.com/2023/11/03/science/time-leap-second.html">A Giant Leap for the Leap Second. Is Humankind Ready?</a>  
+  <a href="https://www.nytimes.com/2023/11/03/science/time-leap-second.html">A Giant Leap for the Leap Second. Is Humankind Ready?</a>   
   </framed-text>
   </details>  
   </blockquote>
   <h4>The Leap Second</h4>
-    <p>
-    A leap second is a one-second adjustment that is occasionally applied to Coordinated Universal Time (UTC), to accommodate the difference between precise time (International Atomic Time (TAI), as measured by atomic clocks) and imprecise observed solar time (UT1), which varies due to irregularities and long-term slowdown in the Earth's rotation.    
+    <details>
+    <summary>
+    A leap second is a one-second adjustment that is occasionally applied to Coordinated Universal Time (UTC), to accommodate the difference between precise time (International Atomic Time (TAI), measured by <span class="my-p">clocks atomics</span>) and the observed imprecise solar time (UT1), which varies due to irregularities and long-term slowdown in the Earth's rotation.
+    </summary>
+    <framed-text>
+    An atomic clock is a type of clock that uses an atomic transition as a way to stabilize an oscillator always at the same frequency.<br>
+    <div style="margin:5px 0.5px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rel%C3%B3gio_at%C3%B4mico_-_oscilador.svg/1280px-Rel%C3%B3gio_at%C3%B4mico_ -_oscilador.svg.png">
+    <p style="margin:5px;padding: 3px;border:solid 1px;">
+     Scheme of how an atomic clock works: 1-atoms; 2-Correction sign; 3 local oscillators; 4-interrogatory signal; 5-stabilized signal
     </p>
+    </div>
+     Like a pendulum clock, the atom can be stimulated externally (in this case, by electromagnetic waves) so that its energy oscillates regularly.<br>
+     <a href="https://en.wikipedia.org/wiki/Atomic_clock">Atomic clock</a>
+    </framed-text>
+    </details>
     <p>
      <h4>Key points</h4>
   <ul>
