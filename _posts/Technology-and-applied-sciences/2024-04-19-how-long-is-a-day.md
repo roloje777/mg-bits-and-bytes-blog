@@ -16,7 +16,7 @@ img: "https://scx2.b-cdn.net/gfx/news/hires/2015/howlongisada.jpg"
 # comments_disable: true
 
 # publish date
-date: 1970-01-01 08:00:00
+date: 2024-04-20 05:56:00 +0100
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
