@@ -70,6 +70,13 @@
     margin:0.5em auto 0.5em auto;
     padding:0.5em;
   }
+    unframed-text{
+    display:block;
+    width:90%;
+    margin:0.5em auto 0.5em auto;
+    padding:0.5em;
+
+  }
 /** on hover paragraph **/
   .my-p{
         display:inline;
@@ -86,7 +93,13 @@
   margin-left: auto;
   margin-right: auto;
   }
-
+ /** align element to the left **/
+  .left{
+  display: block;
+  align:left
+  margin: 1em;
+  /*border:solid 1px; */
+  }
 
 </style>
 <!-- Use <blockquote></blockquote> instead of this -->

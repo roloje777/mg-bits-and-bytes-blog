@@ -32,8 +32,8 @@
           <img src="https://i.stack.imgur.com/YIcbV.png" alt="menus">
           </image-container>
           <p style="margin-top:1em">
-          <span style="color:#5ba487">Text in this color has will display a hidden section with more information</span><br>
-          <span style="color:#3389de">Note that you can click on text of in this colour to route you to the references</span><br>
+          <span style="color:#5ba487">Click/tap text in this color to display a hidden section with more information</span><br>
+          <span style="color:#3389de">Note that you can click/tap on text of in this colour to route you to the references</span><br>
           You can also toggle the colour scheme on the bottom left.<br>
           💡= light theme<br>
           ☾ = dark theme<br>
