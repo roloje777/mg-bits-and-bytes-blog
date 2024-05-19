@@ -526,7 +526,7 @@ class is over ...<br>
             </div>
         </div>
          <div class="image-container">
-              <img src="https://i.stack.imgur.com/YIcbV.png" alt="menus">
+              <img src="https://i.stack.imgur.com/YIcbV.png" alt="https://i.stack.imgur.com/YIcbV.png">
             </div>
             <p style="margin-top:1em">
               <span style="color:#5ba487">Click/tap text in this color to display a hidden section with more information</span><br>

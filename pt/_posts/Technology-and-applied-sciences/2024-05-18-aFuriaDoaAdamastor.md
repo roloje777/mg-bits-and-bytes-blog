@@ -491,7 +491,7 @@ De El-Rei D. João Segundo!»<br>
 <br>
 .. as palavras do professor se misturam em seus pensamentos,<br>
 <img style="margin:2em" class="center" src="https://i1.sndcdn.com/artworks-1BOW0ZOkBHCP9N7R-BkH7qA-t500x500.jpg" alt="">
-... ele de repente é um capitão, no comando de um<details style="display:inline"><summary class="my-p">caravela portuguesa</summary>
+... ele de repente é um capitão, no comando de uma <details style="display:inline"><summary class="my-p">caravela portuguesa</summary>
 <framed-text>
 A caravela é um pequeno veleiro manobrável usado no século XV pelos portugueses para explorar ao longo da costa oeste africana e no Oceano Atlântico e por Colombo nas suas expedições de exploração das Américas.<br> Eles usaram tanto as velas latinas como as quadradas e eram conhecidas pela sua agilidade e velocidade e pela capacidade de navegar a barlavento (bater) com as suas velas latinas.<br> As caravelas foram utilizadas pelos portugueses e espanhóis nas viagens de exploração durante os séculos XV e XVI, na Era dos Descobrimentos.<br>
 <a href="https://pt.wikipedia.org/wiki/Caravela">Caravela</a>
@@ -526,7 +526,7 @@ a aula acabou...<br>
             </div>
         </div>
          <div class="image-container">
-              <img src="https://i.stack.imgur.com/YIcbV.png" alt="menus">
+              <img src="https://i.stack.imgur.com/YIcbV.png" alt="https://i.stack.imgur.com/YIcbV.png">
             </div>
             <p style="margin-top:1em">
               <span style="color:#5ba487">Clique/toque no texto nesta cor para exibir uma seção oculta com mais informações</span><br>
@@ -548,7 +548,7 @@ a aula acabou...<br>
 <br>
 ... ele tem uma revista legal sobre supercarros<br>
 ... até um que é feito aqui no Porto...<br>
-<h>
+<hr>
 Agora o Adamastor é um gigante mítico, filho de Gaia.<br>
 Ele se rebelou contra o poderoso deus Zeus e foi derrubado, disperso e reduzido a promontórios, ilhas e penhascos, de onde atormenta o homem.<br>
 Este é o gigante mencionado no poema, simbolizando o medo e a coragem dos marinheiros portugueses ao saírem à descoberta do mundo e enfrentarem perigos, como o <details style="display:inline"><summary><span class="my-p">Cape of storms.</span></summary>
