@@ -559,8 +559,8 @@ In 1486 Bartholomew Diaz, a Portuguese explorer, discovered the Cape (the Cape o
 </details>
 <p>
 In the same spirit a small team of portuguese, face the mighty car manufacturers, names such as Ferrari, Corvette and Mercedes etc. and bring a new kid on the block ...<br>
-<strong></strong>The imposable becomes possible when people with common goals and dreams come together and work as a team.<br>
-We did it 500 years ago, and have now we've done it once again.<br>
+<strong></strong>The impossible becomes possible when people with common goals and dreams come together and work as a team.<br>
+We did it 500 years ago, and now, we've done it once again.<br>
 </p>
 </blockquote>
 <h3>ADAMASTOR FURIA - THE FIRST 100% PORTUGUESE SUPERCAR THAT CAME TO CONQUER THE WORLD</h3>
