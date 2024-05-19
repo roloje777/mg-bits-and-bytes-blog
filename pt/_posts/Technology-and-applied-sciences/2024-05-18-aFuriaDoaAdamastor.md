@@ -1,14 +1,14 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: a-furia-do-adamastor
-title: Adamastor's Fury
-# post specific
+title: A Fúria de Adamastor
+# post specificc
 # if not specified, .name will be used from \_data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: Technology and applied sciences
+category: Tecnologia e ciências aplicadas
 # multiple tag entries are possible
-tags: [engineering, transport]
+tags: [engineering, transporte]
 # thumbnail image for post
 img: "https://www.razaoautomovel.com/wp-content/uploads/2024/05/Adamastor-Furia-925x520.webp"
 # disable comments on this page
@@ -408,15 +408,15 @@ date: 2024-05-18 21:52 +00.00
 </style>
 
 <blockquote>
-... João a young boy, is daydreaming as a male teacher is reciting a poem by <details style="display:inline"><summary><span class="my-p">Fernando Pessoa...</span></summary>
+... João, um menino, sonha acordado enquanto um professor recita um poema de <details style="display:inline"><summary><span class="my-p">Fernando Pessoa...</span></summary>
 <framed-text>
-Fernando António Nogueira Pessoa (13 June 1888 – 30 November 1935) was a Portuguese poet, writer, literary critic, translator, publisher, and philosopher, described as one of the most significant literary figures of the 20th century and one of the greatest poets in the Portuguese.<br>
-He also wrote in and translated from English and French.<br>
-<a href="https://en.wikipedia.org/wiki/Fernando_Pessoa">Fernando Pessoa</a>
+Fernando António Nogueira Pessoa (13 de junho de 1888 - 30 de novembro de 1935) foi um poeta, escritor, crítico literário, tradutor, editor e filósofo português, descrito como uma das figuras literárias mais significativas do século XX e um dos maiores poetas do século XX. os portugueses.<br>
+Ele também escreveu e traduziu do inglês e do francês.<br>
+<a href="https://pt.wikipedia.org/wiki/Fernando_Pessoa">Fernando Pessoa</a>
 </framed-text>
 </details>
 <br><br>
-... staring out of the window into the mountain tops just outside Alfândega da Fé...<br><br>
+... olhando pela janela fora, as montanhas nos limites  de Alfândega da Fé...<br><br>
 </blockquote>
 <div class="add-right-shadow"
   style="position: relative;
@@ -440,48 +440,48 @@ He also wrote in and translated from English and French.<br>
 <details>
     <summary>    
     <unframed-text class="add-right-shadow">
-    Who comes to power what only I can,<br>
-    That I live where no one would ever see me<br>
-    And I drain the fears of the bottomless sea?»<br>
-    And the man at the helm trembled, and said:<br>
-    «El-Rei D. João Segundo<br>
-    <span class="my-p">read poem here</span>
+    «Quem vem poder o que só eu posso,<br>
+  Que moro onde nunca ninguém me visse<br>
+  E escorro os medos do mar sem fundo?»<br>
+  E o homem do leme tremeu, e disse:<br>
+  «El-Rei D. João Segundo!»<br>
+    <span class="my-p">leia o poema aqui</span>
     </unframed-text>     
     </summary>
     <framed-text>
     <p class="center">
-    THE MOSTRENGO
-    <br>
-    The monster at the end of the sea<br>
-    In the pitch-black night he rose to fly;<br>
-    Around the ship he flew three times,<br>
-    It flew three times, screeching,<br>
-    And he said: “Who dared to enter<br>
-    In my caves that I cannot discover,<br>
-    My black ceilings at the end of the world?”<br>
-    And the man at the helm said, trembling:<br>
-    «El-Rei D. João Segundo!»<br>
-    <br>
-    «Whose candles are I rubbing against?<br>
-    Whose keels do I see and hear?”<br>
-    Said the monster, and spun three times,<br>
-    Three times it swirled filthy and thick,<br>
-    <br>
-    «Who comes to power what only I can,<br>
-    That I live where no one would ever see me<br>
-    And drain the fears of the bottomless sea?”<br>
-    And the man at the helm trembled, and said:<br>
-    «El-Rei D. João Segundo!»<br>
-    <br>
-    Three times from the helm he raised his hands,<br>
-    Three times at the helm he reprimanded them,<br>
-    And he said at the end of shaking three times:<br>
-    «Here at the helm I am more than myself:<br>
-    I am a People who want the sea that is yours;<br>
-    And more than the monster, which my soul fears<br>
-    And swirls in the darkness at the end of the world;<br>
-    Send the will, which ties me to the helm,<br>
-    From El-Rei D. João Segundo!”<br>
+    O MOSTRENGO<br>
+<br>
+O mostrengo que está no fim do mar<br>
+Na noite de breu ergueu-se a voar;<br>
+À roda da nau voou três vezes,<br>
+Voou três vezes a chiar,<br>
+E disse: «Quem é que ousou entrar<br>
+Nas minhas cavernas que não desvendo,<br>
+Meus tetos negros do fim do mundo?»<br>
+E o homem do leme disse, tremendo:<br>
+«El-Rei D. João Segundo!»<br>
+<br>
+«De quem são as velas onde me roço?<br>
+De quem as quilhas que vejo e ouço?»<br>
+Disse o mostrengo, e rodou três vezes,<br>
+Três vezes rodou imundo e grosso,<br>
+<br>
+«Quem vem poder o que só eu posso,<br>
+Que moro onde nunca ninguém me visse<br>
+E escorro os medos do mar sem fundo?»<br>
+E o homem do leme tremeu, e disse:<br>
+«El-Rei D. João Segundo!»<br>
+<br>
+Três vezes do leme as mãos ergueu,<br>
+Três vezes ao leme as reprendeu,<br>
+E disse no fim de tremer três vezes:<br>
+«Aqui ao leme sou mais do que eu:<br>
+Sou um Povo que quer o mar que é teu;<br>
+E mais que o mostrengo, que me a alma teme<br>
+E roda nas trevas do fim do mundo;<br>
+Manda a vontade, que me ata ao leme,<br>
+De El-Rei D. João Segundo!»<br>
     <br>
     <a href = "https://ensina.rtp.pt/artigo/fernando-pessoa-o-mostrengo/">Fernando Pessoa</a>
     </p>
@@ -489,20 +489,20 @@ He also wrote in and translated from English and French.<br>
 </details>
 <blockquote>
 <br>
-.. the teacher's words mingle in his thoughts,<br>
+.. as palavras do professor se misturam em seus pensamentos,<br>
 <img style="margin:2em" class="center" src="https://i1.sndcdn.com/artworks-1BOW0ZOkBHCP9N7R-BkH7qA-t500x500.jpg" alt="">
-... he is suddenly a captain, in command of a <details style="display:inline"><summary class="my-p">portuguese caravel</summary>
+... ele de repente é um capitão, no comando de um<details style="display:inline"><summary class="my-p">caravela portuguesa</summary>
 <framed-text>
-The caravel (Portuguese: caravela) is a small maneuverable sailing ship used in the 15th century by the Portuguese to explore along the West African coast and into the Atlantic Ocean and by Columbus on his expeditions of exploration of the Americas.<br> They used both lateen and square sails and were known for their agility and speed and their capacity for sailing windward (beating) with their lateen sails.<br> Caravels were used by the Portuguese and Spanish for the voyages of exploration during the 15th and 16th centuries, in the Age of Discovery.<br>
-<a href="https://en.wikipedia.org/wiki/Caravel">Caravel</a>
+A caravela é um pequeno veleiro manobrável usado no século XV pelos portugueses para explorar ao longo da costa oeste africana e no Oceano Atlântico e por Colombo nas suas expedições de exploração das Américas.<br> Eles usaram tanto as velas latinas como as quadradas e eram conhecidas pela sua agilidade e velocidade e pela capacidade de navegar a barlavento (bater) com as suas velas latinas.<br> As caravelas foram utilizadas pelos portugueses e espanhóis nas viagens de exploração durante os séculos XV e XVI, na Era dos Descobrimentos.<br>
+<a href="https://pt.wikipedia.org/wiki/Caravela">Caravela</a>
 </framed-text>
-</details>, circling the cape of storms, when he is confronted with a giant god from the sea.<br>
-..he is about to,...<br>
-...when he feels a tug on his shoulder,<br>
+</details>, circulando o cabo das tempestades, quando se depara com um deus gigante vindo do mar.<br>
+..ele está prestes a,...<br>
+...quando ele sente um puxão no ombro,<br>
 João... <br>
-class is over ...<br>
-... we're going to Pedro's place,<br>
-<details style="display:inline"><summary class="my-p">... do you want to join us?</summary>
+a aula acabou...<br>
+... vamos para a casa do Pedro,<br>
+<details style="display:inline"><summary class="my-p">... queres juntar a nos?</summary>
 <framed-text>
   <div  style="margin:0.5em auto 0.5em auto;width:300px;height:280px;">
             <div class="container">
@@ -529,41 +529,41 @@ class is over ...<br>
               <img src="https://i.stack.imgur.com/YIcbV.png" alt="menus">
             </div>
             <p style="margin-top:1em">
-              <span style="color:#5ba487">Click/tap text in this color to display a hidden section with more information</span><br>
-              <span style="color:#3389de">Note that you can click/tap on text of in this colour to route you to the references</span><br>
-              You can also toggle the colour scheme on the bottom left.<br>
-              💡= light theme<br>
-              ☾ = dark theme<br>
-              Depending on you screen size you may need to activate the  "Hamburger menu" for option to apear.<br>
-              On this site you can also opt to read this blog in portuguese, select Pt [En <strong>Pt</strong>]<br>
-              Now if you want to read this blog, or a link you've opened in another language, just select translate from your browsers menu.<br>
-              In Chrome it's a "Kebab" menu.<br>
+              <span style="color:#5ba487">Clique/toque no texto nesta cor para exibir uma seção oculta com mais informações</span><br>
+              <span style="color:#3389de">Observe que você pode clicar/tocar no texto desta cor para direcioná-lo às referências</span><br>
+              Você também pode alternar o esquema de cores no canto inferior esquerdo.<br>
+              💡=tema claro<br>
+              ☾ = tema escuro<br>
+              Dependendo do tamanho da tela, pode ser necessário ativar o "menu Hambúrguer" para opção de parar.<br>
+              Neste site você também pode optar por ler este blog em Ingles, selecione En [<strong>En</strong> Pt]<br>
+              Agora, se você quiser ler este blog, ou um link que você abriu em outro idioma, basta selecionar traduzir no menu do seu navegador.<br>
+              No Chrome é um menu "Kebab".<br>
             </p>
             <p>
-            So, you got your coffee, relax and enjoy the blog.<br>
+            Então, você tomou seu café, relaxe e aproveite o blog.<br>
             ¯\_(ツ)_/¯<br>
             </p>
 </framed-text>
 </details>
 <br>
-... he has a cool magazine on super cars<br>
-... even one which is made here in Porto...<br>
-<hr>
-Now the Adamastor is a mythical giant, a child of Gaia.<br>
-He rebelled against the might god Zeus and was truck down, dispersed and reduced to promontories , islands and cliffs, from where he torments man.<br>
-This is the giant that is mentioned in the poem, symbolising the fear and bravery of the portuguese sailors as they went forth to discover the world and confront dangers, such as the <details style="display:inline"><summary><span class="my-p">Cape of storms.</span></summary>
+... ele tem uma revista legal sobre supercarros<br>
+... até um que é feito aqui no Porto...<br>
+<h>
+Agora o Adamastor é um gigante mítico, filho de Gaia.<br>
+Ele se rebelou contra o poderoso deus Zeus e foi derrubado, disperso e reduzido a promontórios, ilhas e penhascos, de onde atormenta o homem.<br>
+Este é o gigante mencionado no poema, simbolizando o medo e a coragem dos marinheiros portugueses ao saírem à descoberta do mundo e enfrentarem perigos, como o <details style="display:inline"><summary><span class="my-p">Cape of storms.</span></summary>
 <framed-text>
-In 1486 Bartholomew Diaz, a Portuguese explorer, discovered the Cape (the Cape of storms - named this due to rough sea conditions and many ship wrecks on the coast) during the course of his travels. Vasco da Gama from Portugal rounded the Peninsula in 1497.<br>
-<a href="https://capepoint.co.za/cape-of-storms/">Cape Of Storms: The Shipwrecks Of Cape Point</a>
+Em 1486, Bartolomeu Diaz, um explorador português, descobriu o Cabo (o Cabo das Tempestades - assim chamado devido às condições do mar agitado e aos muitos naufrágios de navios na costa) durante as suas viagens. Vasco da Gama, de Portugal, contornou a Península em 1497.<br>
+<a href="https://pt.wikipedia.org/wiki/Cabo_da_Boa_Esperan%C3%A7a">Cabo da Boa Esperança</a>
 </framed-text>
 </details>
 <p>
-In the same spirit a small team of portuguese, face the mighty car manufacturers, names such as Ferrari, Corvette and Mercedes etc. and bring a new kid on the block ...<br>
-<strong></strong>The imposable becomes possible when people with common goals and dreams come together and work as a team.<br>
-We did it 500 years ago, and have now we've done it once again.<br>
+No mesmo espírito uma pequena equipa de portugueses, enfrenta os poderosos fabricantes de automóveis, nomes como Ferrari, Corvette e Mercedes etc. e traz um novo miúdo ao quarteirão...<br>
+<strong></strong>O impossível se torna possível quando pessoas com objetivos e sonhos comuns se unem e trabalham em equipe.<br>
+Fizemos isso há 500 anos e agora fizemos mais uma vez.<br>
 </p>
 </blockquote>
-<h3>ADAMASTOR FURIA - THE FIRST 100% PORTUGUESE SUPERCAR THAT CAME TO CONQUER THE WORLD</h3>
+<h3>ADAMASTOR FURIA – O PRIMEIRO SUPERCARRO 100% PORTUGUÊS QUE VEIO CONQUISTAR O MUNDO</h3>
 <div
   style="position: relative;padding-bottom: 56.25%; padding-top: 35px;
     height: 0; margin-bottom: 2em;
@@ -577,13 +577,13 @@ We did it 500 years ago, and have now we've done it once again.<br>
   </iframe>    
 </div>
 <blockquote>
-The Adamastor Furia has more than 650 hp of power,<br>
-reaches 100 km/h in less than four seconds<br>
-and can exceed 300 km/h.<br>
-This supercar was designed and produced in Matosinhos Portugal.<br>
-The project took about five years to complete and 60 units will be produced in Matosinhos Portugal.<br>
-The Furia has a monocoque chassis, entirely made of carbon fibre.<br>
-All this comes at a price of around 1.6 million euros.<br>
+O Adamastor Furia tem mais de 650 cv de potência,<br>
+atinge 100 km/h em menos de quatro segundos<br>
+e pode exceder 300 km/h.<br>
+Este supercarro foi desenhado e produzido em Matosinhos Portugal.<br>
+O projeto demorou cerca de cinco anos a ser concluído e 60 unidades serão produzidas em Matosinhos Portugal.<br>
+O Furia possui chassi monocoque, inteiramente feito de fibra de carbono.<br>
+Tudo isto tem um preço que ronda os 1,6 milhões de euros.<br>
 </blockquote>
 <div
   style="position: relative;padding-bottom: 56.25%; padding-top: 35px;
@@ -596,21 +596,21 @@ All this comes at a price of around 1.6 million euros.<br>
     title="YouTube video player"
     allowfullscreen>
   </iframe>
-  <p style="text-align=center">ADAMASTOR FURIA - THE FIRST 100% PORTUGUESE SUPERCAR THAT CAME TO CONQUER THE WORLD</p>
+  <p style="text-align=center">ADAMASTOR FURIA – O PRIMEIRO SUPERCARRO 100% PORTUGUÊS QUE VEIO CONQUISTAR O MUNDO</p>
 </div>
 <details>
         <summary>
         <p>
         <div class="my-p">
-         <strong>If you can, I'd love to read your comments on this!!!</strong><br>
+         <strong>Se você puder, adoraria ler seus comentários sobre isso!!!</strong><br>
         ¯\_(ツ)_/¯<br>
         </div>        
         </p>
         </summary>
         <p>
-        Please use <strong>DISQUS</strong> at bottom of each blog to post comments.<br>
-        This way I'll be notified when you add a comment etc.<br>
-        It's free and easy to use, just create an account if you're a new user.<br>
+        Use <strong>DISQUS</strong> na parte inferior de cada blog para postar comentários.<br>
+        Dessa forma, serei notificado quando você adicionar um comentário, etc.<br>
+        É gratuito e fácil de usar, basta criar uma conta se for um novo usuário.<br>
         </p>
 </details>
 <p>
