@@ -116,6 +116,13 @@ date: 2024-05-18 21:52 +00.00
     padding:0.5em;
 
   }
+
+  .add-right-shadow {
+    border-bottom:solid 2px;
+    border-right:solid 2px;
+    box-shadow:5px 10px 18px;
+    margin-bottom:2em;
+  }
 /** on hover paragraph **/
   .my-p{
         display:inline;
@@ -411,12 +418,13 @@ He also wrote in and translated from English and French.<br>
 <br><br>
 ... staring out of the window into the mountain tops just outside Alfândega da Fé...<br><br>
 </blockquote>
-<div
+<div class="add-right-shadow"
   style="position: relative;
     padding-bottom: 56.25%;
     padding-top: 35px;
     height: 0;
     margin-bottom: 2em;
+    margin-top:2em;
     overflow: hidden;
   "
 >
@@ -430,20 +438,18 @@ He also wrote in and translated from English and French.<br>
 </div>
 <p style="position: relative; text-align: center">João Villaret - O Mostrengo de Fernando Pessoa</p>
 <details>
-    <summary class="center" style="width:50%">    
-    <p class="center" style="width:100%;border-style:groove;border-width:5px;text-align:left;padding:20px; margin:2em;color: #000;color: rgba(0, 0, 0, 0.65);
-    font-size: 16pt;
-    font-family: Arial, sans-serif;">    
+    <summary>    
+    <unframed-text class="add-right-shadow">
     Who comes to power what only I can,<br>
     That I live where no one would ever see me<br>
     And I drain the fears of the bottomless sea?»<br>
     And the man at the helm trembled, and said:<br>
     «El-Rei D. João Segundo<br>
     <span class="my-p">read poem here</span>
-    </p>
+    </unframed-text>     
     </summary>
     <framed-text>
-    <p class="center" style="width:50%">
+    <p class="center">
     THE MOSTRENGO
     <br>
     The monster at the end of the sea<br>
@@ -473,7 +479,7 @@ He also wrote in and translated from English and French.<br>
     «Here at the helm I am more than myself:<br>
     I am a People who want the sea that is yours;<br>
     And more than the monster, which my soul fears<br>
-    And swirls in the darkness at the end of the world;
+    And swirls in the darkness at the end of the world;<br>
     Send the will, which ties me to the helm,<br>
     From El-Rei D. João Segundo!”<br>
     <br>
@@ -561,6 +567,7 @@ We did it 500 years ago, and have now we've done it once again.<br>
 <div
   style="position: relative;padding-bottom: 56.25%; padding-top: 35px;
     height: 0; margin-bottom: 2em;
+    margin-top:2em;
     overflow: hidden;">
   <iframe
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%"
@@ -581,6 +588,7 @@ All this comes at a price of around 1.6 million euros.<br>
 <div
   style="position: relative;padding-bottom: 56.25%; padding-top: 35px;
     height: 0; margin-bottom: 2em;
+    margin-top:2em;
     overflow: hidden;">
   <iframe
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%"

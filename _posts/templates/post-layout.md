@@ -77,6 +77,12 @@
     padding:0.5em;
 
   }
+   .add-right-shadow {
+    border-bottom:solid 2px;
+    border-right:solid 2px;
+    box-shadow:5px 10px 18px;
+    margin-bottom:2em;
+  }
 /** on hover paragraph **/
   .my-p{
         display:inline;
