@@ -489,7 +489,7 @@ Before I carry one, I'm going to leave you, (my trusted readers), for a while as
 <blockquote>
 <h2>Putting First Things First</h2>
 <p>
-I'm sure that you've hear this say before, but have you actually given it a bit of thought?<br>
+I'm sure that you've heard this say before, but have you actually given it a bit of thought?<br>
 When you put "first things first" the <strong>things</strong> you put fist is of the utmost importance.<br>
 Let me share something with you.<br>
 </p>
@@ -556,10 +556,10 @@ So, how did they achieve this?<br>
 </p>
 <ul>
 <u>Well, this unit, spend most of their time preventing fires by doing the following:</u><br>
-  <li>developing their firefighters</li>
-  <li>training daily</li>
-  <li>inspecting their equipment daily.</li>
-  <li>having programs with the community, such as:
+  <li><strong>developing their firefighters</strong></li>
+  <li><strong>training daily</strong></li>
+  <li><strong>inspecting their equipment daily.</strong></li>
+  <li><strong>having programs with the community, such as:</strong>
     <ul>
       <li>visiting schools and training the students on fire prevention and what to do in case of a fire.</li>
       <li>being in other community programs, as consultants and giving training where required.</li>
@@ -599,7 +599,7 @@ Its consists of four quadrants and we can visualize and place the tasks (activit
 </p>
 <ol>
   These Quadrants are defined as:<br>
-  <li>Q1 - Urgent and Important.<br>
+  <li><strong>Q1 - Urgent and Important.</strong><br>
   These are things that must be attended to, at that moment.<br>
   <framed-text> 
   <h3>Living in Q1</h3>
@@ -646,8 +646,55 @@ Its consists of four quadrants and we can visualize and place the tasks (activit
   If you said Q2 (Important but not Urgent), you spot on.<br>
   That is where each and every one of us should live in, most of the time.<br>
   Relationship building is a of <Strong>BIG</strong> importance.<br>
+  If you're in the software development industry and find that you spending a large part of your time fixing software bugs after production launch, then you're living in Q1.<br>
+  You need to revisit the quality assurance practices, especially best practices such as DRY, OOP, Unit Testing, Functional Testing and Integration Testing.<br>
+  You should aim for around 70% of code coverage for unit testing.<br>
   </p> 
   </li> 
+  <li>
+  <strong>Q3 - Not Important but Urgent.</strong><br>
+  <p>
+  Now these activities tend to irritate me.<br>
+  You know, your boss asks you to attend a meeting.<br>
+  You reschedule a face to face meeting with one of your subordinates to discuss his/her progress on his personal development plan (Q2 activity), just to find that when you arrive at the meeting the people are having coffee and talking about the game that was on last night.<br>
+  You sit down and wait for a whole 30 minutes, before the chit-chat stops and the building meeting starts.<br>
+  Now, I'm not saying that socializing is not important, but one need to put<strong>First Things First</strong>.<br>
+  Now the meeting itself is of importance, as relevant issues regarding safety, parking etc. are discussed once every month in this case.<br>
+  </p>
+  <framed-text>
+  <h3>When I walked out of a meeting</h3>
+  <div class="center" style="width:80%">
+  <img src="https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd647130-2b28-4b53-9672-5f285ae2dc61_548x650.png" alt="Why are Union Meetings so… Boring?" style="display:block;width:100%">
+  <p style="text-align:center">Why are Union Meetings so… Boring?</p>
+</div>
+  <p>
+  This makes me recall when I got up and walked out of a meeting.<br>
+  This event happened around the upper part  of The Tens (2007 -2010)<br>
+  It was close to year end and as usual, time was allocated for a special union meeting.<br>
+  My colleague and I were eager to attend.<br>
+  We had an important (Q2) item to discuss.<br>
+  Our retirement fund had seen significant dips, and we wanted to know what the issues were and what one could do about it.<br>
+  Little did we know that this was caused by the US, the so called housing bubble.<br>
+  As It was year end, the union would provide some refreshments and meet for the barque, which was scheduled for after the official union meeting.<br>
+  My colleague and I sat down.<br>
+  There was a buz in the air.<br>
+  As it was financial year end, management gave  an extra hour for this meeting.<br>
+  Eventually everyone settled down and the meeting started.<br>
+  It came to my turn and I asked about the dip in our retirement fund.<br>
+  One of the guys came in and interrupted us, (Q3 activity), stating that the meet was ready.<br>
+  I knew him from work, so he did not attend "hy braai die vleis"<br>
+  The union representative did not give a plausible answer, stating that it was just a temporary drop and we'd recover our losses the next quarter.<br>
+  <strong>We never did</strong><br>
+  I had come prepared, with stats of over the past decade or so, but he was not interested.<br>
+  We must have neen 30 minutes into the two hour meeting when I was told that my questions would be dealt with on another occasion, as the guys wanted to "braai".<br>
+  15 minutes later Willie and I walked into my office.<br>
+  Grace, get me two sets of XYZ-union cancellation form please<br>
+  </p>
+  </framed-text>
+  <p>
+  Now the above event, happened to my friend and I, and is a good example of Q3, an urgent event, as the guys wanted their beer and warm meat, but was rather unimportant compared to our retirement fund.<br>
+  </p>
+  </li>
 </ol>
 </blockquote>
 <blockquote>
@@ -660,6 +707,8 @@ References:<br>
 <a href="https://www.cambsfire.gov.uk/careers/wholetime-firefighter/the-role-of-a-firefighter/">The role of a firefighter</a><br>
 <a href="https://www.nytimes.com/2020/02/02/world/australia/volunteer-firefighters.html">Australia’s Volunteer Firefighters Are Heroes. But Are They Enough?</a><br>
 <a href="https://www.cbsnews.com/news/inside-google-workplaces-from-perks-to-nap-pods/">Inside Google workplaces, from perks to nap pods</a><br>
+<a href="https://www.investopedia.com/terms/g/great-recession.asp">Great Recession: What It Was and What Caused It</a><br>
+<a href="https://www.codium.ai/question/what-is-a-reasonable-code-coverage-for-unit-tests-and-why/">What is a reasonable code coverage % for unit tests (and why)?</a>
 </p>
 </div>
 
@@ -669,3 +718,4 @@ topics still to include
 2. story "look im big, body building measting onsself
 3. being a shitty leader and social health issues
 4. spending time with you people and getting to know them
+5. The only way to grow in a gym
