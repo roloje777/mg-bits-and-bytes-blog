@@ -435,7 +435,7 @@ Here is part of the message I received. <br>
 Hi Joao, we’re bringing together top experts to share their knowledge in an exciting new way: collaborative articles. Because of your expertise, we’ve selected you to be one of the early contributors.
 </i>
 </p>
-Now, by no means am I an expert on the matter, but I must tel you, It's did inflate my "ego"  a bit.<br>
+Now, by no means am I an expert on the matter, but I must tell you, it did inflate my "ego"  a bit.<br>
 Well, I did 20 plus year in a management position in a telecommunications company, so I decided to give my five cents worth.<br>
 Looking through the list of articles they want me to chose from, I came across the one - <i>Here's how you can effectively manage tasks and deadlines in your career.</i><br>
 Now this is one that I'm going to write about in this blog, which will be similar to what I would have shared with the Linkdin team.<br>
@@ -485,7 +485,6 @@ Before I carry one, I'm going to leave you, (my trusted readers), for a while as
             </p>        
         </framed-text>        
     </details>
-</p>
 </blockquote>
 <blockquote>
 <h2>Putting First Things First</h2>
@@ -497,10 +496,14 @@ Let me share something with you.<br>
 </blockquote>
 <framed-text>
 <h3>Preparing for my yearly audits</h3>
+<div class="center" style="width:80%">
+  <img src="https://www.indiafilings.com/learn/wp-content/uploads/2023/01/shutterstock_1479487709-1.jpg" alt="What are the Types of Audits?" style="display:block;width:100%">
+  <p style="text-align:center">What are the Types of Audits?</p>
+</div>
 When I worked as a manager at a Telecom company in South Africa, we had two ladies that visited our offices once a year to do that <strong>dreaded</strong> audit.<br>
 It was a comprehensive audit that covered all out (management) responsibilities, ranging from Health and Safety, Finance, Company Policies, Personnel development and many more.<br>
 You name it and it was in the audit.<br>
-Theses audits were critical to us managers, as it was part of out KPI's and had a personal weight in our final assessments with our supervisor.<br> 
+Theses audits were critical to us managers, as it was part of out KPI's and had a personal weight in our final assessments with our supervisor.<br>
 Now, you know, that feeling that one gets deep in ones stomach, well I promised myself that I would not get that feeling the following year when they visited my section again. <br>
 So what did I do?
 I spoke to Theo, my fellow colleague.<br>
@@ -515,9 +518,10 @@ You know what?<br>
 The three of us were all smiles, as they ticked away.<br>
 I could see that they were impressed. <br>
 </framed-text>
+
 <blockquote>
 <p>
-Now, you may say, How is it possible, my work schedule is so full.<br>
+Now, you may say, How is it possible, my work schedule is so full?<br>
 I don't have time for all this crap.<br>
 Well the first thing you need to do is<strong> prioritize</strong><br>
 If you don't, all you'll be doing is "blowing out fires."
@@ -525,17 +529,23 @@ If you don't, all you'll be doing is "blowing out fires."
 </blockquote>
 <blockquote>
 <h2>Prioritizing</h2>
+
 <p>
-On the one hand, being an IT engineer and having passion in coding, one skill that has been drilled into us, id DRY (Don't repeat yourself).
+On the one hand, being an IT engineer and having passion in coding, one skill that has been drilled into us, is DRY (Don't repeat yourself).
 </p>
 <p>
 Now , you may say.<br>
 How does he even have to to sit in an Friday morning, have coffee and muffins, and prepare for his yearly audit.<br>
 <i>Wait a bit, didn't I just repeat myself?</i><br>
 This reminds me of a story I heard many years ago in one of my postgraduate courses.<br>
+</p>
 </blockquote>
 <framed-text>
 <h3>Why Firefighters step so little time fighting fires</h3>
+<div class="center" style="width:80%">
+  <img src="https://static01.nyt.com/images/2020/01/31/world/00oz-firefighters-1sub/merlin_168105237_3f8eeb90-0b8a-4dcb-9e6f-4072cc8b451c-superJumbo.jpg?quality=75&auto=webp" alt="Australia’s Volunteer Firefighters Are Heroes. But Are They Enough?" style="display:block;width:100%">
+  <p style="text-align:center">Australia’s Volunteer Firefighters Are Heroes. But Are They Enough?</p>
+</div>
 <p>
 It's about a firefighting unit that time and time won the prestigious prize in the US as the best firefighting unit.<br>
 This was not because they were the busiest and had the most fires.<br>
@@ -543,11 +553,12 @@ In actual fact, this unit spend the least on their time responding to emergencie
 It's also not because they were in operating an a semi-or rural area.<br>
 In actual fact, they were in the middle of one of the busiest metropolitan areas.<br>
 So, how did they achieve this?<br>
-We this unit, spend most of their time preventing fires, doing the following:<br>
+</p>
 <ul>
+<u>Well, this unit, spend most of their time preventing fires by doing the following:</u><br>
   <li>developing their firefighters</li>
   <li>training daily</li>
-  <li>inspecting their equipment daily.
+  <li>inspecting their equipment daily.</li>
   <li>having programs with the community, such as:
     <ul>
       <li>visiting schools and training the students on fire prevention and what to do in case of a fire.</li>
@@ -556,8 +567,12 @@ We this unit, spend most of their time preventing fires, doing the following:<br
     </ul>
   </li>
 </ul>
+<p>
 The same concept is actively used in the <strong>DRY</strong> principle when developing software.<br>
-By writing code, testing it thoroughly and have this code in one place, makes you code less prone to errors and more maintainable.<br>
+By writing code, testing it thoroughly (Unit tests, Functional tests and integration tests) and have this code in one place, makes you code less prone to errors and more maintainable.<br>
+</p>
+<p>
+In the firefighting scenario, one could see the testing of equipment etc as unit testing, daily preparation of fire fighters ans functional testing and  community programs as integration testing etc.<br>
 </p>
 <p>
 <i>
@@ -567,10 +582,90 @@ I'll touch more on this later on in the blog...<br>
 </i>
 </p>
 </framed-text>
+<blockquote>
+<h3>Determining what's important</h3>
+<p>
+So it's clear from the firefighters example above that one needs to prioritize our available time, so that the most important tasks - in the case of the business environment - has the greatest positive impact on the organizations goals.<br>
+So how do we determine this ?<br>
+How do we prioritize out work ?<br>
+</p>
+<div class="center" style="width:80%">
+  <img src="https://www.franklincovey.com/wp-content/uploads/2023/06/Screenshot-2023-06-30-at-12.31.24-PM-700x585.png" alt="The FranklinCovey Time Matrix" style="display:block;width:100%">
+  <p style="text-align:center">The FranklinCovey Time Matrix</p>
+</div>
+<p>
+Franklin Covey's Time Matrix is a great tool to help one organize ones tasks and time.<br>
+Its consists of four quadrants and we can visualize and place the tasks (activities) into the quadrant they belong to.
+</p>
+<ol>
+  These Quadrants are defined as:<br>
+  <li>Q1 - Urgent and Important.<br>
+  These are things that must be attended to, at that moment.<br>
+  <framed-text> 
+  <h3>Living in Q1</h3>
+  You may say : 
+  <i>
+  That's my problem.<br>
+  My day is full of urgent and important issues that I've no time for things like preparing for an audit.<br>
+  That's exactly the problem.<br>
+  <strong> You are living in Q1.</strong><br>
+  <br>
+  </i>
+  It's a Saturday morning, the year 1972 - dad is playing catch with young junior, when the phone starts ringing.<br>
+  ring...ring... ring...<br>
+  Wife - <i>Honey answer the phone</i><br>
+  ring...ring... ring...<br>
+  ring...ring... ring...<br>
+  Wife - <i>honey, did you not hear me, please answer the phone</i>
+  ring...ring... ring...<br>
+  ring...ring... ring...<br>
+  Wife - <i>Answer the phone, it could be urgent</i>
+   </framed-text>
+   Did you pick up the problem here?<br>
+  <details>
+  <summary> 
+  Note the word <span class="my-p"><strong>COULD</strong></span>
+  </summary>
+  <framed-text>
+  Definition of could:<br>
+  1. used to indicate possibility.<br>
+  2. used in making suggestions or polite requests.<br>
+  </framed-text>
+  </details>
+  <p>
+  Now you cannot handle anything and everything as urgent and important.<br>
+  These should really be things out of your control such as your wife phones and says that the baby is due and you need to take her to the hospital.<br>
+  In the case of work, your boss has scheduled a last minute meeting.<br>
+  Now, if your boss makes it a habit to schedule last minute meeting, then you should speak to him/her and explain - in a polite way - that he must schedule your meeting before hand , as you are living in Q2.(more on this further on)<br>
+  You are the manager, you need to manage your section, your time is of utmost importance. <br>
+  You need to determine want activities in this quadrant really need your attention, and deal with those.<br>
+  Like driving your wife and baby to the hospital.<br>
+  This is the quadrant that you can delegate.<br>
+  Just a note on dad playing with Junior.<br>
+  What quadrant would you put that in ?<br>
+  If you said Q2 (Important but not Urgent), you spot on.<br>
+  That is where each and every one of us should live in, most of the time.<br>
+  Relationship building is a of <Strong>BIG</strong> importance.<br>
+  </p> 
+  </li> 
+</ol>
+</blockquote>
+<blockquote>
+<h3>Making time for what's important.</h3>
+</blockquote>
 <div>
 <p>
 References:<br>
 <a href="https://asana.com/pt/resources/self-management">What is self-management? (7 skills to improve it)</a><br>
-<a href="https://www.cambsfire.gov.uk/careers/wholetime-firefighter/the-role-of-a-firefighter/">The role of a firefighter</a>
+<a href="https://www.cambsfire.gov.uk/careers/wholetime-firefighter/the-role-of-a-firefighter/">The role of a firefighter</a><br>
+<a href="https://www.nytimes.com/2020/02/02/world/australia/volunteer-firefighters.html">Australia’s Volunteer Firefighters Are Heroes. But Are They Enough?</a><br>
+<a href="https://www.cbsnews.com/news/inside-google-workplaces-from-perks-to-nap-pods/">Inside Google workplaces, from perks to nap pods</a><br>
 </p>
 </div>
+
+topics still to include
+
+1. accountability
+2. story "look im big, body building measting onsself
+3. being a shitty leader and social health issues
+4. spending time with you people and getting to know them
