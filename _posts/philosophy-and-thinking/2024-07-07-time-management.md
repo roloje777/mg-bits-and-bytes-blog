@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: time-management-1
-title: Time management for successful people.
+title: Time Management For Successful People.
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -415,13 +415,13 @@ It's Sunday morning.<br>
 Having fed the cats early this morning, dealt with their litter and made two cups of coffee.<br>
 One for my wife and the other for myself.<br>
 The tv is on <a href="https://www.youtube.com/@WildEarth">WildEarth.</a><br>
-My thoughts go back to a day before.<br>
-Had had gone out early in the morning on my bicycle.<br>
+My thoughts go back to the day before.<br>
+I had gone out early in the morning on my bicycle.<br>
  I took my water-bottle full of fresh water that we get from a spring near us and <a href="https://youtu.be/g2wZQcXPE7c?si=vG9WBtKiHSHcuZbh"> cycled to the top of the mountain.</a>
  in my area.<br>
  I took out the one of the book's by Arthor Conan Doyle, given to me as a gift by my  beautiful daughter.<br>
 I read the next story in the book, <a href="https://en.wikipedia.org/wiki/The_Adventure_of_Charles_Augustus_Milverton">The Adventure of Charles Augustus Milverton</a><br>
-I love reading these stories, as they are short, one can read then in an hour or so.<br>
+I love reading these stories, as they are short, one can read one in an hour or less.<br>
 Now you my ask, what's this got to do with time management?<br>
 Well, the story, maybe not so much, but if you keep on reading further you may see my point.<br>
 </p>
@@ -437,8 +437,9 @@ Hi Joao, we’re bringing together top experts to share their knowledge in an ex
 </p>
 Now, by no means am I an expert on the matter, but I must tell you, it did inflate my "ego"  a bit.<br>
 Well, I did 20 plus year in a management position in a telecommunications company, so I decided to give my five cents worth.<br>
-Looking through the list of articles they want me to chose from, I came across the one - <i>Here's how you can effectively manage tasks and deadlines in your career.</i><br>
-Now this is one that I'm going to write about in this blog, which will be similar to what I would have shared with the Linkdin team.<br>
+Looking through the list of articles they want me to chose from, I came across this one - <i>Here's how you can effectively manage tasks and deadlines in your career.</i><br>
+Now this is one that I'm going to write about in this blog.<br>
+I'll then share my thoughts on this subject matter with the Linkedin team, or better yet, share a link to this post of mine, <strong>a Q2 activity</strong> <br>
 Before I carry one, I'm going to leave you, (my trusted readers), for a while as I've an appointment with my gym partner, (Pipoca) <a href="https://youtu.be/TgIu8DcYLFI?si=gSftqWQyQDIlXqhz">at the gym</a>.
  <details>
         <summary style="margin-bottom:1em">So take a break, go exercise, or just have a fresh cup of coffee, and when you ready I'll be here with the rest of this article.<br>
@@ -501,15 +502,15 @@ Let me share something with you.<br>
   <p style="text-align:center">What are the Types of Audits?</p>
 </div>
 When I worked as a manager at a Telecom company in South Africa, we had two ladies that visited our offices once a year to do that <strong>dreaded</strong> audit.<br>
-It was a comprehensive audit that covered all out (management) responsibilities, ranging from Health and Safety, Finance, Company Policies, Personnel development and many more.<br>
+It was a comprehensive audit that covered all our (management) responsibilities, ranging from Health and Safety, Finance, Company Policies, Personnel development and many more.<br>
 You name it and it was in the audit.<br>
-Theses audits were critical to us managers, as it was part of out KPI's and had a personal weight in our final assessments with our supervisor.<br>
+Theses audits were critical to us managers, as it was part of our KPI's (Key Performance Indicators) and had a personal weight in our final assessments with our supervisor.<br>
 Now, you know, that feeling that one gets deep in ones stomach, well I promised myself that I would not get that feeling the following year when they visited my section again. <br>
-So what did I do?
+So what did I do?<br>
 I spoke to Theo, my fellow colleague.<br>
 The two of us occupied the first floor of the telecom exchange and both were managers.<br>
-Theo, Grace (our admin support), and I reserved a few hours on Fridays morning to work on all the requirements needed for preparing for our audits.<br>
-We made it fun, one of us alternatively brining the blue-berry muffins for those Friday sessions. <br>
+Theo, Grace (our admin support), and I reserved a few hours on Friday morning's to work on all the requirements needed for preparing for our audits.<br>
+We made it fun, one of us alternatively bringing the blue-berry muffins for those Friday sessions. <br>
 We Planned, and prioritized our work, making sure to put into place all those items that needed attention first, working through each item until all was in place.<br>
 I used my skills as a programmer and designed a Web page, posting all the policies, work instructions, H@S briefings, etc, that were relevant to my personnel on this web.<br>
 This gave my personnel quick and easy access to all the relevant documentation they needed.<br>
@@ -521,7 +522,7 @@ I could see that they were impressed. <br>
 
 <blockquote>
 <p>
-Now, you may say, How is it possible, my work schedule is so full?<br>
+Now, you may say, how is it possible, my work schedule is so full?<br>
 I don't have time for all this crap.<br>
 Well the first thing you need to do is<strong> prioritize</strong><br>
 If you don't, all you'll be doing is "blowing out fires."
@@ -535,22 +536,23 @@ On the one hand, being an IT engineer and having passion in coding, one skill th
 </p>
 <p>
 Now , you may say.<br>
-How does he even have to to sit in an Friday morning, have coffee and muffins, and prepare for his yearly audit.<br>
+How does he even have <strong>TIME</strong> to sit in a Friday morning, have coffee and muffins, and prepare for his yearly audit.<br>
+Fridays, are worse than Mondays for me at work.<br>
 <i>Wait a bit, didn't I just repeat myself?</i><br>
 This reminds me of a story I heard many years ago in one of my postgraduate courses.<br>
 </p>
 </blockquote>
 <framed-text>
-<h3>Why Firefighters step so little time fighting fires</h3>
+<h3>Why Firefighters spend so little time fighting fires</h3>
 <div class="center" style="width:80%">
   <img src="https://static01.nyt.com/images/2020/01/31/world/00oz-firefighters-1sub/merlin_168105237_3f8eeb90-0b8a-4dcb-9e6f-4072cc8b451c-superJumbo.jpg?quality=75&auto=webp" alt="Australia’s Volunteer Firefighters Are Heroes. But Are They Enough?" style="display:block;width:100%">
   <p style="text-align:center">Australia’s Volunteer Firefighters Are Heroes. But Are They Enough?</p>
 </div>
 <p>
-It's about a firefighting unit that time and time won the prestigious prize in the US as the best firefighting unit.<br>
+It's about a firefighting unit that time and time again won the prestigious prize in the US as the best firefighting unit.<br>
 This was not because they were the busiest and had the most fires.<br>
-In actual fact, this unit spend the least on their time responding to emergencies in the whole country.<br>
-It's also not because they were in operating an a semi-or rural area.<br>
+In actual fact, this unit spend the least of their available time responding to emergencies in the whole country.<br>
+It's also not because they were in operating in a semi or rural area.<br>
 In actual fact, they were in the middle of one of the busiest metropolitan areas.<br>
 So, how did they achieve this?<br>
 </p>
@@ -569,14 +571,15 @@ So, how did they achieve this?<br>
 </ul>
 <p>
 The same concept is actively used in the <strong>DRY</strong> principle when developing software.<br>
-By writing code, testing it thoroughly (Unit tests, Functional tests and integration tests) and have this code in one place, makes you code less prone to errors and more maintainable.<br>
+By writing code, testing it thoroughly (Unit tests, Functional tests and integration tests) and have this code in one place, makes your code less prone to errors and more maintainable.<br>
 </p>
 <p>
 In the firefighting scenario, one could see the testing of equipment etc as unit testing, daily preparation of fire fighters ans functional testing and  community programs as integration testing etc.<br>
 </p>
 <p>
 <i>
-Note that the "prize" (productivity) was not given to the unit that blue out the most fires, but those that prevented the most fires.<br>
+Note that the "prize" was not given to the unit that blue out the most fires, but those that prevented the most fires.<br>
+Their is a fundamental shift in mindset here, in the way productivity is measured.<br>
 I'll touch on this later on, but its a fundamental problem with most companies, when measuring performance on divisions and individuals.<br>
 I'll touch more on this later on in the blog...<br>
 </i>
@@ -640,15 +643,15 @@ Its consists of four quadrants and we can visualize and place the tasks (activit
   You are the manager, you need to manage your section, your time is of utmost importance. <br>
   You need to determine want activities in this quadrant really need your attention, and deal with those.<br>
   Like driving your wife and baby to the hospital.<br>
-  This is the quadrant that you can delegate.<br>
+  What in this quadrant that you can delegate?<br><br>
   Just a note on dad playing with Junior.<br>
   What quadrant would you put that in ?<br>
-  If you said Q2 (Important but not Urgent), you spot on.<br>
+  If you said Q2 (Important but not Urgent), you are spot on.<br>
   That is where each and every one of us should live in, most of the time.<br>
-  Relationship building is a of <Strong>BIG</strong> importance.<br>
+  Relationship building is of <Strong>BIG</strong> importance, at a personal and business level.<br>
   If you're in the software development industry and find that you spending a large part of your time fixing software bugs after production launch, then you're living in Q1.<br>
   You need to revisit the quality assurance practices, especially best practices such as DRY, OOP, Unit Testing, Functional Testing and Integration Testing.<br>
-  You should aim for around 70% of code coverage for unit testing.<br>
+  You should aim for around 70% of code coverage for unit testing.<br><br>
   </p> 
   </li> 
   <li>
@@ -658,7 +661,7 @@ Its consists of four quadrants and we can visualize and place the tasks (activit
   You know, your boss asks you to attend a meeting.<br>
   You reschedule a face to face meeting with one of your subordinates to discuss his/her progress on his personal development plan (Q2 activity), just to find that when you arrive at the meeting the people are having coffee and talking about the game that was on last night.<br>
   You sit down and wait for a whole 30 minutes, before the chit-chat stops and the building meeting starts.<br>
-  Now, I'm not saying that socializing is not important, but one need to put<strong>First Things First</strong>.<br>
+  Now, I'm not saying that socializing is not important, but one need to put <strong>First Things First</strong>.<br>
   Now the meeting itself is of importance, as relevant issues regarding safety, parking etc. are discussed once every month in this case.<br>
   </p>
   <framed-text>
@@ -675,18 +678,17 @@ Its consists of four quadrants and we can visualize and place the tasks (activit
   We had an important (Q2) item to discuss.<br>
   Our retirement fund had seen significant dips, and we wanted to know what the issues were and what one could do about it.<br>
   Little did we know that this was caused by the US, the so called housing bubble.<br>
-  As It was year end, the union would provide some refreshments and meet for the barque, which was scheduled for after the official union meeting.<br>
-  My colleague and I sat down.<br>
-  There was a buz in the air.<br>
+  As It was year end, the union would provide some refreshments and meat for the barque, which was scheduled for after the official union meeting.<br>
+  My colleague and I sat down, there was a buz in the air.<br>
   As it was financial year end, management gave  an extra hour for this meeting.<br>
   Eventually everyone settled down and the meeting started.<br>
   It came to my turn and I asked about the dip in our retirement fund.<br>
-  One of the guys came in and interrupted us, (Q3 activity), stating that the meet was ready.<br>
+  One of the guys came in and interrupted us, (Q3 activity), stating that the meat was ready.<br>
   I knew him from work, so he did not attend "hy braai die vleis"<br>
   The union representative did not give a plausible answer, stating that it was just a temporary drop and we'd recover our losses the next quarter.<br>
   <strong>We never did</strong><br>
   I had come prepared, with stats of over the past decade or so, but he was not interested.<br>
-  We must have neen 30 minutes into the two hour meeting when I was told that my questions would be dealt with on another occasion, as the guys wanted to "braai".<br>
+  It must have been 30 minutes into the two hour meeting when I was told that my questions would be dealt with on another occasion, as the guys wanted to "braai".<br>
   15 minutes later Willie and I walked into my office.<br>
   Grace, get me two sets of XYZ-union cancellation form please<br>
   </p>
@@ -698,8 +700,33 @@ Its consists of four quadrants and we can visualize and place the tasks (activit
 </ol>
 </blockquote>
 <blockquote>
-<h3>Making time for what's important.</h3>
+It's just after four in the morning on this Sunday the 14th June 2024.<br>
+I try and fall back asleep, but I know that as soon as my blinkers are open, it'll be a feeble attempt.<br>
+I reflect on this post, deciding if I should carry on with it, moving onto the next Quarter or break it into multiple blogs<br>
+As it's becoming more like a small book than a blog post, I decide I'll spend a good part of this morning, reading through what I have, editing it, fixing syntax and spelling errors and commit the fixes to my local <string>Git</string><br>
+A great tool, that can be used for more that just software developing.<br>
+Well, this should fulfil at least more tha 70% of my coverage of this article's quality assurance, making some of my readers happy. <br>
+Java developers would be proud ....😂😂😂<br>
+At the least, others will be grateful, that I've decided to post it, as no one wants to read a book, when they where promised a blog.<br>
+<br>
+To be continued...<br>
 </blockquote>
+<details>
+        <summary>
+        <p>
+        <div class="my-p">
+         <strong>If you can, I'd love to read your comments on this!!!</strong><br>
+        ¯\_(ツ)_/¯<br>
+        </div>        
+        </p>
+        </summary>
+        <p>
+        Please use <strong>DISQUS</strong> at bottom of each blog to post comments.<br>
+        This way I'll be notified when you add a comment etc.<br>
+        It's free and easy to use, just create an account if you're a new user.<br>
+        </p>
+</details>
+
 <div>
 <p>
 References:<br>
@@ -709,13 +736,6 @@ References:<br>
 <a href="https://www.cbsnews.com/news/inside-google-workplaces-from-perks-to-nap-pods/">Inside Google workplaces, from perks to nap pods</a><br>
 <a href="https://www.investopedia.com/terms/g/great-recession.asp">Great Recession: What It Was and What Caused It</a><br>
 <a href="https://www.codium.ai/question/what-is-a-reasonable-code-coverage-for-unit-tests-and-why/">What is a reasonable code coverage % for unit tests (and why)?</a>
+<a href="https://kinsta.com/knowledgebase/what-is-github/">What Is GitHub? A Beginner’s Introduction to GitHub</a><br>
 </p>
 </div>
-
-topics still to include
-
-1. accountability
-2. story "look im big, body building measting onsself
-3. being a shitty leader and social health issues
-4. spending time with you people and getting to know them
-5. The only way to grow in a gym
