@@ -11,12 +11,12 @@ category: Philosophy and thinking
 # multiple tag entries are possible
 tags: [time management, strategic planning, people management, self management]
 # thumbnail image for post
-img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Xanadu-House-in-Kissimmee-Florida-1990.jpg/1536px-Xanadu-House-in-Kissimmee-Florida-1990.jpg"
+img: "https://www.franklincovey.com/wp-content/uploads/2023/06/Screenshot-2023-06-30-at-12.31.24-PM-700x585.png"
 # disable comments on this page
 # comments_disable: true
 
 # publish date
-date: 1970-01-01 08:00:00
+date: 2024-07-14 06:00:00
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900

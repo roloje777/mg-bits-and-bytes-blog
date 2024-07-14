@@ -22,7 +22,7 @@ img: "https://www.franklincovey.com/wp-content/uploads/2023/06/Screenshot-2023-0
 # comments_disable: true
 
 # publish date
-date: 1970-01-01 08:00:00
+date: 2024-07-14 06:00:00
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
