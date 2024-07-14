@@ -678,7 +678,7 @@ Its consists of four quadrants and we can visualize and place the tasks (activit
   We had an important (Q2) item to discuss.<br>
   Our retirement fund had seen significant dips, and we wanted to know what the issues were and what one could do about it.<br>
   Little did we know that this was caused by the US, the so called housing bubble.<br>
-  As It was year end, the union would provide some refreshments and meat for the barque, which was scheduled for after the official union meeting.<br>
+  As It was year end, the union would provide some refreshments and meat for the barbecue, which was scheduled for after the official union meeting.<br>
   My colleague and I sat down, there was a buz in the air.<br>
   As it was financial year end, management gave  an extra hour for this meeting.<br>
   Eventually everyone settled down and the meeting started.<br>
@@ -703,7 +703,7 @@ Its consists of four quadrants and we can visualize and place the tasks (activit
 It's just after four in the morning on this Sunday the 14th June 2024.<br>
 I try and fall back asleep, but I know that as soon as my blinkers are open, it'll be a feeble attempt.<br>
 I reflect on this post, deciding if I should carry on with it, moving onto the next Quarter or break it into multiple blogs<br>
-As it's becoming more like a small book than a blog post, I decide I'll spend a good part of this morning, reading through what I have, editing it, fixing syntax and spelling errors and commit the fixes to my local <string>Git</string><br>
+As it's becoming more like a small book than a blog post, I decide I'll spend a good part of this morning, reading through what I have, editing it, fixing syntax and spelling errors and commit the fixes to my local <strong>Git</strong><br>
 A great tool, that can be used for more that just software developing.<br>
 Well, this should fulfil at least more tha 70% of my coverage of this article's quality assurance, making some of my readers happy. <br>
 Java developers would be proud ....😂😂😂<br>
@@ -730,10 +730,9 @@ To be continued...<br>
 <div>
 <p>
 References:<br>
-<a href="https://asana.com/pt/resources/self-management">What is self-management? (7 skills to improve it)</a><br>
+<a href="https://www.franklincovey.com/blog/manage-your-time-and-energy-effectively/">Manage Your Time and Energy Effectively</a><br>
 <a href="https://www.cambsfire.gov.uk/careers/wholetime-firefighter/the-role-of-a-firefighter/">The role of a firefighter</a><br>
 <a href="https://www.nytimes.com/2020/02/02/world/australia/volunteer-firefighters.html">Australia’s Volunteer Firefighters Are Heroes. But Are They Enough?</a><br>
-<a href="https://www.cbsnews.com/news/inside-google-workplaces-from-perks-to-nap-pods/">Inside Google workplaces, from perks to nap pods</a><br>
 <a href="https://www.investopedia.com/terms/g/great-recession.asp">Great Recession: What It Was and What Caused It</a><br>
 <a href="https://www.codium.ai/question/what-is-a-reasonable-code-coverage-for-unit-tests-and-why/">What is a reasonable code coverage % for unit tests (and why)?</a>
 <a href="https://kinsta.com/knowledgebase/what-is-github/">What Is GitHub? A Beginner’s Introduction to GitHub</a><br>
