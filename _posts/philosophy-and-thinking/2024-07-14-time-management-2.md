@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: time-management-2
-title: Time Management For Successful People - Part 2.
+title: Time Management For Successful People - Time Wasters.
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -11,7 +11,7 @@ category: Philosophy and thinking
 # multiple tag entries are possible
 tags: [time management, strategic planning, people management, self management]
 # thumbnail image for post
-img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Xanadu-House-in-Kissimmee-Florida-1990.jpg/1536px-Xanadu-House-in-Kissimmee-Florida-1990.jpg"
+img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC0CzjgGBKhOhFZsMEjf_e0iBs5rARrEsrGJe8AUrNWpAtGQYXk_2iAyuduYCloTbi86qN31QFRDsz7FJZD7Ecqxogc-TyV8mebYy-YKUcYtlxc-VXppHMv_9CQ6R-dNHS68jOPu1Igx4/s400/CellPhoneaddiction.jpg"
 # disable comments on this page
 # comments_disable: true
 
@@ -35,7 +35,7 @@ date: 1970-01-01 08:00:00
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+#published: false
 ---
 
 <style>
@@ -407,10 +407,159 @@ published: false
 }
 
 </style>
-
 <blockquote>
-<h3>Making time for what's important.</h3>
+<h2>Introduction</h2>
+<p>
+It's early morning.<br>
+I just cannot get these thoughts out of my head.<br>
+You know, that adrenalin is pumping through your veins, the excitement, the ideas flowing at the speed of light.<br>
+I'm afraid that I might forget some, before I can share with you in this blog of mine.<br>
+I wonder how many great ideas were lost over time, because they were not written down, forgotten for internity.<br>
+Earlier this week, I had little ideas about this topic, now the ideas just keep on coming and I need to <strong>Prioritize</strong> and <strong>Plan</strong> what I'm going to include on this topic.(Q2)<br>
+Now I need to research a bit more on Q4 (Not Important and Not Urgent).<br>
+<framed-text>
+This is a continuance of the previous blog I posted on the 14th July. (<a href="https://roloje777.github.io/mg-bits-and-bytes-blog/posts/philosophy-and-thinking/2024-07-07-time-management">Time Management For Successful People.</a>)<br>
+If you have not read that, I suggest you read it first.
+</framed-text>
+I grab may android device on the bedside table next to me.<br>
+My thoughts go to an an earlier period in my life.<br>
+</p>
+<framed-text>
+<p>
+Rian - "You know João, these cellphones are going to make people poor."<br>
+Me - "Why do you say that?"<br>
+I've walked over to Rian's office.<br>
+He is the sales representative the a Telecom company, we both work for.<br>
+Rian - "Well think about it.<br>
+People like my dad and yours, use to save their money.<br>
+Now I cannot keep-up with the demand for cell phones.<br>
+I'm not complaining, but now instead of saving, we're all looking for the next best device.<br>
+</p>
+</framed-text>
+<p>
+This took place a while back probably between 2007 - 2014, the time when money and credit was so easy to get.<br>
+The banks were just looking for people to give money to.<br>
+</p>
 </blockquote>
+<blockquote>
+<h2>Q4 - Not Important and Not Urgent</h2>
+<div class="center" style="width:80%">
+  <img src="https://www.franklincovey.com/wp-content/uploads/2023/06/Screenshot-2023-06-30-at-12.31.24-PM-700x585.png" alt="The FranklinCovey Time Matrix" style="display:block;width:100%">
+  <p style="text-align:center">The FranklinCovey Time Matrix</p>
+</div>
+<p>
+Now if you look at this quadrant , it's labelled as <strong>Waste</strong>.<br>
+These are activities we should limit ourselves too.<br>
+Now looking further at this diagram, Covey includes activities such as, Television, gaming, the internet etc. <br>
+I know, I know, what you're going to say ... "Please don't shoot the messenger" 😂<br>
+</p>
+ <details>
+        <summary style="margin-bottom:1em">Before, you keep on reading this blog<br>
+        <span class="my-p">Click/tap</span> here and reflect on these so called time-wasters</summary>
+        <framed-text>
+        <div  style="margin:0.5em auto 0.5em auto;width:300px;height:280px;">
+            <div class="container">
+              <div class="coffee-header">
+                <div class="coffee-header__buttons coffee-header__button-one"></div>
+                <div class="coffee-header__buttons coffee-header__button-two"></div>
+                <div class="coffee-header__display"></div>
+                <div class="coffee-header__details"></div>
+              </div>
+              <div class="coffee-medium">
+                <div class="coffe-medium__exit"></div>
+                <div class="coffee-medium__arm"></div>
+                <div class="coffee-medium__liquid"></div>
+                <div class="coffee-medium__smoke coffee-medium__smoke-one"></div>
+                <div class="coffee-medium__smoke coffee-medium__smoke-two"></div>
+                <div class="coffee-medium__smoke coffee-medium__smoke-three"></div>
+                <div class="coffee-medium__smoke coffee-medium__smoke-for"></div>
+                <div class="coffee-medium__cup"></div>
+              </div>
+                <div class="coffee-footer"></div>
+            </div>
+        </div>
+            <div class="image-container">
+              <img src="https://i.stack.imgur.com/YIcbV.png" alt="menus">
+            </div>
+            <p style="margin-top:1em">
+              <span style="color:#5ba487">Click/tap text in this color to display a hidden section with more information</span><br>
+              <span style="color:#3389de">Note that you can click/tap on text of in this colour to route you to the references</span><br>
+              You can also toggle the colour scheme on the bottom left.<br>
+              💡= light theme<br>
+              ☾ = dark theme<br>
+              Depending on you screen size you may need to activate the  "Hamburger menu" for option to apear.<br>
+              On this site you can also opt to read this blog in portuguese, select Pt [En <strong>Pt</strong>]<br>
+              Now if you want to read this blog, or a link you've opened in another language, just select translate from your browsers menu.<br>
+              In Chrome it's a "Kebab" menu.<br>
+            </p>
+            <p>
+            So, you got your coffee, relax and enjoy the blog.<br>
+            ¯\_(ツ)_/¯<br>
+            </p>        
+        </framed-text>        
+    </details>
+</blockquote>
+<blockquote>
+<h3> Time Wasters</h3>
+<div class="center" style="width:80%">
+  <img src="https://cdn.slidesharecdn.com/ss_thumbnails/mobileaddiction-230701064402-df2cc53a-thumbnail.jpg?width=640&height=640&fit=bounds" alt="Mobile Phone Addiction" style="display:block;width:100%">
+  <p style="text-align:center">Mobile Phone Addiction</p>
+</div>
+<p>
+As I mentioned in my introduction, I grabbed my phone early this morning to do some research on ideas I had for this topic.<br>
+I'm amazed how much information is at my finger tip.<br>
+What a marvellous tool, yet a dangerous one as well.<br>
+This morning I was in Q2 mode. <br>
+I had ideas and used this wonderful device and the internet to do research.<br>
+This is not always the case.<br>
+Many mornings, when I wake up, Look at my wife still asleep.<br>
+I'm an early worm you see, so most morning I'm up well before 6:00.<br>
+I'll grab my phone, probably ignoring my furry friends that believe their morning treats are Q1 activities, and start browsing my social media such as FaceBook, Whatsapp etc.<br>
+I see that I've plenty of notifications from social applications, and from google on topics that I've shown interest before.(Q3 Distractions)<br>
+<i><a href="https://roloje777.github.io/mg-bits-and-bytes-blog/posts/Technology-and-applied-sciences/2024-04-01-are-we-doomed">That's AI at play here</a>.</i><br>
+</p>
+<p>
+Before I notice, my wife is awake and I need to get up to feed the cats and make two cups of coffee.<br>
+What's alarming is that one and a half to two hours have passed by, while I was on my phone.... <br>
+I was startled at how two hours passed, as I was awake at 5:00, just doing "nothingness", browsing and looking at pictures on Facebook posted by people, some I know, but mostly not.<br>
+Mostly on their daily activities, selfies, at some restaurant, at the beach, shopping, or just displaying their new toys "bikes and cars" etc, etc, etc.. <br>
+</p>
+Now that I've done some research on this, I think to myself.<br>
+<ol>
+  <li>
+"Well Mister, don't be to hard on yourself, the average person spends 3 hours and 15 minutes on their phones daily."<br>
+Well, I've already burnt almost 50% of that and it's only 7 am. (˚0˚)!! <br>
+</li>
+<li>
+Another habit I've picked up, and I've no idea when it happened, is that wherever I go, I must take my phone with me, and for nop apparent reason, I'll pick it up going through the notifications etc.<br>
+Not that I'm expecting some message or a phone call.<br>
+The average person check their phone 58 times per day.
+</li>
+</ol>
+<p>
+Now, looking at the stats, it seems normal, or is it?<br>
+Is it not a Q4 activity?<br>
+Is it not borderline addiction.<br>
+Am I not becoming addicted, having to know what's on the news every hour or so, or what Peter or Jane did today etc, etc, etc?<br>
+</p>
+<details>
+<summary style="margin-bottom:1em">Here's an interesting this article that speaks about a lady and her struggles with this addiction.<br>
+An issue that is really affecting Gen Zers as 3 out of 4 spending too much time on their phones.<br>
+        <span class="my-p">click/tap here to read article</span>
+</summary>
+<p>
+<embed type="text/html" style="width:100%;height:400px" src="http://www.storiesofahappymom.com/2013/05/surviving-cell-phone-addiction.html"><br>
+<a href="http://www.storiesofahappymom.com/2013/05/surviving-cell-phone-addiction.html">Surviving the cell phone addiction</a>
+</p>
+</details>
+</blockquote>
+<div>
+<p>
+References:<br>
+<a href="https://www.franklincovey.com/blog/manage-your-time-and-energy-effectively/">Manage Your Time and Energy Effectively</a><br>
+<a href="https://explodingtopics.com/blog/smartphone-usage-stats#top-smartphone-stats">Time Spent Using Smartphones (2024 Statistics)</a><br>
+</p>
+</div>
 
 topics still to include
 
@@ -419,3 +568,5 @@ topics still to include
 3. being a shitty leader and social health issues
 4. spending time with you people and getting to know them
 5. The only way to grow in a gym
+6. exception happen "Happy path versus unhappy path? Also the wall example (brick by brick)
+7. A manager should manage, a tech should do techy stuff. "single responsibility principle"
