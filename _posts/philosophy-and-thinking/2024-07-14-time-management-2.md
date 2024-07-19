@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: time-management-2
-title: Time Management For Successful People - Time Wasters.
+title: Time Management For Successful People - Time-Wasters.
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -433,7 +433,7 @@ He is the sales representative the a Telecom company, we both work for.<br>
 Rian - "Well think about it.<br>
 People like my dad and yours, use to save their money.<br>
 Now I cannot keep-up with the demand for cell phones.<br>
-I'm not complaining, but now instead of saving, we're all looking for the next best device.<br>
+I'm not complaining, but now instead of saving, we're all looking forward for the next best device."<br>
 </p>
 </framed-text>
 <p>
@@ -450,12 +450,16 @@ The banks were just looking for people to give money to.<br>
 <p>
 Now if you look at this quadrant , it's labelled as <strong>Waste</strong>.<br>
 These are activities we should limit ourselves too.<br>
-Now looking further at this diagram, Covey includes activities such as, Television, gaming, the internet etc. <br>
-I know, I know, what you're going to say ... "Please don't shoot the messenger" 😂<br>
+Looking further at this diagram, Covey includes activities such as, Television, gaming, the internet etc. <br>
+I know, I know, what you're going to say ...<br>
+"Please don't shoot the messenger" 😂<br>
 </p>
  <details>
         <summary style="margin-bottom:1em">Before, you keep on reading this blog<br>
-        <span class="my-p">Click/tap</span> here and reflect on these so called time-wasters</summary>
+        <span class="my-p">Click/tap</span> here and reflect on these so called Time-Wasters I just mentioned above.<br>
+        What do you see as Time-Wasters?<br>
+        Do you see your mobile device and the internet as a useful tool, or as a Time-Waster?<br> 
+        </summary>
         <framed-text>
         <div  style="margin:0.5em auto 0.5em auto;width:300px;height:280px;">
             <div class="container">
@@ -512,39 +516,38 @@ What a marvellous tool, yet a dangerous one as well.<br>
 This morning I was in Q2 mode. <br>
 I had ideas and used this wonderful device and the internet to do research.<br>
 This is not always the case.<br>
-Many mornings, when I wake up, Look at my wife still asleep.<br>
-I'm an early worm you see, so most morning I'm up well before 6:00.<br>
-I'll grab my phone, probably ignoring my furry friends that believe their morning treats are Q1 activities, and start browsing my social media such as FaceBook, Whatsapp etc.<br>
+I'm an early worm you see, so most morning I'm up before 05:00.<br>
+I'll grab my phone, probably ignoring my furry friends that believe their morning treats are Q1 (Urgent and Important) activities, and start browsing my social media such as FaceBook, Whatsapp etc.<br>
 I see that I've plenty of notifications from social applications, and from google on topics that I've shown interest before.(Q3 Distractions)<br>
 <i><a href="https://roloje777.github.io/mg-bits-and-bytes-blog/posts/Technology-and-applied-sciences/2024-04-01-are-we-doomed">That's AI at play here</a>.</i><br>
 </p>
 <p>
 Before I notice, my wife is awake and I need to get up to feed the cats and make two cups of coffee.<br>
-What's alarming is that one and a half to two hours have passed by, while I was on my phone.... <br>
-I was startled at how two hours passed, as I was awake at 5:00, just doing "nothingness", browsing and looking at pictures on Facebook posted by people, some I know, but mostly not.<br>
+I was startled at how two hours passed by, as I was awake at 5:00, just doing "nothingness", browsing and looking at pictures on Facebook posted by people, some I know, but mostly not.<br>
 Mostly on their daily activities, selfies, at some restaurant, at the beach, shopping, or just displaying their new toys "bikes and cars" etc, etc, etc.. <br>
+<i>I wonder what Covey would classify these as .... <span style="font-size:2em">💭</span></i>
 </p>
 Now that I've done some research on this, I think to myself.<br>
 <ol>
   <li>
-"Well Mister, don't be to hard on yourself, the average person spends 3 hours and 15 minutes on their phones daily."<br>
+"Well Mister, don't be to hard on yourself,<strong> the average person spends 3 hours and 15 minutes on their phones daily.</strong> "<br>
 Well, I've already burnt almost 50% of that and it's only 7 am. (˚0˚)!! <br>
 </li>
 <li>
-Another habit I've picked up, and I've no idea when it happened, is that wherever I go, I must take my phone with me, and for nop apparent reason, I'll pick it up going through the notifications etc.<br>
+Another habit I've picked up, and I've no idea when it happened, is that wherever I go, I must take my phone with me, and for no apparent reason, I'll pick it up going through the notifications etc.<br>
 Not that I'm expecting some message or a phone call.<br>
-The average person check their phone 58 times per day.
+<strong>The average person checks their phone 58 times per day.</strong>
 </li>
 </ol>
 <p>
 Now, looking at the stats, it seems normal, or is it?<br>
 Is it not a Q4 activity?<br>
-Is it not borderline addiction.<br>
+Is it not borderline addiction ?<br>
 Am I not becoming addicted, having to know what's on the news every hour or so, or what Peter or Jane did today etc, etc, etc?<br>
 </p>
 <details>
 <summary style="margin-bottom:1em">Here's an interesting this article that speaks about a lady and her struggles with this addiction.<br>
-An issue that is really affecting Gen Zers as 3 out of 4 spending too much time on their phones.<br>
+<strong>An issue that is really affecting Gen Zers as 3 out of 4 spending are too much time on their phones.</strong><br>
         <span class="my-p">click/tap here to read article</span>
 </summary>
 <p>
@@ -553,20 +556,123 @@ An issue that is really affecting Gen Zers as 3 out of 4 spending too much time 
 </p>
 </details>
 </blockquote>
+<blockquote>
+<h2>Is Sugar Bad for You ?</h2>
+<framed-text>
+<h3>It's 1980 and we're at the gym. (Q2 activity)</h3>
+<div class="center" style="width:80%">
+  <img src="https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2022/04/sugar-g963832288_1280.jpg" alt="tablespoon of sugar" style="display:block;width:100%">
+  </div>
+<p>
+It's the year 1980, 9:30 Saturday morning.<br>
+Rui, a pal of mine and I are a Tait's Gym, located at the "Hoefie" in a Mining city called Welkom, situated in the Northern Free State of South Africa.<br>
+We're busy getting ready for our session.<br>
+Typical young lad's, wanting to pump our muscles, so that we can impress the chicks on Sunday afternoon and the municipality pools.<br>
+Two older guys, a red head with freckles, and his tanned darker haired gym partner, walk into the change rooms as we're busy changing into our gym clothes.<br>
+I've seen them before, they take their workouts serious and to the limit.<br>
+They are two young engineers working at a gold mine, not too far out of town.<br>
+They're are buff, and we can only dream to attain their level of muscularity.<br>
+Drenched in sweat, the red head opens his locker and grabs a packet of sugar.<br>
+He pours some sugar into his mouth and takes a large gulp of water from the flask he has in his other hand.<br>
+He passes the sugar to his pal that procedes to do they same.<br>
+He wipes the sweat of his forehead with a face towel from his locker, puts it back with the sugar, locks the door and exits the changing room quickly walking back into the gym.<br>
+The red head red comments - "Come guys, the weights are waiting", and follows his friend....
+</p>
+</framed-text>
+</blockquote>
+<blockquote>
+<h3>A Lesson on Human Biology</h3>
+<div class="center" style="width:80%">
+  <img src="https://pressbooks.calstate.edu/app/uploads/sites/3/2022/05/Carbohydrate-Digestion-768x1024.jpg" alt="Mobile Phone Addiction" style="display:block;width:100%">
+  <p style="text-align:center">Carbohydrate Digestion and Absorption</p>
+</div>
+<p>
+When you ingest sugar (sucrose) your body breaks these disaccharides to 
+individual sucrose and fructose molecules.(monosaccharides)<br>
+These molecules are then absorbed by your liver.<br>
+Here they are converted to Glucose.<br>
+Now , note no mater what carbohydrate you ingest, be it fructose from 
+complex carbs such as fruits, sucrose from sugar, or lactose from milk products, they are all converted to <strong>glucose</strong> in the liver.<br>
+That is the only sugar our body utilizes, thus when someone tests his/her
+sugar levels, they do a glucose test, not a fructose or sucrose test...<span style="font-size:2em">💭</span><br>
+Now sugar has a high glycaemic index, meaning that it will be absorbed 
+quickly in one's blood, which causes the pancreas to release insulin.<br>
+This insulin then mediates the flow of glucose from the blood stream 
+into the various cells in the body.<br>
+<strong>
+These guys at Tait's gym, must have known that as the muscle fibers were being trained, they would use up this glucose quite quickly as it was broken down to form ATP.
+(Adenosine triphosphate (ATP) is the source of energy for use and
+ storage at the cellular level)<span style="font-size:2em">💭</span><br>
+</strong>
+What's important here is that the glucose that is not used immediately
+as ATP, will be stored in the skeletal muscles as glycogen.<br>
+Now only if you have too much carbohydrates, <strong>(an excessive amount)</strong> will this glucose be converted and stored as fat.<br>
+Another point to note is that the fitter you are, 
+and the more you exercise, the more your body is able to store glycogen, that
+fuels your muscles, thus the potential of storing carbohydrates as fat are highly reduced. <br>
+Another positive with regular exercise is that the body will need
+less insulin to be produced to transport the glucose from the blood to the cells in your body.<br>
+<strong>By now you must see that exercise is a Q2 activity.<br>
+Note that by not exercising regularly you could be moving YOURSELF into Q1.</strong><br>
+So exercise has the effect of processing sugars more efficiently and effectively in the body.<br>
+<p>
+Obviously these guys knew that their glycogen stores were at the point of depletion, so they quickly took a break and replenished the glucose.<br>
+And what's easier that a tablespoon of sugar... that has a high GI index...<span style="font-size:2em">💭</span><br>
+<a href="https://www.youtube.com/watch?v=PHkFoiqTe9o">Exercise & Sugar: When Sugar Can Be a Good Thing</a>
+</p>
+
+</p>
+</blockquote>
+<blockquote>
+<h2>Don't Label things as Good Or Bad</h2>
+<div class="center" style="width:80%">
+  <img src="https://media.gettyimages.com/id/914884690/vector/man-between-an-angel-and-devil.jpg?s=612x612&w=gi&k=20&c=L4NToO7GAVlBOslLmnWNGMgHlu1zVnt0cIyN1jvPkGY=" alt="Mobile Phone Addiction" style="display:block;width:100%">
+  <p style="text-align:center">Good or Bad - gettyimages</p>
+</div>
+<framed-text>
+Joana - "But wait a bit.<br>
+I always heard that sugar is bad for you."<br>
+Carla - "No, is it not fat that's bad for you."<br>
+Pipo - "I've no idea girls, what do you think Rafa ?"<br>
+Rafa - "Depends on how you label them ... "<br>
+Joana,Carla and Pipo - "hu"<br>
+Rafa - "They are both good or bad.<br>
+ "Try making a cake with lard or adding sugar to your rice ..."<br>
+all - "hahahaha"<br>
+</framed-text>
+<p>
+<div class="center" style="width:80%">
+  <img src="https://www.franklincovey.com/wp-content/uploads/2023/06/Screenshot-2023-06-30-at-12.31.24-PM-700x585.png" alt="The FranklinCovey Time Matrix" style="display:block;width:100%">
+  <p style="text-align:center">The FranklinCovey Time Matrix</p>
+</div>
+Take a look at the image of Covey's matrix again.<br>
+There are activities such as gaming, television, relaxation etc.<br>
+This may mistakenly led you to believe that they are inherently time-wasters and thus evil.<br>
+Just like the case of sugar.<br>
+This is not so, I want you specifically look at one specific word, namely:<br>
+<strong><span style="display:inline-block;font-size:3em">EXCESSIVE</span></strong>
+</p>
+<blockquote>
+<details>
+        <summary>
+        <p>
+        <div class="my-p">
+         <strong>If you can, I'd love to read your comments on this!!!</strong><br>
+        ¯\_(ツ)_/¯<br>
+        </div>        
+        </p>
+        </summary>
+        <p>
+        Please use <strong>DISQUS</strong> at bottom of each blog to post comments.<br>
+        This way I'll be notified when you add a comment etc.<br>
+        It's free and easy to use, just create an account if you're a new user.<br>
+        </p>
+</details>
 <div>
 <p>
 References:<br>
 <a href="https://www.franklincovey.com/blog/manage-your-time-and-energy-effectively/">Manage Your Time and Energy Effectively</a><br>
 <a href="https://explodingtopics.com/blog/smartphone-usage-stats#top-smartphone-stats">Time Spent Using Smartphones (2024 Statistics)</a><br>
+<a href="https://pressbooks.calstate.edu/nutritionandfitness/chapter/carbohydrate-digestion-and-absorption/">Carbohydrate Digestion and Absorption</a><br>
 </p>
 </div>
-
-topics still to include
-
-1. accountability
-2. story "look im big, body building measting onsself
-3. being a shitty leader and social health issues
-4. spending time with you people and getting to know them
-5. The only way to grow in a gym
-6. exception happen "Happy path versus unhappy path? Also the wall example (brick by brick)
-7. A manager should manage, a tech should do techy stuff. "single responsibility principle"
