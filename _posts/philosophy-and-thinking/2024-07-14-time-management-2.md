@@ -412,8 +412,8 @@ date: 1970-01-01 08:00:00
 <p>
 In this blog I continue exploring the topic on how do we use our time to be successful.<br>
 I make use of FranklinCovey's Time Matrix as a guiding tool.<br>
-I came across FranklinCoveys's Matrix in <a href="https://www.dropbox.com/scl/fi/5cgo0bw4v4m9r03946hk1/7HabitsStevenCovetCert.jpg?rlkey=hm86jzsh0sfpo9ahqhvpzw7sa&st=rfpc5al2&dl=0" >a post graduate course I attended.</a></br>
- I'll show , mostly by (my) real life experiences, how this concept can help one focus on what one needs to be done to get the required results.<br>
+I came across FranklinCoveys's Matrix in <a href="https://www.dropbox.com/scl/fi/5cgo0bw4v4m9r03946hk1/7HabitsStevenCovetCert.jpg?rlkey=hm86jzsh0sfpo9ahqhvpzw7sa&st=rfpc5al2&dl=0" >a post graduate course I attended.</a><br>
+ I'll show , mostly by (my) real life experiences, how this concept can help one focus on what needs to be done to get the required results.<br>
  To do that one needs to be aware of the so called "time-wasters" ..<br>
  In this blog I'll focus on quadrant 3, which he (Steven R. Covey) regards as time-wasters.<br>
  </p>
