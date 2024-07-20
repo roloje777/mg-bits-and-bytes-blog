@@ -408,6 +408,21 @@ date: 1970-01-01 08:00:00
 
 </style>
 <blockquote>
+<h2>Foreword</h2>
+<p>
+In this blog I continue exploring the topic on how do we use our time to be successful.<br>
+I make use of FranklinCovey's Time Matrix as a guiding tool.<br>
+I came across FranklinCoveys's Matrix in <a href="https://www.dropbox.com/scl/fi/5cgo0bw4v4m9r03946hk1/7HabitsStevenCovetCert.jpg?rlkey=hm86jzsh0sfpo9ahqhvpzw7sa&st=rfpc5al2&dl=0" >a post graduate course I attended.</a></br>
+ I'll show , mostly by (my) real life experiences, how this concept can help one focus on what one needs to be done to get the required results.<br>
+ To do that one needs to be aware of the so called "time-wasters" ..<br>
+ In this blog I'll focus on quadrant 3, which he (Steven R. Covey) regards as time-wasters.<br>
+ </p>
+ <p>
+  This is a continuance of the previous blog I posted on the 14th July. (<a href="https://roloje777.github.io/mg-bits-and-bytes-blog/posts/philosophy-and-thinking/2024-07-07-time-management">Time Management For Successful People.</a>)<br>
+If you have not read that, I suggest you read it first.
+ </p>
+</blockquote>
+<blockquote>
 <h2>Introduction</h2>
 <p>
 It's early morning.<br>
@@ -417,10 +432,6 @@ I'm afraid that I might forget some, before I can share with you in this blog of
 I wonder how many great ideas were lost over time, because they were not written down, forgotten for internity.<br>
 Earlier this week, I had little ideas about this topic, now the ideas just keep on coming and I need to <strong>Prioritize</strong> and <strong>Plan</strong> what I'm going to include on this topic.(Q2)<br>
 Now I need to research a bit more on Q4 (Not Important and Not Urgent).<br>
-<framed-text>
-This is a continuance of the previous blog I posted on the 14th July. (<a href="https://roloje777.github.io/mg-bits-and-bytes-blog/posts/philosophy-and-thinking/2024-07-07-time-management">Time Management For Successful People.</a>)<br>
-If you have not read that, I suggest you read it first.
-</framed-text>
 I grab may android device on the bedside table next to me.<br>
 My thoughts go to an an earlier period in my life.<br>
 </p>
@@ -671,6 +682,7 @@ This is not so, I want you specifically look at one specific word, namely:<br>
 <div>
 <p>
 References:<br>
+<a href="https://www.amazon.es/Habits-Highly-Effective-People-Anniversary/dp/1471195201/ref=sr_1_1?adgrpid=164509666553&dib=eyJ2IjoiMSJ9.4Kvg1JAsqNDSCP3x6WQGTwBSkJH0jfwgx1t58_aRZiNLrLpkca-mgalkO73wKAYj5ipbPhYGV4ghgUqn4h8k0JI15WPEYDo7IAVFfm22WVj-P_7soYBTubjGkxVy0REzZO9aLp9Im1JnvY0KhXny0iL8qYpV9aii79P0gM71-Qx-qoOT-ZWGrP05BnlAlQx-IOk-tiYa0TLjOLMJPFrA0llzAEXEl1frHvxB-y-m8MYMwEWGHY3bib_JWmWsKONdDrXXDd8kws591c-CeoQVT5_YNLO_O-6KG02YEY7tpII.4LU8cD_DCfol51SXUCrHICsGR4Fw4KsEQTxmvfLkKRE&dib_tag=se&hvadid=701115443910&hvdev=c&hvlocphy=1011776&hvnetw=g&hvqmt=e&hvrand=14629492212094666268&hvtargid=kwd-48202088&hydadcr=17805_2371875&keywords=7+habits+of+highly+effective+people&qid=1721462191&sr=8-1">Seven habits of highly effective people</a><br>
 <a href="https://www.franklincovey.com/blog/manage-your-time-and-energy-effectively/">Manage Your Time and Energy Effectively</a><br>
 <a href="https://explodingtopics.com/blog/smartphone-usage-stats#top-smartphone-stats">Time Spent Using Smartphones (2024 Statistics)</a><br>
 <a href="https://pressbooks.calstate.edu/nutritionandfitness/chapter/carbohydrate-digestion-and-absorption/">Carbohydrate Digestion and Absorption</a><br>
