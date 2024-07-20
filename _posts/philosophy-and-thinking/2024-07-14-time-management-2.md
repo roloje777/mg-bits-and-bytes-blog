@@ -16,7 +16,7 @@ img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC0CzjgGBKhOhFZ
 # comments_disable: true
 
 # publish date
-date: 1970-01-01 08:00:00
+date: 2024-07-20 08:00:00
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
