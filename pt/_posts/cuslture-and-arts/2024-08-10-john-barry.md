@@ -7,7 +7,7 @@ title: John Barry, um gênio musical de nossos tempos
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: ultura e artes
+category: Cultura e artes
 # multiple tag entries are possible
 tags: [música, filmes]
 # thumbnail image for post
@@ -422,7 +422,7 @@ John Barry sabia disso, ele era um gênio em aprimorar nossas experiências de f
 </blockquote>
 <blockquote>
 <details>
-        <summary style="margin-bottom:1em">Agora, antes de continuar com este blog. Vou pegar uma xícara fresca de <span class="my-p">Clique/toque</span> BICA<br>
+        <summary style="margin-bottom:1em">Agora, antes de continuar com este blog, vou pegar uma chavena fresca de <span class="my-p">Clique/toque</span> BICA<br>
         </summary>
         <framed-text>
         <div  style="margin:0.5em auto 0.5em auto;width:300px;height:280px;">
