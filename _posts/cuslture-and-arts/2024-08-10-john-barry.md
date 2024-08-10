@@ -485,7 +485,7 @@ John Barry knew this, he was a genius at enhancing our experiences of movies wit
     allowfullscreen
   >
   </iframe>
-  <p style="position: relative; text-align: center">This Never Happened To The Other Fella» (John Barry) — Fender Bass VI Cover</p>
+  <p style="position: relative; text-align: center">Main Theme - On Her Majesty's Secret Service» (John Barry) ― Fender Jaguar Baritone Custom Cover</p>
 </div>
 <h2>At The Movies</h2>
 <blockquote>
@@ -511,7 +511,7 @@ As well as the 1976 block buster "King Kong" and many others...<br>
     allowfullscreen
   >
   </iframe>
-  <p style="position: relative; text-align: center">This Never Happened To The Other Fella» (John Barry) — Fender Bass VI Cover</p>
+  <p style="position: relative; text-align: center">Out Of Africa • Main Theme • John Barry</p>
 </div>
 <blockquote>
 <p>
