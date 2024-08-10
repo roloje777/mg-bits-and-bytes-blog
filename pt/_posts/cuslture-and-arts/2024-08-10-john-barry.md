@@ -1,22 +1,22 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: coffee-01
-title: Coffee-01
+lng_pair: john_barry
+title: John Barry, um gênio musical de nossos tempos
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: Information Technology
+category: ultura e artes
 # multiple tag entries are possible
-tags: [html, css]
+tags: [música, filmes]
 # thumbnail image for post
-img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Xanadu-House-in-Kissimmee-Florida-1990.jpg/1536px-Xanadu-House-in-Kissimmee-Florida-1990.jpg"
+img: "https://upload.wikimedia.org/wikipedia/commons/f/f8/John-barry-2006.jpg"
 # disable comments on this page
 # comments_disable: true
 
 # publish date
-date: 1970-01-01 08:00:00
+date: 2024-08-10  06:00:00
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
@@ -35,11 +35,120 @@ date: 1970-01-01 08:00:00
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+# published: false
 ---
 
 <style>
-.container {
+    container{
+              float:left;
+			  width:100%;
+			  margin-bottom: 10px;			                
+             }
+	image-container{
+		width: 30%;
+		float:left;
+		border: hidden; 
+		margin: 20px;
+	}
+	img{
+		object-fit:contain;	  	
+	}
+    container-text{	
+       /* width: 40%; 
+        margin-left: 5px;*/
+        display: block;
+        margin-top: 20px; 
+        padding-top: 1 px;
+        /* border: solid 1px; */
+	}
+
+    ol{
+        list-style-type: upper-roman;
+        
+    }
+
+   /* used as <p class="vertical"></p> instead I can also use <blockquote> 
+     or > in md
+      */
+    video-container{   
+		width: 60%;
+		float:left;
+		border: hidden; 
+		margin: 20px;
+    }
+
+    iframe{
+       position: relative; 
+        top: 0; 
+        left: 0; 
+        width: 100%; 
+        height: 100%; 
+        object-fit-contain;
+    }
+
+
+	.vertical{
+    border-left: 4px solid;
+    border-right: 4px solid;
+    border-radius: 25px;
+    color: blue;
+    background-color: #111111;
+	margin;0 0 0 -3;
+    padding:0 0 0 1em
+
+  }
+  vertical-text{
+	color: #bbbbbb;
+  
+  font-family: cursive;
+  }
+    /* frames text in middle of page */
+  framed-text{
+    display:block;
+    border:inset;
+    width:90%;
+    margin:0.5em auto 0.5em auto;
+    padding:0.5em;
+  }
+    unframed-text{
+    display:block;
+    width:90%;
+    margin:0.5em auto 0.5em auto;
+    padding:0.5em;
+
+  }
+   .add-right-shadow {
+    border-bottom:solid 2px;
+    border-right:solid 2px;
+    box-shadow:5px 10px 18px;
+    margin-bottom:2em;
+  }
+/** on hover paragraph **/
+  .my-p{
+        display:inline;
+        color:#5ba487;
+  }
+  .my-p:hover{
+    text-decoration: underline;
+    cursor:pointer;
+  }
+
+  /** Center an element **/
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+ /** align element to the left **/
+  .left{
+  display: block;
+  align:left
+  margin: 1em;
+  /*border:solid 1px; */
+  }
+
+  /** coffee **/
+  .container {
   width: 300px;
   height: 280px;
   position: relative;
@@ -297,81 +406,21 @@ published: false
   background-color: #000;
 }
 </style>
-
-[Coffee machine pure css](https://codepen.io/hjdesigner/pen/jvyJdX)
-[more css animation here](https://dcevsnap.me/css-animation-examples)
-
-<div class="container">
-    <div class="coffee-header">
-      <div class="coffee-header__buttons coffee-header__button-one"></div>
-      <div class="coffee-header__buttons coffee-header__button-two"></div>
-      <div class="coffee-header__display"></div>
-      <div class="coffee-header__details"></div>
-    </div>
-    <div class="coffee-medium">
-      <div class="coffe-medium__exit"></div>
-      <div class="coffee-medium__arm"></div>
-      <div class="coffee-medium__liquid"></div>
-      <div class="coffee-medium__smoke coffee-medium__smoke-one"></div>
-      <div class="coffee-medium__smoke coffee-medium__smoke-two"></div>
-      <div class="coffee-medium__smoke coffee-medium__smoke-three"></div>
-      <div class="coffee-medium__smoke coffee-medium__smoke-for"></div>
-      <div class="coffee-medium__cup"></div>
-    </div>
-    <div class="coffee-footer"></div>
-  </div>
-  <!-- english -->
-  <blockquote>
-<details>
-        <summary style="margin-bottom:1em">Now, before I carry on with this blog. I'll just get a fresh cup of
-        <span class="my-p">Click/tap</span> BICA<br>
-        </summary>
-        <framed-text>
-        <div  style="margin:0.5em auto 0.5em auto;width:300px;height:280px;">
-            <div class="container">
-              <div class="coffee-header">
-                <div class="coffee-header__buttons coffee-header__button-one"></div>
-                <div class="coffee-header__buttons coffee-header__button-two"></div>
-                <div class="coffee-header__display"></div>
-                <div class="coffee-header__details"></div>
-              </div>
-              <div class="coffee-medium">
-                <div class="coffe-medium__exit"></div>
-                <div class="coffee-medium__arm"></div>
-                <div class="coffee-medium__liquid"></div>
-                <div class="coffee-medium__smoke coffee-medium__smoke-one"></div>
-                <div class="coffee-medium__smoke coffee-medium__smoke-two"></div>
-                <div class="coffee-medium__smoke coffee-medium__smoke-three"></div>
-                <div class="coffee-medium__smoke coffee-medium__smoke-for"></div>
-                <div class="coffee-medium__cup"></div>
-              </div>
-                <div class="coffee-footer"></div>
-            </div>
-        </div>
-            <div class="image-container">
-              <img src="https://i.stack.imgur.com/YIcbV.png" alt="menus">
-            </div>
-            <p style="margin-top:1em">
-              <span style="color:#5ba487">Click/tap text in this color to display a hidden section with more information</span><br>
-              <span style="color:#3389de">Note that you can click/tap on text of in this colour to route you to the references</span><br>
-              You can also toggle the colour scheme on the bottom left.<br>
-              💡= light theme<br>
-              ☾ = dark theme<br>
-              Depending on you screen size you may need to activate the  "Hamburger menu" for option to apear.<br>
-              On this site you can also opt to read this blog in portuguese, select Pt [En <strong>Pt</strong>]<br>
-              Now if you want to read this blog, or a link you've opened in another language, just select translate from your browsers menu.<br>
-              In Chrome it's a "Kebab" menu.<br>
-            </p>
-            <p>
-            So, you got your coffee, relax and enjoy the blog.<br>
-            ¯\_(ツ)_/¯<br>
-            </p>        
-        </framed-text>        
-    </details>
+<h2>Introdução</h2>
+<blockquote>
+<p>
+Acordei por volta das 4h30, coloquei meus fones de ouvido no celular e abri meu aplicativo de rádio no <a href="https://www.tsf.pt/emdireto/">TSF.</a><br>
+Eles estavam a tocar a música de John Barry....<br>
+Lembro-me de uma das muitas conversas ao redor da mesa.<br>
+Minha filha, esposa e eu estávamos almoçando e 
+nessa ocasião, surgiu o tema de filmes.<br>
+Nicole comentou que assistiu algum filme de terror (não lembro o título) sem som, e que não ficou nem um pouco assustada.<br>
+<i>"Agora, se  assistir ao mesmo filme com o som ligado, fica assustador." disse ela.</i><br>
+É incrível como o som influencia o efeito geral de um filme.<br>
+John Barry sabia disso, ele era um gênio em aprimorar nossas experiências de filmes com música.<br>
+</p>
 </blockquote>
-
-  <!-- portuguese -->
-  <blockquote>
+<blockquote>
 <details>
         <summary style="margin-bottom:1em">Agora, antes de continuar com este blog. Vou pegar uma xícara fresca de <span class="my-p">Clique/toque</span> BICA<br>
         </summary>
@@ -418,3 +467,87 @@ published: false
         </framed-text>        
     </details>
 </blockquote>
+<div
+  style="
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    margin-bottom: 2em;
+    overflow: hidden;
+  "
+>
+  <iframe
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%"
+    src="https://www.youtube.com/embed/IK2a6CkU3L8?si=0SZ1Yga2KIC1pHua"
+    title="YouTube video player"
+    allowfullscreen
+  >
+  </iframe>
+  <p style="position: relative; text-align: center">This Never Happened To The Other Fella» (John Barry) — Fender Bass VI Cover</p>
+</div>
+<h2>No cinema</h2>
+<blockquote>
+<p>
+Ele é bem conhecido por onze filmes de James Bond, que vão de 1963 com "From Russia With Love a 1987 com The Living Daylights".
+Bem como o filme de 1976 "King Kong" e muitos outros...<br>
+</p>
+</blockquote>
+<div
+  style="
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    margin-bottom: 2em;
+    overflow: hidden;
+  "
+>
+  <iframe
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%"
+    src="https://www.youtube.com/embed/SMa7ymgHkpE?si=BHFxBhke5V6YOut Of Africa • Main Theme • John BarrykN2F"
+    title="YouTube video player"
+    allowfullscreen
+  >
+  </iframe>
+  <p style="position: relative; text-align: center">This Never Happened To The Other Fella» (John Barry) — Fender Bass VI Cover</p>
+</div>
+<blockquote>
+<p>
+Este talentoso maestro e compositor britânico ganhou oscars por:<br>
+<ul>
+<li>Born Free</li>
+<li>The Lion In Winter</li>
+<li>Between Two Loves</li>
+<li>Dance With Wolves</li>
+</ul>
+</p>
+<p>
+Ele ganhou o British Academy Music Awards (BAFTA) por The Lion In Winter e um Globo de Ouro por Out Of Africa.<br>
+</p>
+<p>
+Ele nasceu em North Yorkshire, Inglaterra, na sexta-feira, 3 de novembro de 1933, e faleceu em Nova York no domingo, 30 de janeiro de 2011.
+</p>
+</blockquote>
+<blockquote>
+<details>
+        <summary>
+        <p>
+        <div class="my-p">
+         <strong>Se você puder, adoraria ler seus comentários sobre isso!!!</strong><br>
+        ¯\_(ツ)_/¯<br>
+        </div>        
+        </p>
+        </summary>
+        <p>
+        Use <strong>DISQUS</strong> na parte inferior de cada blog para postar comentários.<br>
+        Dessa forma, serei notificado quando você adicionar um comentário, etc.<br>
+        É gratuito e fácil de usar, basta criar uma conta se for um novo usuário.<br>
+        </p>
+</details>
+<div>
+<p>
+References:<br>
+<a href="https://pt.wikipedia.org/wiki/John_Barry">John Barry</a>
+</p>
+</div>
