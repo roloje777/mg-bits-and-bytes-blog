@@ -152,9 +152,9 @@ margin: 1em;
 <h2>Introdução</h2>
 
 Surgiu uma discussão sobre por que quando alguém chega aos 60 anos ou mais, a maioria dos recrutadores evita considerá-los.<br>
-A razão é que eles são muito velhos para administrar uma seção, administrar uma empresa, etc.
-O que acho intrigante é que a maioria dos empregos não está ao alcance dos “idosos”, exceto se você planeja governar um país.<br>
-Num estudo que vai de 1789 a 2021, mostrou que a idade média em que um presidente americano assumiu o cargo pela primeira vez foi pouco menos de 57 anos, sendo Donald Trump o mais velho, com pouco menos de 71 anos em 2017, seguido por Ronald Reagan em 2017. 69 anos e 349 dias em 1981<br>
+A razão é que eles são muito velhos para administrar uma seção de negócios, administrar uma empresa, etc.
+O que acho intrigante é que a maioria dos empregos não está ao alcance dos “idosos”, exceto se você planear governar um país.<br>
+Num estudo que vai de 1789 a 2021, mostrou que a idade média em que um presidente americano assumiu o cargo pela primeira vez foi pouco menos de 57 anos, sendo Donald Trump o mais velho, com pouco menos de 71 anos em 2017, seguido por Ronald Reagan em 2017 com 69 anos e 349 dias em 1981<br>
 Enquanto escrevo este blog, Donald Trump é um dos favoritos para vencer as eleições nos EUA e isso faria dele o presidente dos EUA mais velho já eleito, com cerca de 78 anos de idade.<br>
 Tudo bem colocar um geriátrico senil com Alzheimer no comando do cargo mais importante de um país, mas não no gerenciamento de uma lanchonete?<br>
 Será que os políticos sabem alguma coisa sobre o potencial das capacidades de tomada de decisão das pessoas mais velhas em comparação com os seus homólogos mais jovens?<br>
@@ -207,5 +207,5 @@ Existe algo de especial nestas pessoas – a sua educação ou estilo de vida, p
 <p>
 References:<br>
 <a href="https://www.nytimes.com/2024/04/29/well/mind/super-agers-study.html">A Peek Inside the Brains of ‘Super-Agers’</a><br>
-<a href="https://www.statista.com/statistics/1035542/age-incumbent-us-presidents-first-taking-office/">The Secrets of ‘Cognitive Super-Agers’</a><br>
+<a href="https://www.statista.com/statistics/1035542/age-incumbent-us-presidents-first-taking-office/">Age of all Presidents of the United States when taking office for the first time from 1789 to 2021</a><br>
 </p>
