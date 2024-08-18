@@ -207,5 +207,6 @@ Existe algo de especial nestas pessoas – a sua educação ou estilo de vida, p
 <p>
 References:<br>
 <a href="https://www.nytimes.com/2024/04/29/well/mind/super-agers-study.html">A Peek Inside the Brains of ‘Super-Agers’</a><br>
+<a href="https://www.sciencedaily.com/releases/2024/02/240206144944.htm">Study finds strongest evidence to date of brain's ability to compensate for age-related cognitive decline</a><br>
 <a href="https://www.statista.com/statistics/1035542/age-incumbent-us-presidents-first-taking-office/">Age of all Presidents of the United States when taking office for the first time from 1789 to 2021</a><br>
 </p>
