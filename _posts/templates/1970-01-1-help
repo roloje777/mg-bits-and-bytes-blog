@@ -51,3 +51,46 @@
           </blockquote>
           </container>        
     </details>
+    <!-- Portuguese -->
+    <details>
+        <summary class="my-p">Antes de começar a ler este blog, clique/toque aqui para obter sua própria xícara de <b>"Bica"</b></summary>
+        <div  style="margin:0.5em auto 0.5em auto;width:300px;height:280px;">
+            <div class="container">
+              <div class="coffee-header">
+                <div class="coffee-header__buttons coffee-header__button-one"></div>
+                <div class="coffee-header__buttons coffee-header__button-two"></div>
+                <div class="coffee-header__display"></div>
+                <div class="coffee-header__details"></div>
+              </div>
+              <div class="coffee-medium">
+                <div class="coffe-medium__exit"></div>
+                <div class="coffee-medium__arm"></div>
+                <div class="coffee-medium__liquid"></div>
+                <div class="coffee-medium__smoke coffee-medium__smoke-one"></div>
+                <div class="coffee-medium__smoke coffee-medium__smoke-two"></div>
+                <div class="coffee-medium__smoke coffee-medium__smoke-three"></div>
+                <div class="coffee-medium__smoke coffee-medium__smoke-for"></div>
+                <div class="coffee-medium__cup"></div>
+              </div>
+                <div class="coffee-footer"></div>
+            </div>
+        </div>
+            <div class="image-container">
+              <img src="https://i.stack.imgur.com/YIcbV.png" alt="menus">
+            </div>
+            <p style="margin-top:1em">
+              <span style="color:#5ba487">Clique/toque no texto nesta cor para exibir uma seção oculta com mais informações</span><br>
+              <span style="color:#3389de">Observe que você pode clicar/tocar no texto desta cor para direcioná-lo às referências</span><br>
+              Você também pode alternar o esquema de cores no canto inferior esquerdo.<br>
+              💡= tema claro<br>
+              ☾ = tema escuro<br>
+              Dependendo do tamanho da tela, pode ser necessário ativar o "Menu Hambúrguer" para que a opção apareça.<br>
+              Neste site você também pode optar por ler este blog em ingles, selecione En [<strong>En</strong> Pt]<br>
+              Agora, se você quiser ler este blog, ou um link que você abriu em outro idioma, basta selecionar traduzir no menu do seu navegador.<br>
+              No Chrome é um menu "Kebab".<br>
+            </p>
+            <p>
+            Então, você tomou seu café, relaxe e aproveite o blog.<br>
+            ¯\_(ツ)_/¯<br>
+            </p>
+    </details>
