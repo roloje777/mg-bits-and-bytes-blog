@@ -38,6 +38,8 @@ date: 2023-09-27 05:19:00
 # published: false
 ---
 
+<button onclick="document.location.href='./2023-10-01-part2'">next article ></button>
+
 <div style="display:flex;margin:1em 2em;justify-content:space-between;">
   <div style="width:60%">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Homo_erectus_reconstruction%2C_Natural_History_Museum%2C_London.jpg/1280px-Homo_erectus_reconstruction%2C_Natural_History_Museum%2C_London.jpg" alt="homo erectus" style="width:100%">
@@ -99,3 +101,5 @@ Ammendres Cromlec in Evora Portugal, a 7 000 year old megalithic complex in Evor
 </div>
 
 [History of Portugal](https://www.amazon.com/History-Portugal-Captivating-Portuguese-Countries/dp/1637165579)
+
+<button onclick="document.location.href='./2023-10-01-part2'">next article ></button>
