@@ -4,7 +4,8 @@
     padding-bottom: 56.25%;
     padding-top: 35px;
     height: 0;
-    margin-bottom: 2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
     overflow: hidden;
   "
 >
@@ -15,5 +16,5 @@
     allowfullscreen
   >
   </iframe>
-  <p style="position: relative; text-align: center">Title here</p>
 </div>
+<p style="position: relative; text-align: center">Title here</p>
