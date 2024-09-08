@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: leonard_cohen
-title: Suzanne - Read Before You Sign
+title: Suzanne - Leia antes de assinar
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -38,8 +38,6 @@ date: 2024-09-08  06:00:00
 # published: false
 ---
 
-{% include_relative include_me/alert_box.css %}
-{% include_relative include_me/notification_prt.html  %}
 {% include_relative include_me/type_writer.css %}
 {% include_relative include_me/my_page.css %}
 

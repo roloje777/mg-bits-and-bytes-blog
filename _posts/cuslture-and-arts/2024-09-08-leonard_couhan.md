@@ -38,8 +38,6 @@ date: 2024-09-08  06:00:00
 # published: false
 ---
 
-{% include_relative include_me/alert_box.css %}
-{% include_relative include_me/notification_eng.html  %}
 {% include_relative include_me/type_writer.css %}
 {% include_relative include_me/my_page.css %}
 
