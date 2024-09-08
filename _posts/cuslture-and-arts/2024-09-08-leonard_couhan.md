@@ -43,7 +43,7 @@ date: 2024-09-08  06:00:00
 
 <blockquote>
 I sat at my desk I've got in my room facing one of the windows to the front of our house.<br>
-I wakeup my laptop by opening and soon VSCode appears on my desktop.<br>
+I wakeup my laptop by opening its lid and soon VSCode appears on my desktop.<br>
 I tab over to spotify and select <a href="https://open.spotify.com/playlist/31LVuXlRYRVq4Z6krWGedS?si=68a7be3304b54180">60s Hits, Top 100 Songs</a><br><br>
 I tab back to VSCode, go to the terminal window and type ...<h4 style=" animation-iteration-count: infinite" class="typewriter">git switch -c test-include_relative</h4><br>
 {% include_relative include_me/record_player.css %}
