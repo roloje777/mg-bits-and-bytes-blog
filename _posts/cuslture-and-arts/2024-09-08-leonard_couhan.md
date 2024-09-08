@@ -98,31 +98,33 @@ My attention is directed from what I'm doing to the song that is currently playi
 "I wonder what its all about."<br><br>
 .. the following day ..<br>
 git switch -c suzanne-cohen<br>
-git add.<br>
-<h4 style=" animation-iteration-count: infinite" class="typewriter">git push ....</h4><br>
+git add .<br>
+git commit ... <br>
+git merge .... <br>
+<h4 style=" animation-iteration-count: infinite" class="typewriter">git push origin main</h4><br>
 </blockquote>
 <blockquote>
 <p>
-<a href="https://www.google.com/search?q=suzanne+song+lyrics&sca_esv=54d00d9f7cd7da30&sca_upv=1&sxsrf=ADLYWIJNZ-7kumhOSnzLSd42T-RPYx3dTQ%3A1725783365564&ei=RV3dZoaUIrKIxc8PhKHj6AU&oq=suzanne+song+lyrics&gs_lp=Egxnd3Mtd2l6LXNlcnAiE3N1emFubmUgc29uZyBseXJpY3MqAggAMggQABiABBjLATIIEAAYgAQYywEyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESO4pUMUCWO4YcAF4AZABAJgBhwGgAa4GqgEDMC43uAEByAEA-AEBmAIIoALtBsICChAAGLADGNYEGEfCAg0QABiABBiwAxhDGIoFwgIOEAAYsAMY5AIY1gTYAQHCAhMQLhiABBiwAxhDGMgDGIoF2AECwgIWEC4YgAQYsAMYQxjUAhjIAxiKBdgBAsICCBAuGIAEGMsBwgIIEAAYFhgKGB6YAwCIBgGQBhO6BgYIARABGAm6BgYIAhABGAiSBwMxLjegB8s2&sclient=gws-wiz-serp">Suzanne</a> was written in 1960's, by the poet and musician Leonard Cohen<br>
+Suzanne was written in 1960's, by the poet and musician Leonard Cohen<br>
 The song is about Cohen's platonic relationship with a dancer Suzanne Verdal.<br>
 </p>
+<img style="display:block;margin-left:auto;margin-right:auto;width:80%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Chapelle_Notre-Dame-de-Bon-Secours_02.jpg/220px-Chapelle_Notre-Dame-de-Bon-Secours_02.jpg" alt="Notre-Dame-de-Bon-Secours Chapel">
+<p style="text-align:center;margin-top:1em"><a href="https://en.wikipedia.org/wiki/Notre-Dame-de-Bon-Secours_Chapel">Notre-Dame-de-Bon-Secours Chapel</a></p>
 <p>
-Suzanne would invite Cohen to visit her apartment by the harbour in Montreal, where she would serve him Constant Comment tea, and they would walk around Old Montreal past the church of Notre-Dame-de-Bon-Secours, where sailors were blessed before heading out to sea.
+Suzanne would invite Cohen to visit her apartment by the harbour in Montreal, whcere she would serve him Constant Comment tea, and they would walk around Old Montreal past the church of Notre-Dame-de-Bon-Secours, where sailors were blessed before heading out to sea.
 </p>
 <p>
 Cohen had the <strong>hots</strong> for his female companian, and dreamed about making love to her, but all he ever got from her was a cup of tea.<br>
 ¯\_(ツ)_/¯<br>
 </p>
 <p>
-But that's not all, the poor bugger...<br>
-As he explains in the opening in the video below, is that he never made a single "penny" on that song"<br>
+But that's not all, ... the poor bugger...<br>
+As he explains in the opening scene of the video below, is that he never made a single "penny" on that song"<br>
 Cohen signed away the rights to “Suzanne,” ensuring he would never make any money from the song.<br>
-“The rights of it were stolen from me,” he says in a video of an early performance.<br>
+<strong>“The rights of it were stolen from me"</strong> ,  he says ....<br>
 Dude, that gal just gave you bad luck... 😂🤣🤣
 <br><br>
 <strong>So make sure you read something, before you sign it ...."</strong><br>
-<a href="https://www.guernicamag.com/suzanne-takes-you-down-to-her-place-near-the-river/">Suzanne Takes You Down to Her Place Near the River</a><br>
-<a href="https://en.wikipedia.org/wiki/Suzanne_(Leonard_Cohen_song)">Suzanne (Leonard Cohen song)</a><br>
 </p>
 </blockquote>
 <div
@@ -147,3 +149,9 @@ Dude, that gal just gave you bad luck... 😂🤣🤣
 <p style="position: relative; text-align: center">Leonard Cohen - Suzanne</p>
 
 {% include_relative include_me/comment_eng.html %}
+
+<p>
+References:<br>
+<a href="https://www.guernicamag.com/suzanne-takes-you-down-to-her-place-near-the-river/">Suzanne Takes You Down to Her Place Near the River</a><br>
+<a href="https://en.wikipedia.org/wiki/Suzanne_(Leonard_Cohen_song)">Suzanne (Leonard Cohen song)</a><br>
+</p>
