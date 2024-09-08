@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;;EAGE",
+    "sources": [
+        "light-colors.scss"
+    ],
+    "names": [],
+    "file": "light-colors.css"
+}
