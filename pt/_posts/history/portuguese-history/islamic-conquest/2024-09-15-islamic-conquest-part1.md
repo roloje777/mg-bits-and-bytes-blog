@@ -14,7 +14,7 @@ img: "https://image.jimcdn.com/app/cms/image/transf/dimension=778x10000:format=j
 # disable comments on this page
 # comments_disable: true
 # publish date
-date: 2024-01-14 05:31:53
+date: 2023-12-13 08:00:00
 # seo
 # if not specified, date will be used.
 # cmeta_modify_date: 2021-08-10 11:32:53 +0900
