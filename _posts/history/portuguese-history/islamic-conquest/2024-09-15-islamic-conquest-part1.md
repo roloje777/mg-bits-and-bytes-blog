@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: islamic_conquest_part1
-title: The Islamic Conquest - Part 1 (A Kingdom For A Prostitute)
+title: The Islamic Conquest - Part 1 (Lost a Kingdom for A Whore)
 # post specific
 # if not specified, .name will be used from \_data/owner/[language].yml
 # author: ""
@@ -45,7 +45,8 @@ date: 2024-01-14 05:31:53
 <button onclick="document.location.href='../germanic-invasion/2024-08-25-part5'">< previous article</button>
 
 <blockquote>
-It is said that the Iberian Peninsula was lost because of a prostitute.😮
+It is said that the Iberian Peninsula was lost because of a prostitute.😮<br>
+¯\_(ツ)_/¯<br>
 </blockquote>
 <h2>Year 711 - The defeat of the Visigothic Kingdom</h2>
 <div style="display:block;width:80%;margin-left:auto;margin-right:auto">
@@ -68,14 +69,12 @@ When Julian heard of this, he used his connections to the Umayyads and helped th
 Both Muslims and Christians sang ballads about it. <br>
 While the Muslims praise the daughter of Julian and claim she was a sanctified virgin, the Christians sing about her as an evil seductress.<br>
 </p>
+<details><summary class="my-p">read more on this phenomenon here...</summary><br>
 <framed-text>
-<p>
-<strong>"Every villain is the hero of his own story"</strong>, wrote Christopher Vogler in “The Writer's Journey"<br>
-</p>
 <div style="display:block;width:80%;margin-left:auto;margin-right:auto">
 <img src="https://qph.cf2.quoracdn.net/main-qimg-ccb660719f3655a6920776dd26d3f55e" alt="Tariq ibn Ziyad">
 <p style="text-align:center">Tariq ibn Ziyad </p>
-<p style="width:50%;margin-right:auto;font-size:0.8em">
+<p style="margin-right:auto;font-size:0.8em;border-style:outset;padding:10px">
 <i>Text in picture above...</i><br>
 Men, if a woman accuses you of rape, 
 even if you didn't do it, you shut up,
@@ -86,9 +85,14 @@ doesn't compare to the oppression they've been through.<br>
 </p>
 </div>
 <a href="https://www.quora.com/How-do-you-explain-the-quote-every-villain-is-the-hero-of-his-own-story">How do you explain the quote "every villain is the hero of his own story"?</a>
+<p>
+<h3>"Every villain is the hero of his own story"</h3>
+wrote Christopher Vogler in “The Writer's Journey"<br>
+</p>
 </framed-text>
+</details>
 <p style="margin-top:1em">
-The real evidence shows that there was a civil war or at least a power struggle between the king and the nobles in the late Visigothic Kingdom.<br>
+Evidence shows that there was a civil war or at least a power struggle between the king and the nobles in the late Visigothic Kingdom.<br>
 </p>
 <p>
 Tariq and his army were given not only merchant ships from Julian’s outpost but also his forts on the mainland.<br>
@@ -120,10 +124,10 @@ They were also allowed to keep their property, faith, and even local autonomy.<b
 The Christians did not believe in the tolerance of the Muslims, and many people fled the cities and hid in the mountains, expecting violence to erupt.<br>
 </p>
 <blockquote>
-<h2>A Kingdom For A Prostitute</h2>
+<h2>Lost a Kingdom for A Whore</h2>
 <div style="display:block;width:80%;margin-right:auto;margin-left:auto;margin-top:1em">
 <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=778x10000:format=jpg/path/s70a410ad0e56ba5a/image/ib5f21b4835c8d1a8/version/1541876065/image.jpg">
-<p style="text-align:center">Florinda the Cava</p>
+<p style="text-align:center">Florinda La Cava</p>
 </div>
 <p>
 I started this blog implying that the germanic kingdom on the Iberian peninsula was lost due to a prostitute.<br>
@@ -170,7 +174,6 @@ So this is the story on how the Visigoth Iberian Kingdom was lost to a prostitut
  ¯\_(ツ)_/¯<br>
 </p>
 </blockquote>
-<p>
 <blockquote>
 ... I've added a video of the chapel of bones in which the chapel is decorated with thousands of human bones found in the region of Évora Portugal.<br>
 Its architecture is influenced by islam and that of the manualito era (King Manuel of Portugal) ...<br>
@@ -196,15 +199,16 @@ Its architecture is influenced by islam and that of the manualito era (King Manu
   </iframe>
 </div>
 <p style="position: relative; text-align: center">A assustadora Capela dos Ossos em Évora, Portugal</p>
-</blockQuote>
+</blockquote>
 {% include_relative include_me/comment_eng.html %}
+<p>
 References:<br>
 <a href="https://www.amazon.com/History-Portugal-Captivating-Portuguese-Countries/dp/1637165579">History of Portugal</a><br>
 <a href="https://pt.wikipedia.org/wiki/T%C3%A1rique">Tárique</a><br>
 <a href="https://pt.wikipedia.org/wiki/Mu%C3%A7a_ibne_No%C3%A7%C3%A1ir">Muça ibne Noçáir</a><br>
 <a href="http://www.poblar.com/Rodriguez/Spain/history-La%20Cava.htm">The Legend of King Roderick
 and Florinda La Cava</a><br>
-<a href="https://toledo-pintoresca.jimdofree.com/leyendas/florinda-la-cava/">Florinda the Cava</a><br>
+<a href="https://toledo-pintoresca.jimdofree.com/leyendas/florinda-la-cava/">Florinda La Cava</a><br>
 </p>
 <button onclick="document.location.href='../prehistory/2023-09-7-prehistory-part1'"><< Start of article</button>
 <button onclick="document.location.href='../germanic-invasion/2024-08-25-part5'">< previous article</button>
