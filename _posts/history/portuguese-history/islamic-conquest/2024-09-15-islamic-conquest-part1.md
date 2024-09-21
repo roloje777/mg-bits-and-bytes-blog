@@ -43,6 +43,7 @@ date: 2023-12-13 08:00:00
 
 <button onclick="document.location.href='../prehistory/2023-09-7-prehistory-part1'"><< Start of article</button>
 <button onclick="document.location.href='../germanic-invasion/2024-08-25-part5'">< previous article</button>
+<button onclick="document.location.href='./2024-09-17-part2'">next article ></button>
 
 <blockquote>
 It is said that the Iberian Peninsula was lost because of a prostitute.😮<br>
@@ -212,3 +213,5 @@ and Florinda La Cava</a><br>
 </p>
 <button onclick="document.location.href='../prehistory/2023-09-7-prehistory-part1'"><< Start of article</button>
 <button onclick="document.location.href='../germanic-invasion/2024-08-25-part5'">< previous article</button>
+<button onclick="document.location.href='./2024-09-17-part2'">next article ></button>
+{% include_relative include_me/js/timeout.js %}
