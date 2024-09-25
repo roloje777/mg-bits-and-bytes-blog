@@ -1,5 +1,5 @@
 <script>
-// see https://youtu.be/MiTJnYHX3iA?si=h6jEAr6ulrbXS2Y3
+{/* see https://youtu.be/MiTJnYHX3iA?si=h6jEAr6ulrbXS2Y3 */}
     {/* const element  = document.querySelector(".text");   */}
     {/* const text = getLines(element.getAttribute("data-value")); */}
     let opts = {
