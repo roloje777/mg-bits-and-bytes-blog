@@ -38,9 +38,11 @@ date: 1990-08-10  06:00:00
 # published: false
 ---
 
-{% include_relative include_me/my_page.css %} {% include_relative
-include_me/video-container2.css %} {% include_relative
-include_me/typewriter_on_viewport/typewriter.css %}
+<style>
+  {% include_relative include_me/my_page.css %} {% include_relative
+  include_me/video-container2.css %} {% include_relative
+  include_me/typewriter_on_viewport/typewriter.css %}
+</style>
 
 <blockquote>
   <div class="image-container">
@@ -635,4 +637,6 @@ include_me/typewriter_on_viewport/typewriter.css %}
     >The philosophy of George Harrison in 10 songs</a
   >
 </p>
-{% include_relative include_me/typewriter_on_viewport/typewriter.js %}
+<script>
+  {% include_relative include_me/typewriter_on_viewport/typewriter.js %}
+</script>

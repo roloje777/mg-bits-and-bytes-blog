@@ -38,15 +38,17 @@ date: 2024-09-08  06:00:00
 # published: false
 ---
 
+<style>
 {% include_relative include_me/type_writer.css %}
 {% include_relative include_me/my_page.css %}
+{% include_relative include_me/record_player.css %}
+</style>
 
 <blockquote>
 Sentei-me na minha mesa que tenho no meu quarto, de frente para uma das janelas da frente da nossa casa.<br>
 Abro meu laptop e logo o VSCode aparece na minha área de trabalho.<br>
 Eu abro para o Spotify e seleciono <a href="https://open.spotify.com/playlist/31LVuXlRYRVq4Z6krWGedS?si=68a7be3304b54180">Sucessos dos anos 60, 100 melhores músicas</a><br><br>
 Volto para VSCode, vou para a janela do terminal e digito...<h4 style=" animation-iteration-count: infinite" class="typewriter">git switch -c test-include_relative</h4><br>
-{% include_relative include_me/record_player.css %}
 {% include_relative include_me/record_player.html %}
 <p>
 <details>
