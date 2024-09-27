@@ -2,7 +2,7 @@
 {/* see https://youtu.be/MiTJnYHX3iA?si=h6jEAr6ulrbXS2Y3 */}
     {/* const element  = document.querySelector(".text");   */}
     {/* const text = getLines(element.getAttribute("data-value")); */}
-    let opts = {
+    var opts = {
     threshold: 0.5,
   };
 
@@ -32,9 +32,9 @@
     }
 
   function getLines(text){
-    let lines = text.split("<br>");// here I'm using the same as html tag </br>
+    var lines = text.split("<br>");// here I'm using the same as html tag </br>
         
-    for (let i = 0; i < lines.length; i++) {
+    for (var i = 0; i < lines.length; i++) {
       lines[i] = lines[i] + "\n";
     }
     
