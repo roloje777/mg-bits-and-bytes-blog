@@ -38,33 +38,42 @@ date: 2023-12-20 08:00:00
 <!DOCTYPE html>
 <html>
   <head>
+    <style>
+      {% include_relative include_me/my_page.css %}
+      {% include_relative include_me/video-container2.css %}
+      {% include_relative include_me/alert_box.css %}
+      {% include_relative include_me/coffee.css %}
+    </style>
     <title>The Islamic Conquest - Part 3</title>
   </head>
   <body>
+    {% include_relative include_me/notification_eng.html %}
+    <button onclick="document.location.href='../prehistory/2023-09-7-prehistory-part1'"><< Start of article</button>
+<button onclick="document.location.href='./2024-09-17-part2'">< previous article</button>
     <blockquote>
-      I woke up this morning (1st October) and my calendar on my laptops popped
-      up, remining me that it was our (my wife and I) engagement aniversary.<br />
+      I woke up this morning (1st October) and my calendar on my laptop popped
+      up, reminding me that it was our (my wife and I) engagement anniversary.<br />
       Wife - "This time you got me by surprise, as she had forgotten", and I
       smile at her.❤️<br />
       <br />
       A little later, I'm sitting behind my laptop, working on this post, which
       is all about the muslims in the Iberian peninsula.<br />
-      I recall a conversation that we had a while back, my wife loves to tease
-      me, you see.<br />
+      I recall a special moment in the past, my wife you see, loves to tease
+      me.<br />
       Wife - "Your decedents must be more from the arabic side", she says and
       chuckles.<br />
-      Now she is referring to my dark completion.<br />
+      Now she is referring to my dark complexion.<br />
       Wife - "Did you know that the
       <a href="../germanic-invasion/2024-04-09-part1">Vikings</a> also invaded
       Portugal?"<br />
-      Wife - "Me, being white like milk, my ancestors must have been vikings",
+      "Me, being white like milk, my ancestors must have been vikings",
       she laughed and ran away from me.❤️<br />
       Me - "I love <strong>Top Deck 💭</strong> I thought to myself", as I
       proceeded to chase her...😂🤣<br />
-      <div class="image-container">
+      <div class="image-container" style="width: 30%">
         <img
           src="https://m.media-amazon.com/images/I/51ipVys1wFL._SX679_.jpg"
-          alt=""
+          alt="Top Deck Chocolate"
         />
         <p>
           <a
@@ -73,6 +82,21 @@ date: 2023-12-20 08:00:00
           >
         </p>
       </div>
+    </blockquote>
+    <blockquote>
+      {% include_relative include_me/portugal_history/summary_eng.html %}
+    </blockquote>
+  
+    <blockquote>
+      <details>
+        <summary>
+          You're welcome to
+          <span class="my-p">click/tap here</span> to grab a fresh cup of coffee
+          before you commence reading this blog.
+        </summary>
+        {% include_relative include_me/coffee.html %} 
+        {% include_relative include_me/help_eng.html %}
+      </details>
     </blockquote>
     <h2>The Society and Economy of al-Andalus</h2>
     <div class="image-container">
@@ -134,7 +158,7 @@ date: 2023-12-20 08:00:00
           where white female slaves constituted a big part of the slave
           concubines of the royal harem, and white male slaves constituted most
           of the administrative personnel in the courts and palaces.<br />
-          <a href="https://en.wikipedia.org/wiki/Slavery_in_al-Andalus"></a>
+          <a href="https://en.wikipedia.org/wiki/Slavery_in_al-Andalus">Slavery in al-Andalus</a>
         </framed-text>
       </details>
       They even brought slaves from other Christian kingdoms and sub-Saharan
@@ -196,7 +220,7 @@ date: 2023-12-20 08:00:00
             />
             <p><a href="https://en.wikipedia.org/wiki/Mozarabs">Mozarabs</a></p>
           </div>
-          Mozarab, , any of the Spanish Christians living under Muslim rule
+          Mozarab were any of the Spanish Christians living under Muslim rule
           (8th–11th century), who, while unconverted to Islam, adopted Arabic
           language and culture.<br />
           Separate Mozarab enclaves were located in the large Muslim cities,
@@ -208,7 +232,7 @@ date: 2023-12-20 08:00:00
           The Mozarabs eventually relocated in the north of the Iberian
           Peninsula, bringing with them the architectural style of Islamic
           Córdoba, characterized by the horseshoe arch and the ribbed dome.<br />
-          <a href="https://www.britannica.com/topic/Selkup">Mozarab</a>"
+          <a href="https://www.britannica.com/topic/Selkup">Mozarab</a>
         </framed-text>
       </details>
       <br />
@@ -217,6 +241,9 @@ date: 2023-12-20 08:00:00
       The Mozarabs became a minority in al-Andalus by the 11th century.<br />
       Jews were also present, though in very small numbers.
     </p>
+</p>
+{% include_relative include_me/comment_eng.html %}
+<p>
     <p>
       References:<br />
       <a
@@ -224,5 +251,8 @@ date: 2023-12-20 08:00:00
         >History of Portugal</a
       ><br />
     </p>
+    <button onclick="document.location.href='../prehistory/2023-09-7-prehistory-part1'"><< Start of article</button>
+<button onclick="document.location.href='./2024-09-17-part2'">< previous article</button>
+   <script>{% include_relative include_me/js/timeout.js %}</script> 
   </body>
 </html>
