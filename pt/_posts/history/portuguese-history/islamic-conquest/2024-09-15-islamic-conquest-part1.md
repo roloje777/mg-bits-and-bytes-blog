@@ -36,9 +36,11 @@ date: 2023-12-13 08:00:00
 ---
 
 <!--- page css -->
-
+<style>
 {% include_relative include_me/my_page.css %}
 {% include_relative include_me/alert_box.css %}
+</style>
+
 {% include_relative include_me/notification_prt.html %}
 
 <button onclick="document.location.href='../prehistory/2023-09-7-prehistory-part1'"><< Início do artigo</button>
@@ -215,4 +217,4 @@ and Florinda La Cava</a><br>
 <button onclick="document.location.href='../prehistory/2023-09-7-prehistory-part1'"><< Início do artigo</button>
 <button onclick="document.location.href='../germanic-invasion/2024-08-25-part5'">< artigo anterior</button>
 <button onclick="document.location.href='./2024-09-17-part2'">próximo artigo ></button>
-{% include_relative include_me/js/timeout.js %}
+<script>{% include_relative include_me/js/timeout.js %}</script>
