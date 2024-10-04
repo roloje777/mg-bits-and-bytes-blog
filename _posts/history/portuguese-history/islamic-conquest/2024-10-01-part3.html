@@ -43,6 +43,7 @@ date: 2023-12-25 08:00:00
       {% include_relative include_me/video-container2.css %}
       {% include_relative include_me/alert_box.css %}
       {% include_relative include_me/coffee.css %}
+      {% include_relative include_me/sprite.css %}
     </style>
     <title>The Islamic Conquest - Part 3</title>
   </head>
@@ -66,10 +67,15 @@ date: 2023-12-25 08:00:00
       Wife - "Did you know that the
       <a href="../germanic-invasion/2024-04-09-part1">Vikings</a> also invaded
       Portugal?"<br />
-      "... me, being white like milk, my ancestors must have been vikings",
-      she said, laughed and ran away from me.❤️<br />
-      Me - "I love <strong>Top Deck 💭</strong> I thought to myself", as I
-      proceeded to chase her...😂🤣<br />
+      <div id ="tease">
+        "... me, being white like milk, my ancestors must have been vikings",
+        she said, laughed and ran away from me.❤️<br />
+        Me - "I love <strong>Top Deck 💭</strong> I thought to myself", as I
+        proceeded to chase her...😂🤣<br />
+        <iframe class = "sprite" id = "wife" src="https://giphy.com/embed/EbgayhB2fh02qLtMyz"></iframe>      
+        <iframe class = "sprite" id= "husband" src="https://giphy.com/embed/Fj40wZT96MPfQiQjUa"></iframe>         
+      </div>
+
       <div class="image-container" style="width: 30%">
         <img
           src="https://m.media-amazon.com/images/I/51ipVys1wFL._SX679_.jpg"
@@ -274,6 +280,9 @@ date: 2023-12-25 08:00:00
     </p>
     <button onclick="document.location.href='../prehistory/2023-09-7-prehistory-part1'"><< Start of article</button>
 <button onclick="document.location.href='./2024-09-17-part2'">< previous article</button>
-   <script>{% include_relative include_me/js/timeout.js %}</script> 
+   <script>{% include_relative include_me/js/timeout.js %}
+{% include_relative include_me/js/husband_chases_wife.js %}
+   </script> 
+   
   </body>
 </html>
