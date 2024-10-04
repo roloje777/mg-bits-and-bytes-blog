@@ -1,22 +1,7 @@
-/*const wife = document.getElementById("wife");
-const husband = document.getElementById("husband");
-const canvas = document.getElementById("canvas");
-
-const maxLeft = window.innerWidth;
-const wifeWidth = (width = { width, height } = wife.getBoundingClientRect());
-
-let myTimer;
-let wifeX = 0 - wifeWidth;
-let husbandX = 0 - husband.style.width; 
-*/
-
 const delay = 10;
 const maxWidth = window.screen.width;
 let myTimer;
 let runAnimation = true;
-/*const offsets = document.getElementById("parent").getBoundingClientRect();
-let ptop = offsets.top;
-let pleft = offsets.left;*/
 
 class Sprite {
   constructor(sprite, speed, stopTimer, wife = null) {
@@ -29,7 +14,6 @@ class Sprite {
     this.element.style.left = this.left + "px";
     this.speed = speed;
     this.wife = wife;
-    /*this.element.style.top = ptop + "px";*/
   }
 
   display() {
