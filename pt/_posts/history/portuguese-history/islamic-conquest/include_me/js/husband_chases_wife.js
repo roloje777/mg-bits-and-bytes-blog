@@ -23,9 +23,6 @@ class Sprite {
     console.log("sprite created");
     this.name = sprite;
     this.element = document.getElementById(sprite);
-    if (this.name === "husband") {
-      this.element.style.display = "none";
-    }
     this.width = this.element.offsetWidth;
     this.left = 0 - this.width;
     this.stopTimer = stopTimer;
@@ -39,20 +36,28 @@ class Sprite {
     /* stop on husband */
     if (this.name == "husband") {
       if (this.left >= maxWidth) {
-        runAnimation = false;
+        stopAnimation();
         console.log("animation stopped");
         return;
       } else if (this.wife != null) {
         if (this.wife.left < maxWidth / 2) {
           return;
         } else {
-          this.element.style.display = "inline";
+          this.setVisible();
         }
       }
     }
     this.left += this.speed;
     this.element.style.left = this.left + "px";
     /*console.log(this.left);*/
+  }
+
+  setVisible() {
+    this.element.style.display = "inline";
+  }
+
+  setInvisible() {
+    this.element.style.display = "none";
   }
 }
 
@@ -70,9 +75,53 @@ function printValues(sprite) {
   console.log(sprite.stopTimer);
 }
 
-const wife = new Sprite("wife", 1, false, null);
-const husband = new Sprite("husband", 2, true, wife);
-/*printValues(wife);*/
-setTimeout(() => {
+let wife;
+let husband;
+
+function startAnimation() {
+  runAnimation = true;
+  wife = new Sprite("wife", 1, false, null);
+  husband = new Sprite("husband", 1.5, true, wife);
+  wife.setVisible();
+  husband.setInvisible();
   move();
-}, 1000 * 10);
+}
+
+function stopAnimation() {
+  runAnimation = false;
+  wife.setInvisible();
+  husband.setInvisible();
+  wife = null;
+  husband = null;
+}
+/*printValues(wife);*/
+
+/* code that detects viewport activity */
+var opts = {
+  root: null,
+  threshold: 0.25,
+};
+
+const myObserver = new IntersectionObserver(handleIntersection, opts);
+const myIds = new Array("#tease");
+
+function handleIntersection(entries) {
+  entries.map((entry) => {
+    if (entry.isIntersecting) {
+      console.log("intersected");
+      setTimeout(() => {
+        startAnimation();
+      }, 1000 * 10);
+    } else {
+      stopAnimation();
+    }
+  });
+}
+
+function addObservers(elements) {
+  elements.forEach((element) => {
+    myObserver.observe(document.querySelector(element));
+  });
+}
+
+addObservers(myIds);
