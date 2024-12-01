@@ -1,26 +1,5 @@
-// Slider
-
-
-
 const slider = function () {
-    const images = [
-        {
-          image:"https://people.com/thmb/CSmujKxnCksY0O26iFnD4woUfQo=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(216x0:218x2):format(webp)/6-435-9-b5b3f47607fd4479ac9b1e6db0bfb760.jpg",
-          characterName:"Tarzan",        
-          person:"MILES O'KEEFE",
-          description: "The handsome actor only played Tarzan once. He starred opposite Bo Derek in the 1981 film Tarzan, the Ape Man, which was directed by his costar's then-husband John Derek.",
-          year:"1981",
-          link:"https://people.com/celebrity/actors-whove-played-tarzan-throughout-the-years/"
-        },
-        {
-            image:"https://blankbooks.co.za/77232-large_default/die-arend-van-die-oerwoud-tanya-die-vegter-28.jpg",
-            characterName:"Die Arend & Tanya",
-            person:"Republican Press",
-            year:"1970s",
-            link:"https://blankbooks.co.za/woodstock/47940-die-arend-van-die-oerwoud-tanya-die-vegter-28.html"
-    
-        }
-    ];
+  
     const slider = document.querySelector(".slider");
     const slides = document.querySelectorAll('.slide');
     const btnLeft = document.querySelector('.slider__btn--left');
@@ -58,7 +37,7 @@ const slider = function () {
       );
     };
   
-    // Next slide
+   
     const nextSlide = function () {
       if (curSlide === maxSlide - 1) {
         curSlide = 0;
@@ -89,7 +68,7 @@ const slider = function () {
     };
     init();
   
-    // Event handlers
+  
     btnRight.addEventListener('click', nextSlide);
     btnLeft.addEventListener('click', prevSlide);
   
