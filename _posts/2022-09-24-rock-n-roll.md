@@ -45,6 +45,7 @@ date: 2021-09-28 17:32:53 +0900
 </div>
 -->
 
+c
 > A special tribute to my Big Brother, who always had my back. \
 > Among many things, he lived his music, loved rock, and had a great influence. \
 > in my love for the genre from an early age, as he use to play his LPs and later years, <strong>jam on his guitar.</strong>  
@@ -98,3 +99,4 @@ Jamming is when a group of musicians get together to play music. Even though jam
 Jamming is essentially another way of saying, 'practising' or 'playing'.
 
 [wikipedia](https://en.wikipedia.org/wiki/Jam_session)
+
