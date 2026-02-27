@@ -1158,9 +1158,9 @@ date: 2026-02-27 06:00
       <canvas id="macroChart" style="margin-top: 20px"></canvas>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js" defer></script>
 
-    <script>
+    <script defer>
       let chart;
 
       function calculatePlan() {
@@ -1325,7 +1325,7 @@ date: 2026-02-27 06:00
             <div id="tdeeResult"></div>
           </div>
 
-          <script>
+          <script defer>
             function calculateTDEE() {
               const sex = document.getElementById("sex").value;
               const age = parseFloat(document.getElementById("age").value);

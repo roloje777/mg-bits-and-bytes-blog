@@ -1236,8 +1236,8 @@ date: 2026-02-27 06:00
       <canvas id="macroChart" style="margin-top: 20px"></canvas>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js" defer></script>
+    <script defer>
       let chart;
 
       function calculatePlan() {
@@ -1266,16 +1266,16 @@ date: 2026-02-27 06:00
         const carbGrams = Math.round(carbCalories / 4);
         const fatGrams = Math.round(fatCalories / 9);
 
-        document.getElementById("results").innerHTML = `
-    <p><strong>Calorias ajustadas:</strong> ${adjustedCalories} kcal/day</p>
-    <p><strong>Alvo de proteína:</strong> ${proteinGrams} g/day</p>
-    <p><strong>Carboidratos:</strong> ${carbGrams} g/day</p>
-    <p><strong>Gorduras:</strong> ${fatGrams} g/day</p>
-    <p style="margin-top:10px;">
-     Monte suas refeições priorizando a proteína (30 a 50 g por refeição) e, em seguida,
-distribua os carboidratos e as gorduras de acordo com seu objetivo.
-    </p>
-  `;
+              document.getElementById("results").innerHTML = `
+          <p><strong>Calorias ajustadas:</strong> ${adjustedCalories} kcal/day</p>
+          <p><strong>Alvo de proteína:</strong> ${proteinGrams} g/day</p>
+          <p><strong>Carboidratos:</strong> ${carbGrams} g/day</p>
+          <p><strong>Gorduras:</strong> ${fatGrams} g/day</p>
+          <p style="margin-top:10px;">
+          Monte suas refeições priorizando a proteína (30 a 50 g por refeição) e, em seguida,
+      distribua os carboidratos e as gorduras de acordo com seu objetivo.
+          </p>
+        `;
 
         const ctx = document.getElementById("macroChart").getContext("2d");
 
@@ -1326,9 +1326,7 @@ distribua os carboidratos e as gorduras de acordo com seu objetivo.
           </li>
         </summary>
         <blockquote>
-          <hr />
-          <hr />
-
+         
           <h3>Calculadora de TDEE Integrada</h3>
 
           <p>
@@ -1407,7 +1405,7 @@ distribua os carboidratos e as gorduras de acordo com seu objetivo.
 
             <div id="tdeeResult"></div>
           </div>
-          <script>
+          <script defer>
             function calculateTDEE() {
               const sex = document.getElementById("sex").value;
               const age = parseFloat(document.getElementById("age").value);
@@ -1433,15 +1431,15 @@ distribua os carboidratos e as gorduras de acordo com seu objetivo.
               const tdee = Math.round(bmr * activity);
 
               document.getElementById("tdeeResult").innerHTML = `
-    <p><strong>Taxa metabólica basal estimada:</strong> ${Math.round(bmr)} kcal/day</p>
-    <p><strong>Gasto Energético Total Diário Estimado:</strong> ${tdee} kcal/day</p>
-    <p style="margin-top:10px;">
-      Use esse número como base:
-      <br>• Coma aproximadamente isso para manter o peso.
-      <br>• Adicione 250–300 kcal para ganho de massa muscular.
-      <br>• Subtraia 300–400 kcal para perda de gordura magra.
-    </p>
-  `;
+          <p><strong>Taxa metabólica basal estimada:</strong> ${Math.round(bmr)} kcal/day</p>
+          <p><strong>Gasto Energético Total Diário Estimado:</strong> ${tdee} kcal/day</p>
+          <p style="margin-top:10px;">
+            Use esse número como base:
+            <br>• Coma aproximadamente isso para manter o peso.
+            <br>• Adicione 250–300 kcal para ganho de massa muscular.
+            <br>• Subtraia 300–400 kcal para perda de gordura magra.
+          </p>
+        `;
             }
           </script>
           <hr />
