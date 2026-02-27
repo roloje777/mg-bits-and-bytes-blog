@@ -203,12 +203,10 @@ date: 2026-02-27 06:00
         calculator — removing the guesswork whether your goal is muscle gain,
         fat loss, or long-term metabolic health.
       </li>
-       <li>
+      <li>
         <strong>Bonus 4:</strong> A section dedicated to a mother's struggle.
       </li>
-          <li>
-        <strong>Bonus 5:</strong> Protein Guide by Age, Goal & Activity.
-      </li>
+      <li><strong>Bonus 5:</strong> Protein Guide by Age, Goal & Activity.</li>
     </ul>
 
     <p>No extremes. No food fear. No complicated rules.</p>
@@ -1158,264 +1156,152 @@ date: 2026-02-27 06:00
       <canvas id="macroChart" style="margin-top: 20px"></canvas>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/chart.js" defer></script>
-
-    <script defer>
-      let chart;
-
-      function calculatePlan() {
-        const weight = parseFloat(document.getElementById("weight").value);
-        let tdee = parseFloat(document.getElementById("tdee").value);
-        const goal = document.getElementById("goal").value;
-
-        let adjustedCalories = tdee;
-        let proteinPerKg = 1.6;
-
-        if (goal === "gain") {
-          adjustedCalories += 300;
-          proteinPerKg = 1.6;
-        } else if (goal === "loss") {
-          adjustedCalories -= 400;
-          proteinPerKg = 1.8;
-        }
-
-        const proteinGrams = Math.round(weight * proteinPerKg);
-        const proteinCalories = proteinGrams * 4;
-        const remainingCalories = adjustedCalories - proteinCalories;
-
-        const carbCalories = remainingCalories * 0.55;
-        const fatCalories = remainingCalories * 0.45;
-
-        const carbGrams = Math.round(carbCalories / 4);
-        const fatGrams = Math.round(fatCalories / 9);
-
-        document.getElementById("results").innerHTML = `
-    <p><strong>Adjusted Calories:</strong> ${adjustedCalories} kcal/day</p>
-    <p><strong>Protein Target:</strong> ${proteinGrams} g/day</p>
-    <p><strong>Carbohydrates:</strong> ${carbGrams} g/day</p>
-    <p><strong>Fats:</strong> ${fatGrams} g/day</p>
-    <p style="margin-top:10px;">
-      Build your meals by anchoring protein first (30–50g per meal), then
-      distribute carbohydrates and fats based on your goal.
-    </p>
-  `;
-
-        const ctx = document.getElementById("macroChart").getContext("2d");
-
-        if (chart) {
-          chart.destroy();
-        }
-
-        chart = new Chart(ctx, {
-          type: "pie",
-          data: {
-            labels: ["Protein", "Carbohydrates", "Fats"],
-            datasets: [
-              {
-                data: [proteinCalories, carbCalories, fatCalories],
-              },
-            ],
-          },
-          options: {
-            responsive: true,
-            plugins: {
-              legend: {
-                position: "bottom",
-              },
-            },
-          },
-        });
-      }
-    </script>
-
     <hr />
 
     <h3>How to Use This</h3>
 
-    <ul>     
-          <li>
-            <span
-              style="color: rgb(24, 109, 189)"
-              onmouseover="
-                this.style.textDecoration = 'underline';
-                this.style.cursor = 'pointer';
-              "
-              onmouseout="this.style.textDecoration = 'none'"
-              ><strong>Step 1:</strong> Estimate your TDEE (click me for
-              calculator).
-            </span>
-          </li>
-             
+    <ul>
+      <li>
+        <span
+          style="color: rgb(24, 109, 189)"
+          onmouseover="
+            this.style.textDecoration = 'underline';
+            this.style.cursor = 'pointer';
+          "
+          onmouseout="this.style.textDecoration = 'none'"
+          ><strong>Step 1:</strong> Estimate your TDEE (click me for
+          calculator).
+        </span>
+      </li>
 
-          <h3>Embedded TDEE Calculator</h3>
+      <h3>Embedded TDEE Calculator</h3>
 
-          <p>
-            Use this calculator to estimate your Total Daily Energy Expenditure
-            (TDEE). This uses the Mifflin-St Jeor equation, widely accepted for
-            estimating metabolic rate.
-          </p>
+      <p>
+        Use this calculator to estimate your Total Daily Energy Expenditure
+        (TDEE). This uses the Mifflin-St Jeor equation, widely accepted for
+        estimating metabolic rate.
+      </p>
 
-          <div
-            style="
-              max-width: 600px;
-              margin: auto;
-              padding: 20px;
-              border: 1px solid #ddd;
-              border-radius: 10px;
-            "
-          >
-            <label><strong>Sex:</strong></label
-            ><br />
-            <select id="sex" style="width: 100%; padding: 8px">
-              <option value="male">Male</option>
-              <option value="female">Female</option></select
-            ><br /><br />
+      <div
+        style="
+          max-width: 600px;
+          margin: auto;
+          padding: 20px;
+          border: 1px solid #ddd;
+          border-radius: 10px;
+        "
+      >
+        <label><strong>Sex:</strong></label
+        ><br />
+        <select id="sex" style="width: 100%; padding: 8px">
+          <option value="male">Male</option>
+          <option value="female">Female</option></select
+        ><br /><br />
 
-            <label><strong>Age (years):</strong></label
-            ><br />
-            <input
-              type="number"
-              id="age"
-              value="35"
-              style="width: 100%; padding: 8px"
-            /><br /><br />
+        <label><strong>Age (years):</strong></label
+        ><br />
+        <input
+          type="number"
+          id="age"
+          value="35"
+          style="width: 100%; padding: 8px"
+        /><br /><br />
 
-            <label><strong>Weight (kg):</strong></label
-            ><br />
-            <input
-              type="number"
-              id="weightTDEE"
-              value="70"
-              style="width: 100%; padding: 8px"
-            /><br /><br />
+        <label><strong>Weight (kg):</strong></label
+        ><br />
+        <input
+          type="number"
+          id="weightTDEE"
+          value="70"
+          style="width: 100%; padding: 8px"
+        /><br /><br />
 
-            <label><strong>Height (cm):</strong></label
-            ><br />
-            <input
-              type="number"
-              id="height"
-              value="170"
-              style="width: 100%; padding: 8px"
-            /><br /><br />
+        <label><strong>Height (cm):</strong></label
+        ><br />
+        <input
+          type="number"
+          id="height"
+          value="170"
+          style="width: 100%; padding: 8px"
+        /><br /><br />
 
-            <label><strong>Activity Level:</strong></label
-            ><br />
-            <select id="activity" style="width: 100%; padding: 8px">
-              <option value="1.2">Sedentary (little or no exercise)</option>
-              <option value="1.375">Lightly active (1–3 days/week)</option>
-              <option value="1.55">Moderately active (3–5 days/week)</option>
-              <option value="1.725">Very active (6–7 days/week)</option>
-              <option value="1.9">Athlete / Highly active</option></select
-            ><br /><br />
+        <label><strong>Activity Level:</strong></label
+        ><br />
+        <select id="activity" style="width: 100%; padding: 8px">
+          <option value="1.2">Sedentary (little or no exercise)</option>
+          <option value="1.375">Lightly active (1–3 days/week)</option>
+          <option value="1.55">Moderately active (3–5 days/week)</option>
+          <option value="1.725">Very active (6–7 days/week)</option>
+          <option value="1.9">Athlete / Highly active</option></select
+        ><br /><br />
 
-            <button
-              onclick="calculateTDEE()"
-              style="padding: 10px 20px; cursor: pointer"
-            >
-              Calculate TDEE
-            </button>
+        <button
+          onclick="calculateTDEE()"
+          style="padding: 10px 20px; cursor: pointer"
+        >
+          Calculate TDEE
+        </button>
 
-            <hr />
+        <hr />
 
-            <div id="tdeeResult"></div>
-          </div>
+        <div id="tdeeResult"></div>
+      </div>
 
-          <script defer>
-            function calculateTDEE() {
-              const sex = document.getElementById("sex").value;
-              const age = parseFloat(document.getElementById("age").value);
-              const weight = parseFloat(
-                document.getElementById("weightTDEE").value,
-              );
-              const height = parseFloat(
-                document.getElementById("height").value,
-              );
-              const activity = parseFloat(
-                document.getElementById("activity").value,
-              );
+      <hr />
 
-              let bmr;
+      <h4>Important Note on Activity Estimates</h4>
 
-              // Mifflin-St Jeor Equation
-              if (sex === "male") {
-                bmr = 10 * weight + 6.25 * height - 5 * age + 5;
-              } else {
-                bmr = 10 * weight + 6.25 * height - 5 * age - 161;
-              }
+      <p>
+        Many people — and many fitness apps —
+        <strong>overestimate the calories burned during exercise</strong>. This
+        often leads to eating more than intended and not seeing the expected
+        results.
+      </p>
 
-              const tdee = Math.round(bmr * activity);
+      <p>
+        Activity multipliers are estimates, not guarantees. Individual
+        metabolism, movement efficiency, and exercise intensity vary
+        significantly.
+      </p>
 
-              document.getElementById("tdeeResult").innerHTML = `
-    <p><strong>Estimated BMR:</strong> ${Math.round(bmr)} kcal/day</p>
-    <p><strong>Estimated TDEE:</strong> ${tdee} kcal/day</p>
-    <p style="margin-top:10px;">
-      Use this number as your baseline:
-      <br>• Eat around this to maintain weight
-      <br>• Add 250–300 kcal for muscle gain
-      <br>• Subtract 300–400 kcal for lean fat loss
-    </p>
-  `;
-            }
-          </script>
+      <p>A practical way to calibrate your intake:</p>
 
-          <hr />
+      <ul>
+        <li>Weigh yourself once per week under consistent conditions.</li>
+        <li>If weight is stable → your intake matches your true TDEE.</li>
+        <li>
+          If weight increases unexpectedly → reduce calories slightly (100–200
+          kcal).
+        </li>
+        <li>If weight drops too quickly → increase calories modestly.</li>
+      </ul>
 
-          <h4>Important Note on Activity Estimates</h4>
+      <p>
+        Over time, this feedback loop gives you a more accurate understanding of
+        your real caloric needs than any calculator alone.
+      </p>
 
-          <p>
-            Many people — and many fitness apps —
-            <strong>overestimate the calories burned during exercise</strong>.
-            This often leads to eating more than intended and not seeing the
-            expected results.
-          </p>
+      <hr />
 
-          <p>
-            Activity multipliers are estimates, not guarantees. Individual
-            metabolism, movement efficiency, and exercise intensity vary
-            significantly.
-          </p>
+      <h4>How to Apply This</h4>
 
-          <p>A practical way to calibrate your intake:</p>
+      <ul>
+        <li><strong>Step 1:</strong> Calculate your estimated TDEE above.</li>
+        <li>
+          <strong>Step 2:</strong> Anchor protein at 1.2–1.6g per kg (higher
+          during fat loss).
+        </li>
+        <li>
+          <strong>Step 3:</strong> Adjust carbohydrates and fats to hit your
+          calorie target.
+        </li>
+        <li>
+          <strong>Step 4:</strong> Reassess weekly and fine-tune based on actual
+          scale trends.
+        </li>
+      </ul>
 
-          <ul>
-            <li>Weigh yourself once per week under consistent conditions.</li>
-            <li>If weight is stable → your intake matches your true TDEE.</li>
-            <li>
-              If weight increases unexpectedly → reduce calories slightly
-              (100–200 kcal).
-            </li>
-            <li>If weight drops too quickly → increase calories modestly.</li>
-          </ul>
-
-          <p>
-            Over time, this feedback loop gives you a more accurate
-            understanding of your real caloric needs than any calculator alone.
-          </p>
-
-          <hr />
-
-          <h4>How to Apply This</h4>
-
-          <ul>
-            <li>
-              <strong>Step 1:</strong> Calculate your estimated TDEE above.
-            </li>
-            <li>
-              <strong>Step 2:</strong> Anchor protein at 1.2–1.6g per kg (higher
-              during fat loss).
-            </li>
-            <li>
-              <strong>Step 3:</strong> Adjust carbohydrates and fats to hit your
-              calorie target.
-            </li>
-            <li>
-              <strong>Step 4:</strong> Reassess weekly and fine-tune based on
-              actual scale trends.
-            </li>
-          </ul>
-
-          <p>Protein is fixed. Calories are adjusted. Progress is measured.</p>
-      
+      <p>Protein is fixed. Calories are adjusted. Progress is measured.</p>
 
       <li><strong>Step 2:</strong> Select your goal.</li>
       <li><strong>Step 3:</strong> Anchor protein at the recommended level.</li>
@@ -1708,5 +1594,105 @@ date: 2026-02-27 06:00
       not constitute medical advice. Always consult a qualified healthcare
       professional before making dietary or lifestyle changes.
     </p>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js" defer></script>
+    <script defer>
+      let chart;
+
+      function calculatePlan() {
+        const weight = parseFloat(document.getElementById("weight").value);
+        let tdee = parseFloat(document.getElementById("tdee").value);
+        const goal = document.getElementById("goal").value;
+
+        let adjustedCalories = tdee;
+        let proteinPerKg = 1.6;
+
+        if (goal === "gain") {
+          adjustedCalories += 300;
+          proteinPerKg = 1.6;
+        } else if (goal === "loss") {
+          adjustedCalories -= 400;
+          proteinPerKg = 1.8;
+        }
+
+        const proteinGrams = Math.round(weight * proteinPerKg);
+        const proteinCalories = proteinGrams * 4;
+        const remainingCalories = adjustedCalories - proteinCalories;
+
+        const carbCalories = remainingCalories * 0.55;
+        const fatCalories = remainingCalories * 0.45;
+
+        const carbGrams = Math.round(carbCalories / 4);
+        const fatGrams = Math.round(fatCalories / 9);
+
+        document.getElementById("results").innerHTML = `
+    <p><strong>Adjusted Calories:</strong> ${adjustedCalories} kcal/day</p>
+    <p><strong>Protein Target:</strong> ${proteinGrams} g/day</p>
+    <p><strong>Carbohydrates:</strong> ${carbGrams} g/day</p>
+    <p><strong>Fats:</strong> ${fatGrams} g/day</p>
+    <p style="margin-top:10px;">
+      Build your meals by anchoring protein first (30–50g per meal), then
+      distribute carbohydrates and fats based on your goal.
+    </p>
+  `;
+
+        const ctx = document.getElementById("macroChart").getContext("2d");
+
+        if (chart) {
+          chart.destroy();
+        }
+
+        chart = new Chart(ctx, {
+          type: "pie",
+          data: {
+            labels: ["Protein", "Carbohydrates", "Fats"],
+            datasets: [
+              {
+                data: [proteinCalories, carbCalories, fatCalories],
+              },
+            ],
+          },
+          options: {
+            responsive: true,
+            plugins: {
+              legend: {
+                position: "bottom",
+              },
+            },
+          },
+        });
+      }
+    </script>
+    <script defer>
+      function calculateTDEE() {
+        const sex = document.getElementById("sex").value;
+        const age = parseFloat(document.getElementById("age").value);
+        const weight = parseFloat(document.getElementById("weightTDEE").value);
+        const height = parseFloat(document.getElementById("height").value);
+        const activity = parseFloat(document.getElementById("activity").value);
+
+        let bmr;
+
+        // Mifflin-St Jeor Equation
+        if (sex === "male") {
+          bmr = 10 * weight + 6.25 * height - 5 * age + 5;
+        } else {
+          bmr = 10 * weight + 6.25 * height - 5 * age - 161;
+        }
+
+        const tdee = Math.round(bmr * activity);
+
+        document.getElementById("tdeeResult").innerHTML = `
+                <p><strong>Estimated BMR:</strong> ${Math.round(bmr)} kcal/day</p>
+                <p><strong>Estimated TDEE:</strong> ${tdee} kcal/day</p>
+                <p style="margin-top:10px;">
+                  Use this number as your baseline:
+                  <br>• Eat around this to maintain weight
+                  <br>• Add 250–300 kcal for muscle gain
+                  <br>• Subtract 300–400 kcal for lean fat loss
+                </p>
+              `;
+      }
+    </script>
   </body>
 </html>
