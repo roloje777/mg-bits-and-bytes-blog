@@ -1142,7 +1142,7 @@ date: 2026-02-27 06:00
         <option value="loss">Lean Weight Loss (-400 kcal)</option></select
       ><br /><br />
 
-      <button onclick="calculatePlan()" style="padding: 10px 20px; cursor: pointer">Calculate Plan</button>
+      <button id="calculateplan" style="padding: 10px 20px; cursor: pointer">Calculate Plan</button>
 
       <hr />
 
@@ -1571,19 +1571,81 @@ date: 2026-02-27 06:00
       professional before making dietary or lifestyle changes.
     </p>
 
-    <button id="button1">Button 1</button>
+    <!-- <button id="button1">Button 1</button> -->
     <button id="button2">Button 2</button>
 
-    <!-- <script src="https://cdn.jsdelivr.net/npm/chart.js" defer></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js" defer></script>
     <script defer>
       let chart;
 
-      const btn1 = document.getElementById("button1");
+      const btn1 = document.getElementById("calculateplan");
       const btn2 = document.getElementById("button2");
 
       btn1.addEventListener('click', () =>  {
 
         console.log("button 1 clicked()");
+
+        const weight = parseFloat(document.getElementById("weight").value);
+        let tdee = parseFloat(document.getElementById("tdee").value);
+        const goal = document.getElementById("goal").value;
+
+        let adjustedCalories = tdee;
+        let proteinPerKg = 1.6;
+
+        if (goal === "gain") {
+          adjustedCalories += 300;
+          proteinPerKg = 1.6;
+        } else if (goal === "loss") {
+          adjustedCalories -= 400;
+          proteinPerKg = 1.8;
+        }
+
+        const proteinGrams = Math.round(weight * proteinPerKg);
+        const proteinCalories = proteinGrams * 4;
+        const remainingCalories = adjustedCalories - proteinCalories;
+
+        const carbCalories = remainingCalories * 0.55;
+        const fatCalories = remainingCalories * 0.45;
+
+        const carbGrams = Math.round(carbCalories / 4);
+        const fatGrams = Math.round(fatCalories / 9);
+
+        document.getElementById("results").innerHTML = `
+    <p><strong>Adjusted Calories:</strong> ${adjustedCalories} kcal/day</p>
+    <p><strong>Protein Target:</strong> ${proteinGrams} g/day</p>
+    <p><strong>Carbohydrates:</strong> ${carbGrams} g/day</p>
+    <p><strong>Fats:</strong> ${fatGrams} g/day</p>
+    <p style="margin-top:10px;">
+      Build your meals by anchoring protein first (30–50g per meal), then
+      distribute carbohydrates and fats based on your goal.
+    </p>
+  `;
+
+        const ctx = document.getElementById("macroChart").getContext("2d");
+
+        if (chart) {
+          chart.destroy();
+        }
+
+        chart = new Chart(ctx, {
+          type: "pie",
+          data: {
+            labels: ["Protein", "Carbohydrates", "Fats"],
+            datasets: [
+              {
+                data: [proteinCalories, carbCalories, fatCalories],
+              },
+            ],
+          },
+          options: {
+            responsive: true,
+            plugins: {
+              legend: {
+                position: "bottom",
+              },
+            },
+          },
+        });
       });
 
         btn2.addEventListener('click', () =>  {
