@@ -1233,7 +1233,7 @@ date: 2026-02-27 06:00
               <option value="1.9">Athlete / Highly active</option></select
             ><br /><br />
 
-            <button onclick="calculateTDEE()" style="padding: 10px 20px; cursor: pointer" >Calculate TDEE</button>
+            <button id="calcenergy" style="padding: 10px 20px; cursor: pointer" >Calculate TDEE</button>
 
             <hr />
 
@@ -1572,14 +1572,14 @@ date: 2026-02-27 06:00
     </p>
 
     <!-- <button id="button1">Button 1</button> -->
-    <button id="button2">Button 2</button>
+    <!-- <button id="button2">Button 2</button> -->
 
     <script src="https://cdn.jsdelivr.net/npm/chart.js" defer></script>
     <script defer>
       let chart;
 
       const btn1 = document.getElementById("calculateplan");
-      const btn2 = document.getElementById("button2");
+      const btn2 = document.getElementById("calcenergy");
 
       btn1.addEventListener('click', () =>  {
 
@@ -1650,7 +1650,7 @@ date: 2026-02-27 06:00
 
         btn2.addEventListener('click', () =>  {
 
-        console.log("button 2 clicked()");
+        console.log("calcenergy clicked");
       });
 
 
