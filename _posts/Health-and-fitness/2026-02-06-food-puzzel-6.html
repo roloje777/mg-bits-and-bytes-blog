@@ -1586,6 +1586,7 @@ date: 2026-02-27 06:00
       let chart;
 
       function calculatePlan() {
+          console.log("calculatePlan() called");
         const weight = parseFloat(document.getElementById("weight").value);
         let tdee = parseFloat(document.getElementById("tdee").value);
         const goal = document.getElementById("goal").value;
@@ -1668,16 +1669,17 @@ date: 2026-02-27 06:00
 
         const tdee = Math.round(bmr * activity);
 
-        document.getElementById("tdeeResult").innerHTML = `
-                <p><strong>Estimated BMR:</strong> ${Math.round(bmr)} kcal/day</p>
-                <p><strong>Estimated TDEE:</strong> ${tdee} kcal/day</p>
-                <p style="margin-top:10px;">
-                  Use this number as your baseline:
-                  <br>• Eat around this to maintain weight
-                  <br>• Add 250–300 kcal for muscle gain
-                  <br>• Subtract 300–400 kcal for lean fat loss
-                </p>
-              `;
+        // document.getElementById("tdeeResult").innerHTML = `
+        //         <p><strong>Estimated BMR:</strong> ${Math.round(bmr)} kcal/day</p>
+        //         <p><strong>Estimated TDEE:</strong> ${tdee} kcal/day</p>
+        //         <p style="margin-top:10px;">
+        //           Use this number as your baseline:
+        //           <br>• Eat around this to maintain weight
+        //           <br>• Add 250–300 kcal for muscle gain
+        //           <br>• Subtract 300–400 kcal for lean fat loss
+        //         </p>
+        //       `;
+        
       }
     </script>
   
