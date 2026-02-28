@@ -1574,7 +1574,7 @@ date: 2026-02-27 06:00
     <button id="button1">Button 1</button>
     <button id="button2">Button 2</button>
 
-    <script src="https://cdn.jsdelivr.net/npm/chart.js" defer></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/chart.js" defer></script> -->
     <script defer>
       let chart;
 
@@ -1592,89 +1592,89 @@ date: 2026-02-27 06:00
       });
 
 
-      function calculatePlan() {
-          console.log("calculatePlan() called");
-        const weight = parseFloat(document.getElementById("weight").value);
-        let tdee = parseFloat(document.getElementById("tdee").value);
-        const goal = document.getElementById("goal").value;
+  //     function calculatePlan() {
+  //         console.log("calculatePlan() called");
+  //       const weight = parseFloat(document.getElementById("weight").value);
+  //       let tdee = parseFloat(document.getElementById("tdee").value);
+  //       const goal = document.getElementById("goal").value;
 
-        let adjustedCalories = tdee;
-        let proteinPerKg = 1.6;
+  //       let adjustedCalories = tdee;
+  //       let proteinPerKg = 1.6;
 
-        if (goal === "gain") {
-          adjustedCalories += 300;
-          proteinPerKg = 1.6;
-        } else if (goal === "loss") {
-          adjustedCalories -= 400;
-          proteinPerKg = 1.8;
-        }
+  //       if (goal === "gain") {
+  //         adjustedCalories += 300;
+  //         proteinPerKg = 1.6;
+  //       } else if (goal === "loss") {
+  //         adjustedCalories -= 400;
+  //         proteinPerKg = 1.8;
+  //       }
 
-        const proteinGrams = Math.round(weight * proteinPerKg);
-        const proteinCalories = proteinGrams * 4;
-        const remainingCalories = adjustedCalories - proteinCalories;
+  //       const proteinGrams = Math.round(weight * proteinPerKg);
+  //       const proteinCalories = proteinGrams * 4;
+  //       const remainingCalories = adjustedCalories - proteinCalories;
 
-        const carbCalories = remainingCalories * 0.55;
-        const fatCalories = remainingCalories * 0.45;
+  //       const carbCalories = remainingCalories * 0.55;
+  //       const fatCalories = remainingCalories * 0.45;
 
-        const carbGrams = Math.round(carbCalories / 4);
-        const fatGrams = Math.round(fatCalories / 9);
+  //       const carbGrams = Math.round(carbCalories / 4);
+  //       const fatGrams = Math.round(fatCalories / 9);
 
-        document.getElementById("results").innerHTML = `
-    <p><strong>Adjusted Calories:</strong> ${adjustedCalories} kcal/day</p>
-    <p><strong>Protein Target:</strong> ${proteinGrams} g/day</p>
-    <p><strong>Carbohydrates:</strong> ${carbGrams} g/day</p>
-    <p><strong>Fats:</strong> ${fatGrams} g/day</p>
-    <p style="margin-top:10px;">
-      Build your meals by anchoring protein first (30–50g per meal), then
-      distribute carbohydrates and fats based on your goal.
-    </p>
-  `;
+  //       document.getElementById("results").innerHTML = `
+  //   <p><strong>Adjusted Calories:</strong> ${adjustedCalories} kcal/day</p>
+  //   <p><strong>Protein Target:</strong> ${proteinGrams} g/day</p>
+  //   <p><strong>Carbohydrates:</strong> ${carbGrams} g/day</p>
+  //   <p><strong>Fats:</strong> ${fatGrams} g/day</p>
+  //   <p style="margin-top:10px;">
+  //     Build your meals by anchoring protein first (30–50g per meal), then
+  //     distribute carbohydrates and fats based on your goal.
+  //   </p>
+  // `;
 
-        const ctx = document.getElementById("macroChart").getContext("2d");
+  //       const ctx = document.getElementById("macroChart").getContext("2d");
 
-        if (chart) {
-          chart.destroy();
-        }
+  //       if (chart) {
+  //         chart.destroy();
+  //       }
 
-        chart = new Chart(ctx, {
-          type: "pie",
-          data: {
-            labels: ["Protein", "Carbohydrates", "Fats"],
-            datasets: [
-              {
-                data: [proteinCalories, carbCalories, fatCalories],
-              },
-            ],
-          },
-          options: {
-            responsive: true,
-            plugins: {
-              legend: {
-                position: "bottom",
-              },
-            },
-          },
-        });
-      }
+  //       chart = new Chart(ctx, {
+  //         type: "pie",
+  //         data: {
+  //           labels: ["Protein", "Carbohydrates", "Fats"],
+  //           datasets: [
+  //             {
+  //               data: [proteinCalories, carbCalories, fatCalories],
+  //             },
+  //           ],
+  //         },
+  //         options: {
+  //           responsive: true,
+  //           plugins: {
+  //             legend: {
+  //               position: "bottom",
+  //             },
+  //           },
+  //         },
+  //       });
+  //     }
 
-      function calculateTDEE() {
-        console.log("calculateTDEE() called");
-        const sex = document.getElementById("sex").value;
-        const age = parseFloat(document.getElementById("age").value);
-        const weight = parseFloat(document.getElementById("weightTDEE").value);
-        const height = parseFloat(document.getElementById("height").value);
-        const activity = parseFloat(document.getElementById("activity").value);
+  //     function calculateTDEE() {
+  //       console.log("calculateTDEE() called");
+  //       const sex = document.getElementById("sex").value;
+  //       const age = parseFloat(document.getElementById("age").value);
+  //       const weight = parseFloat(document.getElementById("weightTDEE").value);
+  //       const height = parseFloat(document.getElementById("height").value);
+  //       const activity = parseFloat(document.getElementById("activity").value);
 
-        let bmr;
+  //       let bmr;
 
-        // Mifflin-St Jeor Equation
-        if (sex === "male") {
-          bmr = 10 * weight + 6.25 * height - 5 * age + 5;
-        } else {
-          bmr = 10 * weight + 6.25 * height - 5 * age - 161;
-        }
+  //       // Mifflin-St Jeor Equation
+  //       if (sex === "male") {
+  //         bmr = 10 * weight + 6.25 * height - 5 * age + 5;
+  //       } else {
+  //         bmr = 10 * weight + 6.25 * height - 5 * age - 161;
+  //       }
 
-        const tdee = Math.round(bmr * activity);
+  //       const tdee = Math.round(bmr * activity);
 
         // document.getElementById("tdeeResult").innerHTML = `
         //         <p><strong>Estimated BMR:</strong> ${Math.round(bmr)} kcal/day</p>
@@ -1687,7 +1687,7 @@ date: 2026-02-27 06:00
         //         </p>
         //       `;
         
-      }
+      // }
     </script>
   
   </body>
