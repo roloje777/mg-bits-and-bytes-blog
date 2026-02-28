@@ -1237,8 +1237,7 @@ date: 2026-02-27 06:00
 
         <button
           onclick="calculateTDEE()"
-          style="padding: 10px 20px; cursor: pointer"
-        >
+          style="padding: 10px 20px; cursor: pointer" >
           Calculate TDEE
         </button>
 
@@ -1662,8 +1661,12 @@ date: 2026-02-27 06:00
           },
         });
       }
+
+      function calculateTDEE(){
+        console.log("calculateTDEE() called");
+      }
     </script>
-    <script defer>
+    <!-- <script defer>
       function calculateTDEE() {
         console.log("calculateTDEE() called");
       //   const sex = document.getElementById("sex").value;
@@ -1694,6 +1697,6 @@ date: 2026-02-27 06:00
       //           </p>
       //         `;
       }
-    </script>
+    </script> -->
   </body>
 </html>
