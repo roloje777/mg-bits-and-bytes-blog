@@ -1236,7 +1236,7 @@ date: 2026-02-27 06:00
         ><br /><br />
 
         <button
-          onclick="calculateTD()"
+          onclick="calculateTDEE()"
           style="padding: 10px 20px; cursor: pointer"
         >
           Calculate TDEE
@@ -1664,34 +1664,35 @@ date: 2026-02-27 06:00
       }
     </script>
     <script defer>
-      function calculateTD() {
-        const sex = document.getElementById("sex").value;
-        const age = parseFloat(document.getElementById("age").value);
-        const weight = parseFloat(document.getElementById("weightTDEE").value);
-        const height = parseFloat(document.getElementById("height").value);
-        const activity = parseFloat(document.getElementById("activity").value);
+      function calculateTDEE() {
+        console.log("calculateTDEE() called");
+      //   const sex = document.getElementById("sex").value;
+      //   const age = parseFloat(document.getElementById("age").value);
+      //   const weight = parseFloat(document.getElementById("weightTDEE").value);
+      //   const height = parseFloat(document.getElementById("height").value);
+      //   const activity = parseFloat(document.getElementById("activity").value);
 
-        let bmr;
+      //   let bmr;
 
-        // Mifflin-St Jeor Equation
-        if (sex === "male") {
-          bmr = 10 * weight + 6.25 * height - 5 * age + 5;
-        } else {
-          bmr = 10 * weight + 6.25 * height - 5 * age - 161;
-        }
+      //   // Mifflin-St Jeor Equation
+      //   if (sex === "male") {
+      //     bmr = 10 * weight + 6.25 * height - 5 * age + 5;
+      //   } else {
+      //     bmr = 10 * weight + 6.25 * height - 5 * age - 161;
+      //   }
 
-        const tdee = Math.round(bmr * activity);
+      //   const tdee = Math.round(bmr * activity);
 
-        document.getElementById("tdeeResult").innerHTML = `
-                <p><strong>Estimated BMR:</strong> ${Math.round(bmr)} kcal/day</p>
-                <p><strong>Estimated TDEE:</strong> ${tdee} kcal/day</p>
-                <p style="margin-top:10px;">
-                  Use this number as your baseline:
-                  <br>• Eat around this to maintain weight
-                  <br>• Add 250–300 kcal for muscle gain
-                  <br>• Subtract 300–400 kcal for lean fat loss
-                </p>
-              `;
+      //   document.getElementById("tdeeResult").innerHTML = `
+      //           <p><strong>Estimated BMR:</strong> ${Math.round(bmr)} kcal/day</p>
+      //           <p><strong>Estimated TDEE:</strong> ${tdee} kcal/day</p>
+      //           <p style="margin-top:10px;">
+      //             Use this number as your baseline:
+      //             <br>• Eat around this to maintain weight
+      //             <br>• Add 250–300 kcal for muscle gain
+      //             <br>• Subtract 300–400 kcal for lean fat loss
+      //           </p>
+      //         `;
       }
     </script>
   </body>
