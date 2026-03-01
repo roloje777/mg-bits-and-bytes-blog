@@ -43,16 +43,7 @@ date: 2026-02-27 06:00
 # published: false
 ---
 
-<!doctype html>
-<html lang="pt">
-  <head>
-    <meta charset="UTF-8" />
-    <title>
-      Comer a Pirâmide Invertida: Planos de Refeições de Uma Semana para a Vida
-      Real
-    </title>
-  </head>
-  <body>
+
     <img
       style="padding-bottom: 2em"
       src="{{site.baseurl}}/assets/img/posts/upside-down-food-pyramid-6-pt.png"
@@ -1222,12 +1213,9 @@ date: 2026-02-27 06:00
         <option value="loss">Perda de Peso Magra (-400 kcal)</option></select
       ><br /><br />
 
-      <button
-        onclick="calculatePlan()"
-        style="padding: 10px 20px; cursor: pointer"
-      >
-        Calcular Plano
-      </button>
+    <button id="calculateplan" style="padding: 10px 20px; cursor: pointer">
+    Calcular Plano
+  </button>
 
       <hr />
 
@@ -1326,12 +1314,9 @@ date: 2026-02-27 06:00
               <option value="1.9">Atleta / Altamente ativo</option></select
             ><br /><br />
 
-            <button
-              onclick="calculateTDEE()"
-              style="padding: 10px 20px; cursor: pointer"
-            >
-              Calcular TDEE
-            </button>
+            <button id="calcenergy" style="padding: 10px 20px; cursor: pointer">
+          Calcule o TDEE
+        </button>
 
             <hr />
 
@@ -1711,103 +1696,4 @@ date: 2026-02-27 06:00
     </p>
 
       <script src="https://cdn.jsdelivr.net/npm/chart.js" defer></script>
-    <script defer>
-      let chart;
-
-      function calculatePlan() {
-        const weight = parseFloat(document.getElementById("weight").value);
-        let tdee = parseFloat(document.getElementById("tdee").value);
-        const goal = document.getElementById("goal").value;
-
-        let adjustedCalories = tdee;
-        let proteinPerKg = 1.6;
-
-        if (goal === "gain") {
-          adjustedCalories += 300;
-          proteinPerKg = 1.6;
-        } else if (goal === "loss") {
-          adjustedCalories -= 400;
-          proteinPerKg = 1.8;
-        }
-
-        const proteinGrams = Math.round(weight * proteinPerKg);
-        const proteinCalories = proteinGrams * 4;
-        const remainingCalories = adjustedCalories - proteinCalories;
-
-        const carbCalories = remainingCalories * 0.55;
-        const fatCalories = remainingCalories * 0.45;
-
-        const carbGrams = Math.round(carbCalories / 4);
-        const fatGrams = Math.round(fatCalories / 9);
-
-        document.getElementById("results").innerHTML = `
-    <p><strong>Calorias ajustadas:</strong> ${adjustedCalories} kcal/day</p>
-    <p><strong>Alvo de proteína:</strong> ${proteinGrams} g/day</p>
-    <p><strong>Carboidratos:</strong> ${carbGrams} g/day</p>
-    <p><strong>Gorduras:</strong> ${fatGrams} g/day</p>
-    <p style="margin-top:10px;">
-      Monte suas refeições priorizando a proteína (30 a 50 g por refeição) e, em seguida,
-distribua os carboidratos e as gorduras de acordo com seu objetivo.
-    </p>
-  `;
-
-        const ctx = document.getElementById("macroChart").getContext("2d");
-
-        if (chart) {
-          chart.destroy();
-        }
-
-        chart = new Chart(ctx, {
-          type: "pie",
-          data: {
-            labels: ["Protein", "Carbohydrates", "Fats"],
-            datasets: [
-              {
-                data: [proteinCalories, carbCalories, fatCalories],
-              },
-            ],
-          },
-          options: {
-            responsive: true,
-            plugins: {
-              legend: {
-                position: "bottom",
-              },
-            },
-          },
-        });
-      }
-
-      function calculateTDEE() {
-        console.log("calculateTDEE() called");
-        const sex = document.getElementById("sex").value;
-        const age = parseFloat(document.getElementById("age").value);
-        const weight = parseFloat(document.getElementById("weightTDEE").value);
-        const height = parseFloat(document.getElementById("height").value);
-        const activity = parseFloat(document.getElementById("activity").value);
-
-        let bmr;
-
-        // Mifflin-St Jeor Equation
-        if (sex === "male") {
-          bmr = 10 * weight + 6.25 * height - 5 * age + 5;
-        } else {
-          bmr = 10 * weight + 6.25 * height - 5 * age - 161;
-        }
-
-        const tdee = Math.round(bmr * activity);
-
-        document.getElementById("tdeeResult").innerHTML = `
-                <p><strong>Taxa metabólica basal estimada:</strong> ${Math.round(bmr)} kcal/day</p>
-                <p><strong>Gasto Energético Total Diário Estimado:</strong> ${tdee} kcal/day</p>
-                <p style="margin-top:10px;">
-                  Use esse número como base:
-                  <br>• Coma aproximadamente isso para manter o peso.
-                  <br>• Adicione 250–300 kcal para ganho de massa muscular.
-                  <br>• Subtraia 300–400 kcal para perda de gordura magra.
-                </p>
-              `;
-      }
-    </script>
-  </body>
-</html>
+ <script src="{{ site.baseurl }}/assets/js/tdee_pt.js" defer></script>
