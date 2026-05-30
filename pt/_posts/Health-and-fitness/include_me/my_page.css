@@ -65,6 +65,9 @@ vertical-text {
 
   font-family: cursive;
 }
+.vertical p{
+  color: #bbbbbb;
+}
 /* frames text in middle of page */
 framed-text {
   display: block;
