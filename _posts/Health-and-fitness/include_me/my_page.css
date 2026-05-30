@@ -105,3 +105,78 @@ unframed-text {
   margin: 1em;
   /*border:solid 1px; */
 }
+
+
+/* Dialogue blocks */
+.dialogue {
+    margin: 1.8rem 0;
+    padding: 1rem 1.2rem;
+    border-left: 4px solid var(--accent-color, #888);
+    background: rgba(127, 127, 127, 0.08);
+    border-radius: 0.6rem;
+    font-style: italic;
+    line-height: 1.7;
+    transition: background 0.3s ease, border-color 0.3s ease;
+}
+
+/* Speaker name */
+.dialogue .speaker {
+    font-weight: 700;
+    font-style: normal;
+    margin-right: 0.35rem;
+    color: inherit;
+    opacity: 0.9;
+}
+
+/* Optional hover effect */
+.dialogue:hover {
+    background: rgba(127, 127, 127, 0.12);
+}
+
+/* Dark mode refinement */
+@media (prefers-color-scheme: dark) {
+    .dialogue {
+        background: rgba(255, 255, 255, 0.05);
+        border-left-color: rgba(255, 255, 255, 0.25);
+    }
+
+    .dialogue:hover {
+        background: rgba(255, 255, 255, 0.08);
+    }
+}
+
+/* Checkmark list */
+.checkmark-list {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.checkmark-list li {
+    position: relative;
+    padding-left: 2rem;
+    margin-bottom: 0.7rem;
+    line-height: 1.7;
+}
+
+/* Checkmark icon */
+.checkmark-list li::before {
+    content: "✔";
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-weight: bold;
+    opacity: 0.85;
+    color: var(--accent-color, #4caf50);
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+    .checkmark-list li::before {
+        color: #81c784;
+    }
+}
+
+
+
+
